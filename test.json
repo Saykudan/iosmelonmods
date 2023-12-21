@@ -1,32 +1,18 @@
 [
-
-
-
-
-
-
-
-
-
-
-
-
-
-  {
+{
     "id": 22,
     "fileTypes": "YUJI vs MAHITO",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/YUJI_MAHITO/Mahito_heavly_injured.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/YUJI_MAHITO/Mahitodf.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/YUJI_MAHITO/Mahitodf.melsave",
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/YUJI_MAHITO/Yuji_itadori(torn_cheek).melmod",
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/YUJI_MAHITO/yujiv.melsave"
     ],
     "tag": "Anime",
-	"tagOrder": 3,
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/YUJI_MAHITO/YUJIvsMAHITO.png?raw=true"
   },
-
   {
     "id": 21,
     "fileTypes": "Toji Fushiguro",
@@ -35,13 +21,10 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/TojiFushiguro/Toji_Fushiguro.melmod"
     ],
     "tag": "Anime",
-	"tagOrder": 3,
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/TojiFushiguro/Toji_Fushiguro.png?raw=true"
   },
-
-
-
   {
     "id": 20,
     "fileTypes": "Satoru Gojo Vs Toji",
@@ -50,12 +33,10 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/TojiFushiguro/Toji_Fushiguro.melmod"
     ],
     "tag": "Anime",
-	"tagOrder": 3,
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/TojiFushiguro/Toji_Fushiguro.png?raw=true"
   },
-
-
   {
     "id": 19,
     "fileTypes": "Satoru Gojo Vs Toji",
@@ -67,11 +48,10 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/SatoruGojoToji/Gojo_Hair_Up.melmod"
     ],
     "tag": "Anime",
-	"tagOrder": 3,
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/SatoruGojoToji/SatoruGojotoji.png?raw=true"
   },
-
   {
     "id": 18,
     "fileTypes": "Megumi, Gojo, Nobara",
@@ -84,29 +64,23 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Megumi_Nobara_Gojo/Reversal_Red.melmod"
     ],
     "tag": "Anime",
-	"tagOrder": 3,
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Megumi_Nobara_Gojo/Megumi_Nobara_Gojo.jpg?raw=true"
   },
-  {
+    {
     "id": 17,
     "fileTypes": "Itadori & Sukuna",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Megumi_Nobara_Gojo/Gojo_Satoru.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Megumi_Nobara_Gojo/Gojo_Satoru_SixEyes.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Megumi_Nobara_Gojo/Kugisaki_Nobara.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Megumi_Nobara_Gojo/Megumi_Fushiguro.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Megumi_Nobara_Gojo/Nobaras_Hammer.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Megumi_Nobara_Gojo/Reversal_Red.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Itadori_Sukuna2/Ryomen_Sukuna.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Itadori_Sukuna2/Yuji_Itadori.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Itadori_Sukuna2/Yuji_Boundless_Cursed_Energy.melmod"
     ],
     "tag": "Anime",
-	"tagOrder": 3,
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Megumi_Nobara_Gojo/Megumi_Nobara_Gojo.jpg?raw=true"
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Itadori_Sukuna2/Itadori_Sukuna2.jpg?raw=true"
   },
-
-
-
   {
     "id": 16,
     "fileTypes": "Itadori & Sukuna",
