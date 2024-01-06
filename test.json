@@ -4,7 +4,7 @@
   
   {
     "id": 48,
-    "fileTypes": "Skibidi Toilet Mod Pack 10",
+    "fileTypes": "Skibidi Toilet Mod Pack 11",
     "resources": [
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/FlyingSpeakerUpgrade.melmod",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/RedClaw.melmod",
@@ -18,7 +18,7 @@
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/SkibidiToilet.melmod",	  
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/SkibidiToilet1.melmod",	  
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/SpeakerUpgrade2.melmod",	  
-	  "https://github.com/Saykudan/iosmelonmods/blob/main/Skibidi/SkibidiToiletModPack10/TitanCameraman.melsave",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack10/TitanCameraman.melsave",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/Spike.melmod",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/TJetpack.melmod",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack11/TitanTvMan.melmod",
@@ -271,7 +271,7 @@
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack2/Toilet.melmod",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack2/ToiletGMan.melmod",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack2/Toiletfast.melmod",
-	  "https://github.com/Saykudan/iosmelonmods/blob/main/Skibidi/SkibidiToiletModPack2/corruptedlCMan.melsave",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack2/corruptedlCMan.melsave",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Skibidi/SkibidiToiletModPack2/skibiditoilet2.melmod"
   ],
     "tag": "Toilet",
@@ -360,7 +360,7 @@
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Weapons/firearms_pack/Sniper_rifle.melmod",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Weapons/firearms_pack/Stunner.melmod",
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Weapons/firearms_pack/Submachine_gun.melmod",
-	  "https://github.com/Saykudan/iosmelonmods/blob/main/Weapons/firearms_pack/Submachine_gun_G1.melmod"
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Weapons/firearms_pack/Submachine_gun_G1.melmod"
     ],
     "tag": "Weapons",
     "tagOrder": 4,
