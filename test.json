@@ -1,7 +1,155 @@
  [
- 
-              { 
-    "id": 62,
+  {
+    "id": 73,
+    "fileTypes": "INTO THE SPIDER VERSE Big Pack",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Burger.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Cellphone(Back).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Cellphone(Front).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Cellphone(Side_View).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Cup.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Miles_Morales((White_TShirt_with_Hoodie).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Miles_Morales(SpideySuit_with_Hoodie).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Miles_Morales(Spidey_Suit).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Miles_Morales(Spidey_Suit_Fully_Unmasked).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Miles_Morales(Spidey_Suit_Unmasked).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Miles_Morales(with_Hoodie).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Miles_Morales(with_Hoodie_On).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peni_Parker.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/PeterB_Parker(Fully_Unmasked_Smiling).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker(Bruised_Broken_Suit).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker(with_Glasses).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker(with_Sweatpants).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker(with_Trenchcoat).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker_(Fully_Unmasked_Serious).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker_(Topless).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_B_Parker_(Unmasked).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_Parker(Battle_Damaged).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_Parker(Unmasked_Battle_Damaged).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Peter_Parker.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Pizza.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Soda.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Spider_Ham(Wet_Hands).melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Spider_Ham_Hammer.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Spider_Man_2099.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/INTO_THE_SPIDER_VERSE/Spider_Noir.melmod"
+  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Skibidi/SkibidiToiletModPack2/SkibidiToiletModPack2.png?raw=true"
+  },
+  {
+    "id": 72,
+    "fileTypes": "Iron Man NanoSuit",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/IronMan_NanoSuit/Iron_Man_Nano_suit.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/IronMan_NanoSuit/nano_tech_Booster.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/IronMan_NanoSuit/IronMan_NanoSuit.png?raw=true"
+  },
+  {
+    "id": 71,
+    "fileTypes": "Mysterio Mod",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/Mysterio/Mysterio.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/Mysterio/Mysterio.png?raw=true"
+  },
+  {
+    "id": 70,
+    "fileTypes": "Huld Mod",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/hulk/hulk.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/hulk/hulk.png?raw=true"
+  },
+  {
+    "id": 69,
+    "fileTypes": "Iron Man Mark 37 HAMMERHEAD",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/IronManMark37HAMMERHEAD/IM_Mark_37.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/IronManMark37HAMMERHEAD/IronManMark37HAMMERHEAD.png?raw=true"
+  },
+  {
+    "id": 68,
+    "fileTypes": "Green Goblin Vs Spiderman",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/GreenGoblinVsSpiderman/Green_Goblin.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/GreenGoblinVsSpiderman/Green_Goblin_Glider.melsave"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/GreenGoblinVsSpiderman/GreenGoblinVsSpiderman.png?raw=true"
+  },
+  {
+    "id": 67,
+    "fileTypes": "Detailed Classic Wolverine",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/DetailedClassicWolverine/Classic_Wolverine.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/DetailedClassicWolverine/DetailedClassicWolverine.png?raw=true"
+  },
+  {
+    "id": 66,
+    "fileTypes": "Ben 10 + Heat Blast",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/DETAILEDIronManMark85/Ironman_Ho.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/DETAILEDIronManMark85/Ironman_Mark_85.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/DETAILEDIronManMark85/DETAILEDIronManMark85.png?raw=true"
+  },
+  {
+    "id": 65,
+    "fileTypes": "Ben 10 + Heat Blast",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/Ben10_heatblast/Ben_10_Reboot.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/Ben10_heatblast/Heat_Blast.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/Ben10_heatblast/Ben10_GianGames.png?raw=true"
+  },
+  {
+    "id": 64,
+    "fileTypes": "Andy vs Omni-Man! Undead Unluck",
+    "resources": [
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/AndyvsOmniMan_UndeadUnluck/Blood_1.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/AndyvsOmniMan_UndeadUnluck/Blood_2.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/AndyvsOmniMan_UndeadUnluck/Parts_bullet.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/AndyvsOmniMan_UndeadUnluck/andy_undead.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/AndyvsOmniMan_UndeadUnluck/parts_bullet_finger.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Superheroes/AndyvsOmniMan_UndeadUnluck/Unbreakable.melmod"
+	  ],
+    "tag": "Superheroes",
+	"tagOrder": 2,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Superheroes/AndyvsOmniMan_UndeadUnluck/AndyvsOmniMan_UndeadUnluck.png?raw=true"
+  },
+  {
+    "id": 63,
     "fileTypes": "Golden Bushido",
     "resources": [
 	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/NPC/golden_Bushido/golden_Bushido.melmod"
