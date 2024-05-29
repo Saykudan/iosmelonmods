@@ -2,7 +2,7 @@
     "selectedIdToShow": 2,
     "selectedIdVisibility": 1,
     "showBanner": true,
-    "showSelectedNews": true,  // New flag to control visibility of newsSelectedID
+    "showSelectedNews": true,  
     "newsItems": [
         {
             "id": 1,
