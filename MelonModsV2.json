@@ -1,9 +1,9 @@
  [
  
   {
-    "id": 1,
+    "id": 2,
     "fileTypes": "Son Goku",
-	"author": "Sekai 2";
+	"author": "Sekai 2",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/GokuDbz/Kamehameha.melmod",
       "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/GokuDbz/gokuHandsopen.melmod",
@@ -20,7 +20,7 @@
   {
     "id": 1,
     "fileTypes": "AVDOL & Magicians Red",
-	"author": "Sekai";
+	"author": "Sekai",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Avdolmodpack/Redbind.melmod",
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Avdolmodpack/Magiciansred.melmod",
