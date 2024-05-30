@@ -1,0 +1,35 @@
+ [
+ 
+  {
+    "id": 1,
+    "fileTypes": "Son Goku",
+	"author": "Sekai 2";
+    "resources": [
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/GokuDbz/Kamehameha.melmod",
+      "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/GokuDbz/gokuHandsopen.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/GokuDbz/goku.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/GokuDbz/gokuSs1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/GokuDbz/gokuSsg.melmod"
+    ],
+    "tag": "Anime",
+	"tagOrder": 1,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/GokuDbz/GokuDbz.png?raw=true"
+  },
+  
+  {
+    "id": 1,
+    "fileTypes": "AVDOL & Magicians Red",
+	"author": "Sekai";
+    "resources": [
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Avdolmodpack/Redbind.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Avdolmodpack/Magiciansred.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Avdolmodpack/Avdol.melmod"
+    ],
+    "tag": "Anime",
+	"tagOrder": 1,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Avdolmodpack/Avdolmodpack.png?raw=true"
+  }
+
+]
