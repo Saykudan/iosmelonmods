@@ -1,7 +1,7 @@
 {
     "selectedIdToShow": 2,
     "showBanner": false,
-    "showSelectedNews": false,
+    "showSelectedNews": true,
     "newsItems": [
         {
             "id": 1,
