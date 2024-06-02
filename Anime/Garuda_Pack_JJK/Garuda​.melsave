@@ -1,0 +1,1716 @@
+{
+  "icon": [
+    137,
+    80,
+    78,
+    71,
+    13,
+    10,
+    26,
+    10,
+    0,
+    0,
+    0,
+    13,
+    73,
+    72,
+    68,
+    82,
+    0,
+    0,
+    0,
+    64,
+    0,
+    0,
+    0,
+    64,
+    8,
+    6,
+    0,
+    0,
+    0,
+    170,
+    105,
+    113,
+    222,
+    0,
+    0,
+    1,
+    229,
+    73,
+    68,
+    65,
+    84,
+    120,
+    1,
+    237,
+    150,
+    61,
+    79,
+    2,
+    65,
+    16,
+    134,
+    135,
+    203,
+    65,
+    136,
+    161,
+    149,
+    191,
+    96,
+    65,
+    140,
+    21,
+    9,
+    13,
+    189,
+    165,
+    13,
+    177,
+    85,
+    35,
+    72,
+    98,
+    99,
+    140,
+    212,
+    106,
+    233,
+    71,
+    79,
+    80,
+    12,
+    54,
+    154,
+    16,
+    44,
+    44,
+    173,
+    44,
+    36,
+    145,
+    88,
+    26,
+    181,
+    50,
+    254,
+    11,
+    10,
+    130,
+    167,
+    235,
+    238,
+    69,
+    14,
+    184,
+    219,
+    61,
+    24,
+    66,
+    8,
+    197,
+    187,
+    9,
+    217,
+    185,
+    217,
+    119,
+    223,
+    153,
+    125,
+    238,
+    35,
+    16,
+    97,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    204,
+    130,
+    64,
+    173,
+    254,
+    44,
+    184,
+    117,
+    108,
+    219,
+    102,
+    239,
+    225,
+    214,
+    48,
+    234,
+    171,
+    55,
+    79,
+    198,
+    226,
+    19,
+    54,
+    198,
+    246,
+    203,
+    239,
+    30,
+    27,
+    247,
+    24,
+    27,
+    159,
+    230,
+    194,
+    213,
+    109,
+    83,
+    219,
+    128,
+    41,
+    175,
+    106,
+    135,
+    173,
+    153,
+    122,
+    11,
+    217,
+    163,
+    173,
+    111,
+    242,
+    153,
+    74,
+    62,
+    145,
+    72,
+    136,
+    183,
+    143,
+    7,
+    161,
+    230,
+    127,
+    195,
+    222,
+    60,
+    232,
+    175,
+    203,
+    185,
+    235,
+    33,
+    135,
+    25,
+    220,
+    239,
+    143,
+    141,
+    126,
+    126,
+    161,
+    234,
+    205,
+    159,
+    27,
+    231,
+    58,
+    50,
+    142,
+    200,
+    175,
+    249,
+    252,
+    122,
+    20,
+    157,
+    78,
+    151,
+    90,
+    173,
+    119,
+    106,
+    52,
+    238,
+    41,
+    151,
+    91,
+    243,
+    75,
+    72,
+    8,
+    65,
+    145,
+    200,
+    176,
+    189,
+    210,
+    170,
+    161,
+    211,
+    7,
+    12,
+    124,
+    137,
+    76,
+    38,
+    69,
+    209,
+    168,
+    77,
+    205,
+    230,
+    43,
+    197,
+    227,
+    113,
+    74,
+    167,
+    151,
+    60,
+    133,
+    227,
+    252,
+    120,
+    241,
+    114,
+    106,
+    117,
+    184,
+    168,
+    183,
+    162,
+    15,
+    88,
+    98,
+    117,
+    247,
+    91,
+    47,
+    119,
+    238,
+    193,
+    247,
+    247,
+    142,
+    168,
+    221,
+    110,
+    187,
+    174,
+    23,
+    213,
+    115,
+    119,
+    46,
+    108,
+    31,
+    144,
+    138,
+    229,
+    220,
+    181,
+    44,
+    43,
+    86,
+    174,
+    156,
+    120,
+    16,
+    118,
+    242,
+    165,
+    110,
+    229,
+    242,
+    44,
+    166,
+    132,
+    131,
+    58,
+    121,
+    105,
+    201,
+    111,
+    135,
+    237,
+    56,
+    78,
+    71,
+    198,
+    191,
+    242,
+    183,
+    208,
+    243,
+    203,
+    102,
+    87,
+    220,
+    3,
+    203,
+    28,
+    93,
+    215,
+    234,
+    180,
+    177,
+    185,
+    78,
+    197,
+    66,
+    137,
+    202,
+    149,
+    83,
+    215,
+    87,
+    7,
+    89,
+    146,
+    167,
+    66,
+    190,
+    196,
+    58,
+    151,
+    242,
+    103,
+    15,
+    221,
+    135,
+    104,
+    171,
+    120,
+    216,
+    191,
+    21,
+    65,
+    71,
+    246,
+    35,
+    58,
+    194,
+    47,
+    88,
+    65,
+    159,
+    81,
+    117,
+    217,
+    181,
+    245,
+    86,
+    253,
+    172,
+    214,
+    112,
+    196,
+    123,
+    174,
+    221,
+    211,
+    183,
+    12,
+    70,
+    33,
+    126,
+    108,
+    175,
+    160,
+    251,
+    156,
+    100,
+    146,
+    201,
+    197,
+    111,
+    110,
+    43,
+    186,
+    167,
+    143,
+    235,
+    49,
+    79,
+    122,
+    246,
+    221,
+    156,
+    240,
+    255,
+    198,
+    60,
+    157,
+    25,
+    189,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    192,
+    172,
+    9,
+    252,
+    1,
+    83,
+    181,
+    140,
+    17,
+    234,
+    59,
+    222,
+    65,
+    0,
+    0,
+    0,
+    0,
+    73,
+    69,
+    78,
+    68,
+    174,
+    66,
+    96,
+    130
+  ],
+  "versionId": 3,
+  "mapName": "Default",
+  "iconSize": {
+    "x": 64.0,
+    "y": 64.0
+  },
+  "saveObjectContainers": [
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417688,
+        "modedObjectId": "Garuda Body 22024527161626269",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.5464935302734375,
+          "y": -0.0036557912826538086,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.12064170837402344,
+              "y": 0.013536810874938965,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.12064170837402344,
+              "y": 0.013536810874938965,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 0,
+            "endObjectId": 1
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417586,
+        "modedObjectId": "Garuda Body2024527161726504",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.70768260955810547,
+          "y": -0.0084439516067504883,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 6,
+            "startPoint": {
+              "x": 0.096792221069335938,
+              "y": 0.026748776435852051,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.17251205444335938,
+              "y": 0.032212615013122559,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 2
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417718,
+        "modedObjectId": "Garuda Head2024527152432871",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 1.0178728103637695,
+          "y": 0.0082781314849853516,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417654,
+        "modedObjectId": "Garuda Body2024527161726504",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.24462127685546875,
+          "y": -0.0011368989944458008,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417620,
+        "modedObjectId": "Garuda Body2024527161726504",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.39531040191650391,
+          "y": -0.0017892122268676758,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.12244319915771484,
+              "y": 0.0032013654708862305,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.12244319915771484,
+              "y": 0.0032013654708862305,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 4,
+            "endObjectId": 0
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417552,
+        "modedObjectId": "Garuda Body2024527161726504",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.56844520568847656,
+          "y": -0.0012842416763305664,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.028165817260742188,
+              "y": 0.0019892454147338867,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.028165817260742188,
+              "y": 0.0019892454147338867,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 5,
+            "endObjectId": 10
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.12358951568603516,
+              "y": -0.0044791698455810547,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.12358951568603516,
+              "y": -0.0044791698455810547,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 5,
+            "endObjectId": 11
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417518,
+        "modedObjectId": "Garuda Body2024527161726504",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.082826614379882813,
+          "y": 0.0028182268142700195,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.10076618194580078,
+              "y": 0.0055736303329467773,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.10076618194580078,
+              "y": 0.0055736303329467773,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 6,
+            "endObjectId": 9
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417416,
+        "modedObjectId": "Garuda Tail202452716181278",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.96629619598388672,
+          "y": 0.0048414468765258789,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417778,
+        "modedObjectId": "Garuda Body 22024527161626269",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.086630821228027344,
+          "y": 0.0024639368057250977,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.039714813232421875,
+              "y": 0.015058755874633789,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.039714813232421875,
+              "y": 0.015058755874633789,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 8,
+            "endObjectId": 3
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.12328720092773438,
+              "y": 0.0072966814041137695,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.12328720092773438,
+              "y": 0.0072966814041137695,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 8,
+            "endObjectId": 6
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417748,
+        "modedObjectId": "Garuda Body 22024527161626269",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.24212932586669922,
+          "y": 0.0019891262054443359,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.096515655517578125,
+              "y": -0.0072410106658935547,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.096515655517578125,
+              "y": -0.0072410106658935547,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 9,
+            "endObjectId": 4
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417458,
+        "modedObjectId": "Garuda Body 22024527161626269",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.72130012512207031,
+          "y": -0.0012842416763305664,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.032298088073730469,
+              "y": 0.0032829046249389648,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.032298088073730469,
+              "y": 0.0032829046249389648,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 10,
+            "endObjectId": 7
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -417488,
+        "modedObjectId": "Garuda Body 22024527161626269",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.40502643585205078,
+          "y": -0.0027958154678344727,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.12317276000976563,
+              "y": 0.0047944784164428711,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.12317276000976563,
+              "y": 0.0047944784164428711,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 11,
+            "endObjectId": 3
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    }
+  ],
+  "averagePosition": {
+    "x": 10.296687126159668,
+    "y": 1.2764252424240112,
+    "z": 0.0
+  },
+  "metadata": {
+    "ManifestId": "",
+    "Name": ""
+  }
+}
