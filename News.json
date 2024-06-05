@@ -1,9 +1,8 @@
-
 {
     "selectedIdToShow": 1,
     "showBanner": false,
     "showSelectedNews": false,
-    "newsItems": [,
+    "newsItems": [
         {
            "id": 1,
            "title": "Upcoming Contest",
