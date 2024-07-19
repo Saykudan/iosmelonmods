@@ -1,0 +1,15 @@
+{
+    "selectedIdToShow": 1,
+    "showBanner": false,
+    "showSelectedNews": false,
+    "newsItems": [
+        {
+           "id": 1,
+           "title": "Upcoming Contest",
+           "description": "Stay tuned for our upcoming contest announcement. Exciting opportunities await!!",
+           "buttonType": 0,
+           "showDetails": false,
+           "date": "2023-12-26"
+        }
+    ]
+}
