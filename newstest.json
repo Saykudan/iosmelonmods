@@ -1,6 +1,6 @@
 {
     "selectedIdToShow": 1,
-    "showBanner": false,
+    "showBanner": true,
     "showSelectedNews": false,
     "newsItems": [
         {
@@ -10,6 +10,22 @@
            "buttonType": 0,
            "showDetails": false,
            "date": "2023-12-26"
+        },
+        {
+           "id": 2,
+           "title": "New Features Released",
+           "description": "We have released new features to enhance your experience. Check them out now!",
+           "buttonType": 1,
+           "showDetails": false,
+           "date": "2023-12-26"
+        },
+        {
+           "id": 3,
+           "title": "Maintenance Notice",
+           "description": "Scheduled maintenance will occur on January 5th. Please plan accordingly.",
+           "buttonType": 0,
+           "showDetails": false,
+           "date": "2024-01-01"
         }
     ]
 }
