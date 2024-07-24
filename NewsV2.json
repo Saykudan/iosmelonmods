@@ -25,7 +25,11 @@
                 },
                 {
                     "subTitle": "Step 3",
-                    "content": "Write a positive review on the App Store and include your nickname."
+                    "content": "Submit a mod of your choice through our in-app submission form."
+                },
+                {
+                    "subTitle": "Bonus",
+                    "content": "If you enjoy our app, consider leaving a review on the App Store. Your feedback helps us improve and reach more users!"
                 },
                 {
                     "subTitle": "Draw Date",
@@ -37,6 +41,5 @@
                 }
             ]
         }
-
     ]
 }
