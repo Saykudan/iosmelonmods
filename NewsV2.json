@@ -1,5 +1,5 @@
 {
-    "selectedIdToShow": 1,
+    "selectedIdToShow": 2,
     "showBanner": true,
     "showSelectedNews": false,
     "newsItems": [
@@ -36,7 +36,20 @@
                     "content": "Winners will be announced in the app on August 23rd."
                 }
             ]
+        },
+        {
+            "id": 2,
+            "title": "Contest Ended",
+            "description": "Thank you to everyone who participated in our Summer Giveaway contest! The contest has officially ended, and we're excited to review all the entries. Stay tuned as we'll be announcing the winners in just 3 days!",
+            "buttonType": 0,
+            "showDetails": false,
+            "date": "2024-08-20",
+            "paragraphs": [
+                {
+                    "subTitle": "",
+                    "content": "We'll be selecting the lucky winners and sharing the results here. Make sure to check back on August 23rd to see if you've won. Good luck to all participants!"
+                }
+            ]
         }
-
     ]
 }
