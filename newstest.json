@@ -74,7 +74,7 @@
             "title": "Contest Winners Announcement",
             "description": "We are excited to announce the winners of our recent contest. Congratulations to all the winners!",
             "buttonType": 0,
-            "showDetails": false,
+            "showDetails": true,
             "date": "2024-01-02",
             "paragraphs": [
                 {
