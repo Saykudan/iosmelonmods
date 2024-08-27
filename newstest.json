@@ -68,6 +68,136 @@
                     "content": "We will be performing scheduled maintenance on January 5th from 2 AM to 4 AM. During this time, the app may be unavailable."
                 }
             ]
+        },
+
+
+Here’s the updated JSON with the contest winners announcement added:
+
+json
+
+{
+    "selectedIdToShow": 1,
+    "showBanner": true,
+    "showSelectedNews": false,
+    "newsItems": [
+        {
+            "id": 1,
+            "title": "Upcoming Contest",
+            "description": "Stay tuned for our upcoming contest announcement. Exciting opportunities await!!",
+            "buttonType": 0,
+            "showDetails": false,
+            "date": "2023-12-26",
+            "paragraphs": [
+                {
+                    "subTitle": "Get Ready",
+                    "content": "We are excited to announce our upcoming contest where you can showcase your talents and win amazing prizes."
+                },
+                {
+                    "subTitle": "How to Participate",
+                    "content": "Stay tuned for more details on how you can participate and make the most out of this opportunity."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Summer Giveaway Started",
+            "description": "Hello everyone! Thank you for continuously using our Melon Mods application. We truly appreciate each one of you and are thrilled to launch our first Giveaway contest.",
+            "buttonType": 1,
+            "showDetails": false,
+            "date": "2023-12-26",
+            "paragraphs": [
+                {
+                    "subTitle": "How to Enter",
+                    "content": "For a chance to win a yearly or monthly subscription, follow the instructions below."
+                },
+                {
+                    "subTitle": "Step 1",
+                    "content": "Ensure you are using the latest version of our app."
+                },
+                {
+                    "subTitle": "Step 2",
+                    "content": "Turn on notifications in the app settings to stay updated."
+                },
+                {
+                    "subTitle": "Step 3",
+                    "content": "Write a positive review on the App Store and include your nickname."
+                },
+                {
+                    "subTitle": "Draw Date",
+                    "content": "The giveaway will run from July 20th to August 20th."
+                },
+                {
+                    "subTitle": "Winner Announcement",
+                    "content": "Winners will be announced in the app on August 23rd."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Maintenance Notice",
+            "description": "Scheduled maintenance will occur on January 5th. Please plan accordingly.",
+            "buttonType": 0,
+            "showDetails": false,
+            "date": "2024-01-01",
+            "paragraphs": [
+                {
+                    "subTitle": "",
+                    "content": "We will be performing scheduled maintenance on January 5th from 2 AM to 4 AM. During this time, the app may be unavailable."
+                }
+            ]
+        },
+        
+        {
+            "id": 4,
+            "title": "Contest Winners Announcement",
+            "description": "We are excited to announce the winners of our recent contest. Congratulations to all the winners!",
+            "buttonType": 0,
+            "showDetails": false,
+            "date": "2024-01-02",
+            "paragraphs": [
+                {
+                    "subTitle": "Yearly Subscription Winners",
+                    "content": "Shotpack212"
+                },
+                {
+                    "subTitle": "",
+                    "content": "Mikey S. P"
+                },
+                {
+                    "subTitle": "",
+                    "content": "Silly333333"
+                },
+                {
+                    "subTitle": "",
+                    "content": "Shotpack212"
+                },
+                
+                {
+                    "subTitle": "Monthly Subscription Winners",
+                    "content": ""
+                }
+                {
+                    "subTitle": "",
+                    "content": "Daniel from Texas"
+                },
+                {
+                    "subTitle": "",
+                    "content": "fnaf boy 96 mr man"
+                },
+                {
+                    "subTitle": "",
+                    "content": "Mods and More Mods"
+                },
+                {
+                    "subTitle": "",
+                    "content": "Gojo Santoro"
+                },
+                {
+                    "subTitle": "",
+                    "content": "Thegreat1109"
+                }
+            ]
         }
+        
     ]
 }
