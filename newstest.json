@@ -69,7 +69,6 @@
                 }
             ]
         },
-        
         {
             "id": 4,
             "title": "Contest Winners Announcement",
@@ -94,11 +93,10 @@
                     "subTitle": "",
                     "content": "Shotpack212"
                 },
-                
                 {
                     "subTitle": "Monthly Subscription Winners",
                     "content": ""
-                }
+                },
                 {
                     "subTitle": "",
                     "content": "Daniel from Texas"
@@ -121,6 +119,5 @@
                 }
             ]
         }
-        
     ]
 }
