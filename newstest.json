@@ -73,26 +73,23 @@
             "id": 4,
             "title": "Contest Winners Announcement",
             "description": "We are excited to announce the winners of our recent contest. Congratulations to all the winners!",
-            "buttonType": 0,
+            "buttonType": 2,
             "showDetails": true,
             "date": "2024-01-02",
             "paragraphs": [
                 {
                     "subTitle": "Yearly Subscription Winners",
-                    "content": "Shotpack212, Mikey S. P, Silly333333"
+                    "content": "Shotpack212 - Mikey S. P - Silly333333"
                 },
                 {
                     "subTitle": "Monthly Subscription Winners",
-                    "content": "Daniel from Texas, fnaf boy 96 mr man, Mods and More Mods, Gojo Santoro, Thegreat1109"
+                    "content": "Daniel from Texas - fnaf boy 96 mr man - Mods and More Mods - Gojo Santoro - Thegreat1109"
                 },
                 {
-                    "subTitle": "",
-                    "content": "If your name is on the list, please tap the button below and follow the instructions to claim your prize. After your Prize Winning Confirmation is sent, keep an eye on your email inbox for further details."
-                },
-                {
-                    "subTitle": "",
-                    "content": "P.S. If you didn't win this time, don't worry! Another contest is coming soon, giving you another chance to win!"
+                    "subTitle": "How To Claim Your Prize ?",
+                    "content": "If your name is on the list, please tap the button below and follow the instructions to claim your prize. After your Prize Winning Confirmation is sent, keep an eye on your email inbox for further details. P.S. If you didn't win this time, don't worry! Another contest is coming soon, giving you another chance to win!"
                 }
+              
             ]
         }
     ]
