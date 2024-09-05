@@ -1,0 +1,78 @@
+{
+    "selectedIdToShow": 3,
+    "showBanner": false,
+    "showSelectedNews": true,
+    "newsItems": [
+        {
+            "id": 1,
+            "title": "Summer Giveaway Started",
+            "description": "Hello everyone! Thank you for continuously using our Melon Mods application. We truly appreciate each one of you and are thrilled to launch our first Giveaway contest.",
+            "buttonType": 1,
+            "showDetails": false,
+            "date": "2024-07-20",
+            "paragraphs": [
+                {
+                    "subTitle": "How to Enter",
+                    "content": "For a chance to win a yearly or monthly subscription, follow the instructions below."
+                },
+                {
+                    "subTitle": "Step 1",
+                    "content": "Ensure you are using the latest version of our app."
+                },
+                {
+                    "subTitle": "Step 2",
+                    "content": "Turn on notifications in the app settings to stay updated."
+                },
+                {
+                    "subTitle": "Step 3",
+                    "content": "If you enjoy our community, please share your feedback on the App Store. Let us know what you like, what you don't, and any new features or modifications you'd like to see in future updates. Don't forget to include your nickname!"
+                },
+                {
+                    "subTitle": "Draw Date",
+                    "content": "The giveaway will run from July 20th to August 20th."
+                },
+                {
+                    "subTitle": "Winner Announcement",
+                    "content": "Winners will be announced in the app on August 23rd."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Contest Ended",
+            "description": "Thank you to everyone who participated in our Summer Giveaway contest! The contest has officially ended, and we're excited to review all the entries. Stay tuned as we'll be announcing the winners in just 3 days!",
+            "buttonType": 0,
+            "showDetails": false,
+            "date": "2024-08-21",
+            "paragraphs": [
+                {
+                    "subTitle": "",
+                    "content": "We'll be selecting the lucky winners and sharing the results here. Make sure to check back on August 24rd to see if you've won. Good luck to all participants!"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Contest Winners Announcement",
+            "description": "We are excited to announce the winners of our recent contest. Congratulations to all the winners!",
+            "buttonType": 2,
+            "showDetails": false,
+            "date": "2024-08-27",
+            "paragraphs": [
+                {
+                    "subTitle": "Yearly Subscription Winners",
+                    "content": "Shotpack212 - Mikey S. P - Silly333333"
+                },
+                {
+                    "subTitle": "Monthly Subscription Winners",
+                    "content": "Daniel from Texas - fnaf boy 96 mr man - Mods and More Mods - Gojo Santoro - Thegreat1109"
+                },
+                {
+                    "subTitle": "How To Claim Your Prize ?",
+                    "content": "If your name is on the list, please tap the button below and follow the instructions to claim your prize. After your Prize Winning Confirmation is sent, keep an eye on your email inbox for further details. P.S. If you didn't win this time, don't worry! Another contest is coming soon, giving you another chance to win!"
+                }
+              
+            ]
+        }
+    ]
+}
