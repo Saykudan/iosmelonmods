@@ -1,0 +1,20 @@
+{
+    "appLovin": {
+        "appOpenAdUnitID": "a8ea069374b59925",
+        "interstitialAdUnitID": "41a403a5c733a33f",
+        "rewardedAdUnitID": "c9f00f9ed8c6e343",
+        "nativeAdUnitID": ""
+    },
+    "admob": {
+        "appOpenAdUnitID": "ca-app-pub-3940256099942544/9257395921",
+        "interstitialAdUnitID": "ca-app-pub-3940256099942544/1033173712",
+        "rewardedAdUnitID": "ca-app-pub-3940256099942544/5224354917",
+        "nativeAdUnitID": ""
+    },
+    "adNetworkSelection": {
+        "appOpenAdsType": "admob",
+        "interstitialAdsType": "admob",
+        "rewardedAdsType": "admob",
+        "nativeAdsType": "admob"
+    }
+}
