@@ -6,15 +6,15 @@
         "nativeAdUnitID": ""
     },
     "admob": {
-        "appOpenAdUnitID": "ca-app-pub-3940256099942544/9257395921",
-        "interstitialAdUnitID": "ca-app-pub-3940256099942544/1033173712",
-        "rewardedAdUnitID": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenAdUnitID": "ca-app-pub-4428949430819505/9363391331",
+        "interstitialAdUnitID": "ca-app-pub-4428949430819505/6404716779",
+        "rewardedAdUnitID": "ca-app-pub-4428949430819505/3778553431",
         "nativeAdUnitID": ""
     },
     "adNetworkSelection": {
-        "appOpenAdsType": "appLovin",
-        "interstitialAdsType": "appLovin",
-        "rewardedAdsType": "appLovin",
-        "nativeAdsType": "appLovin"
+        "appOpenAdsType": "admob",
+        "interstitialAdsType": "admob",
+        "rewardedAdsType": "admob",
+        "nativeAdsType": "admob"
     }
 }
