@@ -1,5 +1,5 @@
 {
-    "selectedIdToShow": 4,
+    "selectedIdToShow": 5,
     "showBanner": false,
     "showSelectedNews": true,
     "newsItems": [
@@ -84,6 +84,28 @@
                 {
                     "subTitle": "",
                     "content": "Because of their actions, we’ll no longer be able to distribute mods, and you’ll now have to buy them from their workshop or look elsewhere on the internet. We wish things were different, but our hands are tied. We’ll also be removing the app from the App Store on October 10, 2024. This is especially tough for us, as we had so many plans to continue improving your experience. But now, that won’t be possible.\n\nWe’re truly sorry that it’s come to this. We’ve always strived to put our users first and give you an amazing experience. It breaks our hearts that we can’t continue this journey with you.\n\nHowever, this isn’t the end! We’re already thinking about new projects and apps to bring you even more fun and creativity in the future. We’ll be back with something new, and we hope you’ll join us again when that time comes.\n\nThank you for being with us and believing in what we do. You are what made this journey worthwhile, and we can’t wait to share new adventures with you soon."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "🎉 We're Back! New Mods and Giveaways Await! 🎉",
+            "description": "We’re thrilled to announce that Melon Mods is back and better than ever! After working through some challenges, we’re excited to bring the app back to life with new mods, features, and a special giveaway just for you!",
+            "buttonType": 1,
+            "showDetails": false,
+            "date": "2024-10-22",
+            "paragraphs": [
+                {
+                    "subTitle": "What’s New?",
+                    "content": "We’ve added exciting new mods to enhance your gameplay!"
+                },
+                {
+                    "subTitle": "Giveaway Coming Soon!",
+                    "content": "Stay tuned for the announcement of a new giveaway, where you'll have the chance to win exclusive prizes."
+                },
+                {
+                    "subTitle": "",
+                    "content": "Thank you for being a part of our community. We’re excited to continue this journey with you and can’t wait to share more adventures!"
                 }
             ]
         }
