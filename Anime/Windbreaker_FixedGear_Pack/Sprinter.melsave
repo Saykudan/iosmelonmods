@@ -1,0 +1,7218 @@
+{
+  "icon": [
+    137,
+    80,
+    78,
+    71,
+    13,
+    10,
+    26,
+    10,
+    0,
+    0,
+    0,
+    13,
+    73,
+    72,
+    68,
+    82,
+    0,
+    0,
+    0,
+    64,
+    0,
+    0,
+    0,
+    64,
+    8,
+    6,
+    0,
+    0,
+    0,
+    170,
+    105,
+    113,
+    222,
+    0,
+    0,
+    1,
+    225,
+    73,
+    68,
+    65,
+    84,
+    120,
+    1,
+    237,
+    211,
+    75,
+    75,
+    2,
+    81,
+    24,
+    6,
+    224,
+    25,
+    17,
+    165,
+    164,
+    80,
+    26,
+    53,
+    44,
+    51,
+    47,
+    169,
+    225,
+    66,
+    208,
+    64,
+    186,
+    128,
+    105,
+    164,
+    168,
+    3,
+    226,
+    182,
+    168,
+    181,
+    110,
+    130,
+    254,
+    67,
+    183,
+    101,
+    68,
+    109,
+    130,
+    86,
+    110,
+    218,
+    180,
+    22,
+    250,
+    1,
+    193,
+    64,
+    9,
+    110,
+    170,
+    101,
+    17,
+    100,
+    133,
+    127,
+    65,
+    190,
+    156,
+    1,
+    39,
+    197,
+    180,
+    16,
+    188,
+    13,
+    239,
+    192,
+    48,
+    51,
+    103,
+    206,
+    153,
+    243,
+    189,
+    207,
+    153,
+    195,
+    48,
+    56,
+    32,
+    0,
+    1,
+    8,
+    64,
+    0,
+    2,
+    16,
+    128,
+    0,
+    4,
+    32,
+    0,
+    1,
+    8,
+    64,
+    0,
+    2,
+    16,
+    128,
+    0,
+    4,
+    32,
+    0,
+    1,
+    8,
+    64,
+    0,
+    2,
+    16,
+    128,
+    0,
+    4,
+    6,
+    47,
+    192,
+    243,
+    60,
+    5,
+    3,
+    1,
+    26,
+    124,
+    37,
+    125,
+    168,
+    128,
+    227,
+    56,
+    50,
+    155,
+    167,
+    201,
+    98,
+    153,
+    161,
+    112,
+    218,
+    36,
+    134,
+    150,
+    206,
+    94,
+    3,
+    168,
+    250,
+    144,
+    173,
+    105,
+    138,
+    100,
+    42,
+    77,
+    177,
+    120,
+    74,
+    94,
+    85,
+    111,
+    80,
+    119,
+    37,
+    134,
+    214,
+    104,
+    180,
+    76,
+    102,
+    79,
+    205,
+    84,
+    171,
+    85,
+    166,
+    252,
+    100,
+    96,
+    22,
+    252,
+    227,
+    167,
+    122,
+    78,
+    45,
+    60,
+    20,
+    139,
+    77,
+    227,
+    21,
+    247,
+    224,
+    245,
+    46,
+    74,
+    171,
+    206,
+    239,
+    90,
+    201,
+    237,
+    246,
+    200,
+    48,
+    99,
+    58,
+    85,
+    88,
+    113,
+    97,
+    235,
+    129,
+    116,
+    19,
+    147,
+    196,
+    178,
+    170,
+    125,
+    127,
+    104,
+    141,
+    86,
+    54,
+    231,
+    40,
+    26,
+    221,
+    144,
+    130,
+    139,
+    127,
+    66,
+    98,
+    135,
+    147,
+    17,
+    234,
+    253,
+    21,
+    119,
+    101,
+    89,
+    246,
+    70,
+    12,
+    229,
+    112,
+    56,
+    41,
+    123,
+    56,
+    43,
+    7,
+    166,
+    218,
+    17,
+    223,
+    154,
+    170,
+    216,
+    236,
+    243,
+    114,
+    155,
+    34,
+    194,
+    215,
+    2,
+    27,
+    196,
+    32,
+    130,
+    112,
+    215,
+    20,
+    76,
+    252,
+    253,
+    27,
+    3,
+    6,
+    151,
+    130,
+    116,
+    113,
+    126,
+    70,
+    78,
+    151,
+    179,
+    169,
+    189,
+    177,
+    207,
+    72,
+    223,
+    187,
+    189,
+    63,
+    123,
+    60,
+    147,
+    53,
+    85,
+    196,
+    115,
+    164,
+    3,
+    253,
+    183,
+    248,
+    242,
+    251,
+    91,
+    203,
+    138,
+    230,
+    142,
+    172,
+    82,
+    27,
+    103,
+    52,
+    94,
+    183,
+    251,
+    206,
+    243,
+    99,
+    169,
+    101,
+    92,
+    187,
+    190,
+    67,
+    223,
+    158,
+    219,
+    78,
+    211,
+    114,
+    36,
+    70,
+    190,
+    64,
+    136,
+    86,
+    121,
+    253,
+    109,
+    34,
+    145,
+    160,
+    66,
+    161,
+    32,
+    5,
+    228,
+    249,
+    164,
+    28,
+    52,
+    159,
+    207,
+    203,
+    247,
+    67,
+    31,
+    170,
+    219,
+    2,
+    45,
+    118,
+    237,
+    101,
+    109,
+    44,
+    9,
+    130,
+    208,
+    49,
+    236,
+    122,
+    36,
+    220,
+    241,
+    125,
+    183,
+    243,
+    247,
+    117,
+    92,
+    169,
+    116,
+    47,
+    133,
+    248,
+    44,
+    191,
+    116,
+    12,
+    243,
+    219,
+    54,
+    233,
+    107,
+    161,
+    189,
+    158,
+    236,
+    228,
+    248,
+    128,
+    108,
+    14,
+    87,
+    71,
+    4,
+    177,
+    134,
+    175,
+    143,
+    87,
+    114,
+    120,
+    124,
+    127,
+    246,
+    235,
+    117,
+    189,
+    248,
+    62,
+    4,
+    32,
+    0,
+    1,
+    8,
+    64,
+    0,
+    2,
+    16,
+    128,
+    0,
+    4,
+    32,
+    0,
+    1,
+    8,
+    64,
+    0,
+    2,
+    16,
+    128,
+    0,
+    4,
+    32,
+    0,
+    1,
+    8,
+    64,
+    0,
+    2,
+    16,
+    128,
+    128,
+    210,
+    4,
+    190,
+    1,
+    63,
+    183,
+    124,
+    125,
+    83,
+    179,
+    91,
+    157,
+    0,
+    0,
+    0,
+    0,
+    73,
+    69,
+    78,
+    68,
+    174,
+    66,
+    96,
+    130
+  ],
+  "versionId": 3,
+  "mapName": "EndlessCity",
+  "seed": 412008216,
+  "iconSize": {
+    "x": 64.0,
+    "y": 64.0
+  },
+  "saveObjectContainers": [
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -437258,
+        "modedObjectId": "Classic Fixie Bar202491222237959",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.3518829345703125,
+          "y": 0.17547321319580078,
+          "z": -1.25
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 356.06808471679688
+        },
+        "scale": {
+          "x": 0.37852367758750916,
+          "y": 0.37852367758750916,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "Default",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 6,
+            "startPoint": {
+              "x": -0.1720803827047348,
+              "y": 0.12667453289031982,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.79548150300979614,
+              "y": 0.57190054655075073,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 0,
+            "endObjectId": 1,
+            "startObjectConnectionMaterial": 1,
+            "endObjectConnectionMaterial": 8
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -437080,
+        "modedObjectId": "Clsssic Fixie Frame2024912215752727",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.0558624267578125,
+          "y": -0.028614044189453125,
+          "z": -1.25
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 356.07888793945313
+        },
+        "scale": {
+          "x": 0.39121818542480469,
+          "y": 0.39121818542480469,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "Default",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 6,
+            "startPoint": {
+              "x": -0.45174047350883484,
+              "y": 0.57622420787811279,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.0502888523042202,
+              "y": -0.11241671442985535,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 4,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 1
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.94733917713165283,
+              "y": -0.48993292450904846,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.94733917713165283,
+              "y": -0.48993292450904846,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 5,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": 131,
+        "instanceId": -437104,
+        "modedObjectId": "",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -369.7359619140625,
+          "y": -6.1260585784912109,
+          "z": -1.25
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 12.453445434570313
+        },
+        "scale": {
+          "x": 0.99999970197677612,
+          "y": 0.99999970197677612,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [
+          {
+            "activationInput": 0.0,
+            "floatParameters": [
+              0.0,
+              1000.0,
+              50.0,
+              -1.0,
+              1.0
+            ]
+          }
+        ],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": [
+        {
+          "objectId": 0,
+          "instanceId": -437112,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": -1,
+          "position": {
+            "x": 361.87582397460938,
+            "y": -73.855010986328125,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 99.991996765136719
+          },
+          "scale": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [
+            {
+              "index": 2,
+              "dist": 0.10400000214576721
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "Motor",
+          "childIndex": [
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437136,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 2,
+          "position": {
+            "x": 2.2477470338344574E-05,
+            "y": -0.1230984553694725,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 285.42654418945313
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": -0.10398710519075394,
+                "y": 0.045170597732067108,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.15913502871990204,
+                "y": -0.00788898579776287,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 3,
+              "endObjectId": 5,
+              "startObjectConnectionMaterial": 10,
+              "endObjectConnectionMaterial": 10
+            },
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": -0.022831644862890244,
+                "y": -0.12972559034824371,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.073570653796195984,
+                "y": 0.041044291108846664,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 3,
+              "endObjectId": 5,
+              "startObjectConnectionMaterial": 10,
+              "endObjectConnectionMaterial": 10
+            },
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": 0.10005511343479156,
+                "y": 0.10720008611679077,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.078470885753631592,
+                "y": -0.084242843091487885,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 3,
+              "endObjectId": 5,
+              "startObjectConnectionMaterial": 10,
+              "endObjectConnectionMaterial": 10
+            },
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": 0.144318088889122,
+                "y": -0.042173303663730621,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.036992445588111877,
+                "y": -0.014511504210531712,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 3,
+              "endObjectId": 5,
+              "startObjectConnectionMaterial": 10,
+              "endObjectConnectionMaterial": 10
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "Wheel",
+          "childIndex": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -437210,
+        "modedObjectId": "Classic Fixie Seat2024912223733",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.2527008056640625,
+          "y": 0.32456302642822266,
+          "z": -1.25
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 356.7884521484375
+        },
+        "scale": {
+          "x": 0.3785240650177002,
+          "y": 0.3785240650177002,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "Default",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -437162,
+        "modedObjectId": "Classic Fixie Wheel202491222040145",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.4445037841796875,
+          "y": -0.22667026519775391,
+          "z": -1.25
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 68.274322509765625
+        },
+        "scale": {
+          "x": 0.37852457165718079,
+          "y": 0.37852457165718079,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "Default",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -437234,
+        "modedObjectId": "Classic Fixie Wheel202491222040145",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.3535308837890625,
+          "y": -0.20525360107421875,
+          "z": -1.25
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.2007704973220825
+        },
+        "scale": {
+          "x": 0.37852513790130615,
+          "y": 0.37852513790130615,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "Default",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.082313843071460724,
+              "y": 0.017331177368760109,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.082313843071460724,
+              "y": 0.017331177368760109,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 6,
+            "endObjectId": 0,
+            "startObjectConnectionMaterial": 10,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.060791458934545517,
+              "y": 0.028172699734568596,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.060791458934545517,
+              "y": 0.028172699734568596,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 6,
+            "endObjectId": 1,
+            "startObjectConnectionMaterial": 10,
+            "endObjectConnectionMaterial": 0
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -437186,
+        "modedObjectId": "Classic Fixie Cranks202491222147546",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.1123504638671875,
+          "y": -0.25963687896728516,
+          "z": -1.25
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 287.84829711914063
+        },
+        "scale": {
+          "x": 0.37852382659912109,
+          "y": 0.37852382659912109,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.034888960421085358,
+              "y": 0.029482251033186913,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.034888960421085358,
+              "y": 0.029482251033186913,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 7,
+            "endObjectId": 1,
+            "startObjectConnectionMaterial": 9,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 19,
+            "startPoint": {
+              "x": 0.16522704064846039,
+              "y": 0.0023602978326380253,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.044287405908107758,
+              "y": -0.041188124567270279,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 7,
+            "endObjectId": 5,
+            "startObjectConnectionMaterial": 9,
+            "endObjectConnectionMaterial": 10
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": 62,
+        "instanceId": -437282,
+        "modedObjectId": "",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 3.2474212646484375,
+          "y": -0.44885826110839844,
+          "z": 8.75
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 329.55398559570313
+        },
+        "scale": {
+          "x": -0.99999988079071045,
+          "y": 0.99999988079071045,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": [
+        {
+          "objectId": 0,
+          "instanceId": -437306,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": -1,
+          "position": {
+            "x": 2.7189133167266846,
+            "y": -0.58291774988174438,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 290.5252685546875
+          },
+          "scale": {
+            "x": -0.99839931726455688,
+            "y": 0.99839931726455688,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000<0000000<080600000056755<>7000000<?49444154281563740812622005;02029?>8?<4<6<6640409<23480156;9:7083153>;8?>9=41419393819=9389>1>7?77?0<=7<?7<058983=430328155000990623>211630563782;0417220319841203>5<0388030282:22<0<>?5??=06=312726<104124124303480>=9<4<>8<?;48<:;1=880220;>494<?50441182791:4510>:49;0=8978?7?19;>7=?>0;97<7=0?0?>?51?06097976;0025008098:;1327<7>??87>1>>95>?6031;80690:9<86>871;0964<01483<4601:4091?21?=9292049348012712039;0009:220<2>0092<:32:?3;4<5<;<0000000049454>44:>426082",
+              "textureSize": {
+                "x": 12.0,
+                "y": 12.0
+              },
+              "clothesIds": [
+                61
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": -0.086602926254272461,
+                "y": -0.057449791580438614,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": -0.049261253327131271,
+                "y": 0.076715961098670959,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 8,
+              "endObjectId": 9,
+              "startObjectConnectionMaterial": 3,
+              "endObjectConnectionMaterial": 3
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "Head",
+          "childIndex": [
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437330,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 8,
+          "position": {
+            "x": -0.051724623888731,
+            "y": -0.18860729038715363,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 260.6048583984375
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000:0000000<08060000005;6;2<:0000000:349444154181963740812622006;02029?:8?<446663282383085??354=;89125>1><>;67;>820<608429044;?00941;8772>7=03?3;?7=?>0;=7<00467411982:22<0<:6<>7<0<2:7:5<2852280:7?7>??079704;1:514=9>17<1485><9<082>88<=<681>0<359:?9>?<6200;9>=<7;77?600<370:<:802;04395<56958381838;098<712:54=0>4449743>1<34=0489<2=<080<3;1445200>2<1<<1:18?218;2400000;842568?44983<30000000049454>44:>426082",
+              "textureSize": {
+                "x": 10.0,
+                "y": 12.0
+              },
+              "clothesIds": [
+                31
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -50.0,
+                "y": 50.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "UpperBody",
+          "childIndex": [
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437354,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 9,
+          "position": {
+            "x": 0.044984977692365646,
+            "y": -0.16398061811923981,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 290.60455322265625
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000:0000000<08060000005;6;2<:00000008>494441541819637408126200014=136>063>21160641511630???=>;3?0<9?=>?=61;87>>62;980?116560?80?>6>126189970<;:1<:=058>1<?>???187>7<?;876:27948762353;27130307178:105<137651:8?483>;=?>10:61<1031700597=??=:77862?1???<2<5400<:<262:6:7132<8::72304829;2<3156355087227<8;=6<1<086998=58<70:=3818009>2<1=0190=925<?0000000049454>44:>426082",
+              "textureSize": {
+                "x": 10.0,
+                "y": 12.0
+              },
+              "clothesIds": [
+                31
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -30.0,
+                "y": 30.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "MiddleBody",
+          "childIndex": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437378,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 10,
+          "position": {
+            "x": 0.042070619761943817,
+            "y": -0.16557498276233673,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 318.482421875
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000:0000000;0806000000466>1<180000008:494441541819637408126200014=136>063>21160641511630???=>;3?0<9?=>?=61;87>>62;980?116560?80?>6>126189970<;:1<:<0153>;8?>9=>1<>:56?:8;2483<98=50<0:9:9<603722<9:130>126:28862>110:=106>35<<1050;0600370854?>>?<609051>14051031283019842<6<?1??>?>87052>4<124:3382689842101;2<00626003006>121?96118714550000000049454>44:>426082",
+              "textureSize": {
+                "x": 10.0,
+                "y": 11.0
+              },
+              "clothesIds": [
+                31,
+                118
+              ],
+              "additionalClothesIndexes": [
+                0,
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -30.0,
+                "y": 30.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": -0.024647751823067665,
+                "y": -0.056084588170051575,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": -0.014963441528379917,
+                "y": 0.49322158098220825,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 11,
+              "endObjectId": 1,
+              "startObjectConnectionMaterial": 3,
+              "endObjectConnectionMaterial": 8
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerBody",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437402,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 11,
+          "position": {
+            "x": 0.030275456607341766,
+            "y": -0.19698050618171692,
+            "z": 0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 337.2742919921875
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000060000000?0806000000<7<3;>800000005=4944415418196374081262<006989004??03=9200<063089??9:26=<0<200<04604998044419128922?1>0?:77;8148:848226277609;8289081:2833409648;413:518<4296844;805<84=355587580<<45=6<10212000246088520019>0<1191<7>2;5>30000000049454>44:>426082",
+              "textureSize": {
+                "x": 6.0,
+                "y": 15.0
+              },
+              "clothesIds": [
+                118
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -130.0,
+                "y": 10.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LegF",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437426,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 12,
+          "position": {
+            "x": 0.00041528046131134033,
+            "y": -0.260038286447525,
+            "z": 0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 337.45831298828125
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000060000000?0806000000<7<3;>8000000031494441541819637408126200014=136>307=?=<<5730<=02261918?>436918<5<80463:1=3:312>821<2000;4446741900921;04<79;2623600000000049454>44:>426082",
+              "textureSize": {
+                "x": 6.0,
+                "y": 15.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": 0.0,
+                "y": 140.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerLegF",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437450,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 13,
+          "position": {
+            "x": 0.0288142841309309,
+            "y": -0.16127470135688782,
+            "z": 0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 334.90542602539063
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000090000000508060000009753<66;0000003?49444154081=637408126200014=136>307=?=<<57308=4<;04039??910591=88<20364<115<1<66224800682:4833235<11366;603:618:<0<6<204=16900>=>30;4?5;74>4>40000000049454>44:>426082",
+              "textureSize": {
+                "x": 9.0,
+                "y": 5.0
+              },
+              "clothesIds": [
+                97
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -10.0,
+                "y": 45.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "FootF",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -438570,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 14,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.030000001192092896
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 334.90542602539063
+          },
+          "scale": {
+            "x": 0.99999988079071045,
+            "y": 0.99999988079071045,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.10196079313755035,
+            "y": 0.10196079313755035,
+            "z": 0.098039224743843079,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "FootFShoes(Clone)",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -438450,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 12,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.015000000596046448
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 337.2742919921875
+          },
+          "scale": {
+            "x": 0.99999994039535522,
+            "y": 0.99999994039535522,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 1.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "UpperLegFTrousers(Clone)",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437476,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 11,
+          "position": {
+            "x": 0.030226849019527435,
+            "y": -0.19701792299747467,
+            "z": -0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 337.24639892578125
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000060000000?0806000000<7<3;>800000005=4944415418196374081262<006989004??03=9200<063089??9:26=<0<200<04604998044419128922?1>0?:77;8148:848226277609;8289081:2833409648;413:518<4296844;805<84=355587580<<45=6<10212000246088520019>0<1191<7>2;5>30000000049454>44:>426082",
+              "textureSize": {
+                "x": 6.0,
+                "y": 15.0
+              },
+              "clothesIds": [
+                118
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -130.0,
+                "y": 10.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LegB",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437500,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 17,
+          "position": {
+            "x": 0.00044351071119308472,
+            "y": -0.26003986597061157,
+            "z": -0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 337.437744140625
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000060000000?0806000000<7<3;>8000000031494441541819637408126200014=136>307=?=<<5730<=02261918?>436918<5<80463:1=3:312>821<2000;4446741900921;04<79;2623600000000049454>44:>426082",
+              "textureSize": {
+                "x": 6.0,
+                "y": 15.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": 0.0,
+                "y": 140.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerLegB",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437524,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 18,
+          "position": {
+            "x": 0.028764698654413223,
+            "y": -0.16132442653179169,
+            "z": -0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 334.78439331054688
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000090000000508060000009753<66;0000003?49444154081=637408126200014=136>307=?=<<57308=4<;04039??910591=88<20364<115<1<66224800682:4833235<11366;603:618:<0<6<204=16900>=>30;4?5;74>4>40000000049454>44:>426082",
+              "textureSize": {
+                "x": 9.0,
+                "y": 5.0
+              },
+              "clothesIds": [
+                97
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -10.0,
+                "y": 45.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "FootB",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -438788,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 19,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.030000008642673492
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 334.78439331054688
+          },
+          "scale": {
+            "x": 0.99999994039535522,
+            "y": 0.99999994039535522,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.10196079313755035,
+            "y": 0.10196079313755035,
+            "z": 0.098039224743843079,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "FootBShoes(Clone)",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -438670,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 17,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.015000000596046448
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 337.24639892578125
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 1.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "UpperLegBTrousers(Clone)",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -438154,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 11,
+          "position": {
+            "x": -8.91559395754804E-12,
+            "y": 0.039000239223241806,
+            "z": -0.24000000953674316
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 318.482421875
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerBusiness suit(Clone)",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -438296,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 11,
+          "position": {
+            "x": 0.0,
+            "y": -0.046500001102685928,
+            "z": -0.014999999664723873
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 318.482421875
+          },
+          "scale": {
+            "x": 0.99999988079071045,
+            "y": 0.99999988079071045,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 1.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerTrousers(Clone)",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437950,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 10,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.24000000953674316
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 290.60455322265625
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "MiddleBusiness suit(Clone)",
+          "childIndex": [
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437550,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 9,
+          "position": {
+            "x": 0.0634043961763382,
+            "y": -0.057204946875572205,
+            "z": 0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 299.99783325195313
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000060000000?0806000000<7<3;>800000005=4944415418196374081262<006989004??03=9200<063089??9:26=<0<200<04604998044419128922?1>0?:77;8148:848226277609;8289081:2833409648;413:518<4296844;805<84=355587580<<45=6<10212000246088520019>0<1191<7>2;5>30000000049454>44:>426082",
+              "textureSize": {
+                "x": 6.0,
+                "y": 15.0
+              },
+              "clothesIds": [
+                31
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -160.0,
+                "y": 160.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "ArmF",
+          "childIndex": [
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437574,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 25,
+          "position": {
+            "x": 0.13046875596046448,
+            "y": -0.11841388046741486,
+            "z": 0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 29.591781616210938
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000070000000?08060000002801=5;>00000064494441541819637408126200014=136>307=?=<<57300=2258:0:<??70110883114431:109:270>921?9>0?:77><76:24;8054<11=:4:0<9<900<2<8002>892<0863>39204070:86242<1841;:31246146826858=8322007384<014<121<=03041180=0029:<0><892011;=30000000049454>44:>426082",
+              "textureSize": {
+                "x": 7.0,
+                "y": 15.0
+              },
+              "clothesIds": [
+                31
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -150.0,
+                "y": 0.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": 0.0097394883632659912,
+                "y": -0.10614831000566483,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.2201647013425827,
+                "y": -0.16034559905529022,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 26,
+              "endObjectId": 0,
+              "startObjectConnectionMaterial": 3,
+              "endObjectConnectionMaterial": 1
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "HandF",
+          "childIndex": [
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -439114,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 26,
+          "position": {
+            "x": -0.0092000002041459084,
+            "y": 0.045899998396635056,
+            "z": -0.24000000953674316
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 29.591781616210938
+          },
+          "scale": {
+            "x": 0.99999994039535522,
+            "y": 0.99999994039535522,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "HandFBusiness suit(Clone)",
+          "childIndex": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -438890,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 25,
+          "position": {
+            "x": 0.0,
+            "y": -0.0035000001080334187,
+            "z": -0.24000000953674316
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 299.99783325195313
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "ArmFBusiness suit(Clone)",
+          "childIndex": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437602,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 9,
+          "position": {
+            "x": 0.062851294875144958,
+            "y": -0.057916037738323212,
+            "z": -0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 299.48995971679688
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000060000000?0806000000<7<3;>800000005=4944415418196374081262<006989004??03=9200<063089??9:26=<0<200<04604998044419128922?1>0?:77;8148:848226277609;8289081:2833409648;413:518<4296844;805<84=355587580<<45=6<10212000246088520019>0<1191<7>2;5>30000000049454>44:>426082",
+              "textureSize": {
+                "x": 6.0,
+                "y": 15.0
+              },
+              "clothesIds": [
+                31
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -160.0,
+                "y": 160.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "ArmB",
+          "childIndex": [
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437626,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 29,
+          "position": {
+            "x": 0.12247405201196671,
+            "y": -0.081940867006778717,
+            "z": -0.10000038146972656
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 45.679801940917969
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000070000000?08060000002801=5;>00000064494441541819637408126200014=136>307=?=<<57300=2258:0:<??70110883114431:109:270>921?9>0?:77><76:24;8054<11=:4:0<9<900<2<8002>892<0863>39204070:86242<1841;:31246146826858=8322007384<014<121<=03041180=0029:<0><892011;=30000000049454>44:>426082",
+              "textureSize": {
+                "x": 7.0,
+                "y": 15.0
+              },
+              "clothesIds": [
+                31
+              ],
+              "additionalClothesIndexes": [
+                0
+              ],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "isElectricityProtection": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -150.0,
+                "y": 0.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": 0.017082180827856064,
+                "y": -0.0850752592086792,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.25252184271812439,
+                "y": -0.01736958883702755,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 30,
+              "endObjectId": 0,
+              "startObjectConnectionMaterial": 3,
+              "endObjectConnectionMaterial": 1
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "HandB",
+          "childIndex": [
+            0,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -439502,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 30,
+          "position": {
+            "x": -0.0092000002041459084,
+            "y": 0.045899998396635056,
+            "z": -0.24000000953674316
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 45.679801940917969
+          },
+          "scale": {
+            "x": 1.0000001192092896,
+            "y": 1.0000001192092896,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "HandBBusiness suit(Clone)",
+          "childIndex": [
+            0,
+            0,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -439278,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 29,
+          "position": {
+            "x": 0.0,
+            "y": -0.0035000001080334187,
+            "z": -0.24000000953674316
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 299.48995971679688
+          },
+          "scale": {
+            "x": 0.99999994039535522,
+            "y": 0.99999994039535522,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [
+            0
+          ],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "ArmBBusiness suit(Clone)",
+          "childIndex": [
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437748,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 9,
+          "position": {
+            "x": -0.00060000002849847078,
+            "y": 0.0078999996185302734,
+            "z": -0.24000000953674316
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 260.6048583984375
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.074509806931018829,
+            "y": 0.074509806931018829,
+            "z": 0.0784313753247261,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "UpperBusiness suit(Clone)",
+          "childIndex": [
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -437710,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 8,
+          "position": {
+            "x": 0.0,
+            "y": 0.013199999928474426,
+            "z": -0.35000002384185791
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 290.5252685546875
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 31,
+          "sortingLayer": "Default",
+          "gravity": true,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": false,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 1,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": []
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "thisColliderIndex": 0,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "thisColliderIndex": 1,
+              "otherColliderIndex": 0,
+              "otherTransformIndex": [
+                0,
+                0,
+                2,
+                0
+              ]
+            }
+          ],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "HeadHelmet(Clone)",
+          "childIndex": [
+            0,
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "averagePosition": {
+    "x": 128.107177734375,
+    "y": 15.414787292480469,
+    "z": 0.0
+  },
+  "metadata": {
+    "ManifestId": "",
+    "Name": ""
+  }
+}
