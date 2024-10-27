@@ -1,6 +1,6 @@
 {
-    "selectedIdToShow": 3,
-    "showBanner": true,
+    "selectedIdToShow": 5,
+    "showBanner": false,
     "showSelectedNews": true,
     "newsItems": [
         {
@@ -47,7 +47,7 @@
             "paragraphs": [
                 {
                     "subTitle": "",
-                    "content": "We'll be selecting the lucky winners and sharing the results here. Make sure to check back on August 24rd to see if you've won. Good luck to all participants!"
+                    "content": "We'll be selecting the lucky winners and sharing the results here. Make sure to check back on August 24th to see if you've won. Good luck to all participants!"
                 }
             ]
         },
@@ -68,10 +68,61 @@
                     "content": "Daniel from Texas - fnaf boy 96 mr man - Mods and More Mods - Gojo Santoro - Thegreat1109"
                 },
                 {
-                    "subTitle": "How To Claim Your Prize ?",
+                    "subTitle": "How To Claim Your Prize?",
                     "content": "If your name is on the list, please tap the button below and follow the instructions to claim your prize. After your Prize Winning Confirmation is sent, keep an eye on your email inbox for further details. P.S. If you didn't win this time, don't worry! Another contest is coming soon, giving you another chance to win!"
                 }
-              
+            ]
+        },
+        {
+            "id": 4,
+            "title": "🎉 We're Back! New Mods and Giveaways Await! 🎉",
+            "description": "We’re thrilled to announce that Melon Mods is back and better than ever! After working through some challenges, we’re excited to bring the app back to life with new mods, features, and a special giveaway just for you!",
+            "buttonType": 1,
+            "showDetails": false,
+            "date": "2024-10-22",
+            "paragraphs": [
+                {
+                    "subTitle": "Giveaway Coming Soon!",
+                    "content": "Stay tuned for the announcement of a new giveaway, where you'll have the chance to win exclusive prizes."
+                },
+                {
+                    "subTitle": "",
+                    "content": "Thank you for being a part of our community. We’re excited to continue this journey with you and can’t wait to share more adventures!"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Second Giveaway Contest Announcement",
+            "description": "Hello everyone! Thank you for continuously using our Melon Mods application. We truly appreciate each one of you and are thrilled to launch our second Giveaway contest.",
+            "buttonType": 1,
+            "showDetails": false,
+            "date": "2024-10-27",
+            "paragraphs": [
+                {
+                    "subTitle": "How to Enter",
+                    "content": "For a chance to win a yearly or monthly subscription, follow these steps."
+                },
+                {
+                    "subTitle": "Step 1",
+                    "content": "Make sure you are using the latest version of the Melon Mods app."
+                },
+                {
+                    "subTitle": "Step 2",
+                    "content": "Turn on notifications in the app settings to stay updated with the latest news."
+                },
+                {
+                    "subTitle": "Step 3",
+                    "content": "Leave a review on the App Store and share your feedback. Let us know what you like, what you don’t like, and what new features you’d like to see. Don’t forget to include your nickname!"
+                },
+                {
+                    "subTitle": "Contest Period",
+                    "content": "The contest will run from October 27th to November 27th."
+                },
+                {
+                    "subTitle": "Winner Announcement",
+                    "content": "Winners will be announced in the app on December 1st."
+                }
             ]
         }
     ]
