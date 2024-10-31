@@ -1,5 +1,22 @@
 [
-
+  {
+    "id": 208,
+    "fileTypes": "Rick And Morty Scifi Weapons Mod Pack",
+    "author": "KIM:)",
+    "resources": [
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/Rick_and_Morty_Scifi_Weapons/Evil_Morty_Trident.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/Rick_and_Morty_Scifi_Weapons/Evil_Mortys_Portal_Gun.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/Rick_and_Morty_Scifi_Weapons/RickPrimes_Portal_Gun.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/Rick_and_Morty_Scifi_Weapons/Rick_Primes_Laser_Gun.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/Rick_and_Morty_Scifi_Weapons/Ricks_Laser_Gun.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/Rick_and_Morty_Scifi_Weapons/Ricks_Portal_Gun.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/Rick_and_Morty_Scifi_Weapons/Space_Beths_Laser_Gun.melmod"
+    ],
+    "tag": "Weapons",
+    "tagOrder": 4,
+    "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/melon-mods-b2166.appspot.com/o/MelonMods%2FRick_and_his_Scifi_Stuff.png?alt=media&token=2e0e091e-8628-4598-b0c5-90de6cde8230"
+  },
   {
     "id": 207,
     "fileTypes": "Yuji Sukuna JJK Mod Pack",
