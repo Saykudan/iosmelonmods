@@ -1,7 +1,7 @@
 {
     "selectedIdToShow": 5,
-    "showBanner": true,
-    "showSelectedNews": true,
+    "showBanner": false,
+    "showSelectedNews": false,
     "newsItems": [
         {
             "id": 1,
@@ -122,6 +122,28 @@
                 {
                     "subTitle": "Winner Announcement",
                     "content": "Winners will be announced in the app on December 1st."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Second Giveaway Contest Winners Announcement",
+            "description": "We’re thrilled to announce the winners of our Second Giveaway Contest! A big thank you to everyone who participated, and congratulations to all the winners!",
+            "buttonType": 2,
+            "showDetails": false,
+            "date": "2024-12-01",
+            "paragraphs": [
+                {
+                    "subTitle": "Yearly Subscription Winners",
+                    "content": "Unique Essence - 12345...ads"
+                },
+                {
+                    "subTitle": "Monthly Subscription Winners",
+                    "content": "Michael The Hero - Theneshehehs - Best CV"
+                },
+                {
+                    "subTitle": "How to Claim Your Prize",
+                    "content": "If your name is on the list, tap the button below and follow the instructions to claim your prize. Once you’ve submitted your Prize Winning Confirmation, keep an eye on your email inbox for further details. P.S. If you didn’t win this time, don’t worry—more contests and exciting opportunities are just around the corner!"
                 }
             ]
         }
