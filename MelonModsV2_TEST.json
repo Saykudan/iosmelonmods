@@ -83,8 +83,8 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/Cosmic_Gleam/cosmic_dagger.melmod",
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/Cosmic_Gleam/cosmic_gleam.melmod"
     ],
-    "tag": "NPC",
-	"tagOrder": 6,
+    "tag": "Anime",
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://firebasestorage.googleapis.com/v0/b/melon-mods-b2166.appspot.com/o/MelonMods%2FCosmic_Gleam.png?alt=media&token=524b2635-f2e6-4a33-8a36-940ef8852cdb"
   },
@@ -97,8 +97,8 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/Doom_Incarnate/doom_incarnate_alt.melmod",
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/Doom_Incarnate/doom_incarnate_spear.melmod"
     ],
-    "tag": "NPC",
-	"tagOrder": 6,
+    "tag": "Anime",
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://firebasestorage.googleapis.com/v0/b/melon-mods-b2166.appspot.com/o/MelonMods%2FDoom_Incarnate.png?alt=media&token=6841785b-728d-498b-bf0a-0c156a85191a"
   },
@@ -111,7 +111,7 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/D-16_Mod/Megatronus.melmod"
     ],
     "tag": "NPC",
-	"tagOrder": 6,
+    "tagOrder": 6,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://firebasestorage.googleapis.com/v0/b/melon-mods-b2166.appspot.com/o/MelonMods%2Fd-16.png?alt=media&token=ed36711b-f3af-41e6-b27c-eeed76746168"
   },
@@ -123,7 +123,7 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/Jeff_The_Killer/Jeff.melmod"
     ],
     "tag": "NPC",
-	"tagOrder": 6,
+    "tagOrder": 6,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://firebasestorage.googleapis.com/v0/b/melon-mods-b2166.appspot.com/o/MelonMods%2Fjeffkiller.png?alt=media&token=8fb3fdf4-4b9b-4d0d-a4db-7bccc67be795"
   },
@@ -135,7 +135,7 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/Phase_2_Shadow_Jester/Phase_2_Shadow_Jester.melmod"
     ],
     "tag": "NPC",
-	"tagOrder": 6,
+    "tagOrder": 6,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://firebasestorage.googleapis.com/v0/b/melon-mods-b2166.appspot.com/o/MelonMods%2FPhase_2_Shadow_Jester.png?alt=media&token=d64a43cc-358f-4466-9b5e-48c11d0f3ed2"
   },
@@ -147,7 +147,7 @@
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/Thunder_Fist/thunderfist.melmod"
     ],
     "tag": "NPC",
-	"tagOrder": 6,
+    "tagOrder": 6,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
     "image": "https://firebasestorage.googleapis.com/v0/b/melon-mods-b2166.appspot.com/o/MelonMods%2FThunder_Fist.png?alt=media&token=0e17c333-535a-4ec6-93a9-fa98c65706a0"
   },
