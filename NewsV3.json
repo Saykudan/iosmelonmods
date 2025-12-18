@@ -1,8 +1,156 @@
 {
-  "selectedIdToShow": 6,
+  "selectedIdToShow": 7,
   "showBanner": false,
-  "showSelectedNews": false,
+  "showSelectedNews": true,
   "newsItems": [
+    {
+      "id": 7,
+      "title": "🎄 Christmas Special Giveaway Contest! 🎁",
+      "description": "We're back and better than ever! We sincerely apologize for not being active lately. Melon Mods is now fully operational with exciting new features, and we're celebrating with a special Christmas Giveaway!",
+      "buttonType": 1,
+      "showDetails": false,
+      "date": "2025-12-18",
+      "paragraphs": [
+        {
+          "subTitle": "Our Apologies",
+          "content": "We want to sincerely apologize for our recent inactivity. We've been working hard behind the scenes to improve the app and bring you the best experience possible. Thank you for your patience and continued support!"
+        },
+        {
+          "subTitle": "How to Enter",
+          "content": "For a chance to win a yearly or monthly subscription this Christmas season, follow these simple steps."
+        },
+        {
+          "subTitle": "Step 1",
+          "content": "Make sure you are using the latest version of the Melon Mods app."
+        },
+        {
+          "subTitle": "Step 2",
+          "content": "Turn on notifications in the app settings so you don't miss any updates."
+        },
+        {
+          "subTitle": "Step 3",
+          "content": "Share your feedback with us! Tell us what features you'd like to see, what mods you enjoy most, or any suggestions for improvement. You can reach us through the app's feedback section or social media. Don't forget to include your nickname so we can identify you!"
+        },
+        {
+          "subTitle": "Contest Period",
+          "content": "The Christmas contest will run from December 18th, 2025 to January 18th, 2026 (one month)."
+        },
+        {
+          "subTitle": "Winner Announcement",
+          "content": "Winners will be announced in the app on January 21st, 2026. Good luck to everyone, and happy holidays!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Second Giveaway Contest Winners Announcement",
+      "description": "We're thrilled to announce the winners of our Second Giveaway Contest! We sincerely apologize for the delay due to our developer's sickness and the strict Apple review. A big thank you to everyone who participated, and congratulations to all the winners!",
+      "buttonType": 2,
+      "showDetails": false,
+      "date": "2024-12-01",
+      "paragraphs": [
+        {
+          "subTitle": "Yearly Subscription Winners",
+          "content": "Unique Essence - 12345...ads"
+        },
+        {
+          "subTitle": "Monthly Subscription Winners",
+          "content": "Michael The Hero - Theneshehehs - Best CV"
+        },
+        {
+          "subTitle": "How to Claim Your Prize",
+          "content": "If your name is on the list, tap the button below and follow the instructions to claim your prize. Once you've submitted your Prize Winning Confirmation, keep an eye on your email inbox for further details. P.S. If you didn't win this time, don't worry—more contests and exciting opportunities are just around the corner!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Second Giveaway Contest Announcement",
+      "description": "Hello everyone! Thank you for continuously using our Melon Mods application. We truly appreciate each one of you and are thrilled to launch our second Giveaway contest.",
+      "buttonType": 1,
+      "showDetails": false,
+      "date": "2024-10-27",
+      "paragraphs": [
+        {
+          "subTitle": "How to Enter",
+          "content": "For a chance to win a yearly or monthly subscription, follow these steps."
+        },
+        {
+          "subTitle": "Step 1",
+          "content": "Make sure you are using the latest version of the Melon Mods app."
+        },
+        {
+          "subTitle": "Step 2",
+          "content": "Turn on notifications in the app settings to stay updated with the latest news."
+        },
+        {
+          "subTitle": "Step 3",
+          "content": "Leave a review on the App Store and share your feedback. Let us know what you like, what you don't like, and what new features you'd like to see. Don't forget to include your nickname!"
+        },
+        {
+          "subTitle": "Contest Period",
+          "content": "The contest will run from October 27th to November 27th."
+        },
+        {
+          "subTitle": "Winner Announcement",
+          "content": "Winners will be announced in the app on December 1st."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "🎉 We're Back! New Mods and Giveaways Await! 🎉",
+      "description": "We're thrilled to announce that Melon Mods is back and better than ever! After working through some challenges, we're excited to bring the app back to life with new mods, features, and a special giveaway just for you!",
+      "buttonType": 1,
+      "showDetails": false,
+      "date": "2024-10-22",
+      "paragraphs": [
+        {
+          "subTitle": "Giveaway Coming Soon!",
+          "content": "Stay tuned for the announcement of a new giveaway, where you'll have the chance to win exclusive prizes."
+        },
+        {
+          "subTitle": "",
+          "content": "Thank you for being a part of our community. We're excited to continue this journey with you and can't wait to share more adventures!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Contest Winners Announcement",
+      "description": "We are excited to announce the winners of our recent contest. Congratulations to all the winners!",
+      "buttonType": 2,
+      "showDetails": false,
+      "date": "2024-08-27",
+      "paragraphs": [
+        {
+          "subTitle": "Yearly Subscription Winners",
+          "content": "Shotpack212 - Mikey S. P - Silly333333"
+        },
+        {
+          "subTitle": "Monthly Subscription Winners",
+          "content": "Daniel from Texas - fnaf boy 96 mr man - Mods and More Mods - Gojo Santoro - Thegreat1109"
+        },
+        {
+          "subTitle": "How To Claim Your Prize?",
+          "content": "If your name is on the list, please tap the button below and follow the instructions to claim your prize. After your Prize Winning Confirmation is sent, keep an eye on your email inbox for further details. P.S. If you didn't win this time, don't worry! Another contest is coming soon, giving you another chance to win!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Contest Ended",
+      "description": "Thank you to everyone who participated in our Summer Giveaway contest! The contest has officially ended, and we're excited to review all the entries. Stay tuned as we'll be announcing the winners in just 3 days!",
+      "buttonType": 0,
+      "showDetails": false,
+      "date": "2024-08-21",
+      "paragraphs": [
+        {
+          "subTitle": "",
+          "content": "We'll be selecting the lucky winners and sharing the results here. Make sure to check back on August 24th to see if you've won. Good luck to all participants!"
+        }
+      ]
+    },
     {
       "id": 1,
       "title": "Summer Giveaway Started",
@@ -34,116 +182,6 @@
         {
           "subTitle": "Winner Announcement",
           "content": "Winners will be announced in the app on August 23rd."
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Contest Ended",
-      "description": "Thank you to everyone who participated in our Summer Giveaway contest! The contest has officially ended, and we're excited to review all the entries. Stay tuned as we'll be announcing the winners in just 3 days!",
-      "buttonType": 0,
-      "showDetails": false,
-      "date": "2024-08-21",
-      "paragraphs": [
-        {
-          "subTitle": "",
-          "content": "We'll be selecting the lucky winners and sharing the results here. Make sure to check back on August 24th to see if you've won. Good luck to all participants!"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Contest Winners Announcement",
-      "description": "We are excited to announce the winners of our recent contest. Congratulations to all the winners!",
-      "buttonType": 2,
-      "showDetails": false,
-      "date": "2024-08-27",
-      "paragraphs": [
-        {
-          "subTitle": "Yearly Subscription Winners",
-          "content": "Shotpack212 - Mikey S. P - Silly333333"
-        },
-        {
-          "subTitle": "Monthly Subscription Winners",
-          "content": "Daniel from Texas - fnaf boy 96 mr man - Mods and More Mods - Gojo Santoro - Thegreat1109"
-        },
-        {
-          "subTitle": "How To Claim Your Prize?",
-          "content": "If your name is on the list, please tap the button below and follow the instructions to claim your prize. After your Prize Winning Confirmation is sent, keep an eye on your email inbox for further details. P.S. If you didn't win this time, don't worry! Another contest is coming soon, giving you another chance to win!"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "🎉 We're Back! New Mods and Giveaways Await! 🎉",
-      "description": "We’re thrilled to announce that Melon Mods is back and better than ever! After working through some challenges, we’re excited to bring the app back to life with new mods, features, and a special giveaway just for you!",
-      "buttonType": 1,
-      "showDetails": false,
-      "date": "2024-10-22",
-      "paragraphs": [
-        {
-          "subTitle": "Giveaway Coming Soon!",
-          "content": "Stay tuned for the announcement of a new giveaway, where you'll have the chance to win exclusive prizes."
-        },
-        {
-          "subTitle": "",
-          "content": "Thank you for being a part of our community. We’re excited to continue this journey with you and can’t wait to share more adventures!"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Second Giveaway Contest Announcement",
-      "description": "Hello everyone! Thank you for continuously using our Melon Mods application. We truly appreciate each one of you and are thrilled to launch our second Giveaway contest.",
-      "buttonType": 1,
-      "showDetails": false,
-      "date": "2024-10-27",
-      "paragraphs": [
-        {
-          "subTitle": "How to Enter",
-          "content": "For a chance to win a yearly or monthly subscription, follow these steps."
-        },
-        {
-          "subTitle": "Step 1",
-          "content": "Make sure you are using the latest version of the Melon Mods app."
-        },
-        {
-          "subTitle": "Step 2",
-          "content": "Turn on notifications in the app settings to stay updated with the latest news."
-        },
-        {
-          "subTitle": "Step 3",
-          "content": "Leave a review on the App Store and share your feedback. Let us know what you like, what you don’t like, and what new features you’d like to see. Don’t forget to include your nickname!"
-        },
-        {
-          "subTitle": "Contest Period",
-          "content": "The contest will run from October 27th to November 27th."
-        },
-        {
-          "subTitle": "Winner Announcement",
-          "content": "Winners will be announced in the app on December 1st."
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Second Giveaway Contest Winners Announcement",
-      "description": "We’re thrilled to announce the winners of our Second Giveaway Contest! We sincerely apologize for the delay due to our developer’s sickness and the strict Apple review. A big thank you to everyone who participated, and congratulations to all the winners!",
-      "buttonType": 2,
-      "showDetails": false,
-      "date": "2024-12-01",
-      "paragraphs": [
-        {
-          "subTitle": "Yearly Subscription Winners",
-          "content": "Unique Essence - 12345...ads"
-        },
-        {
-          "subTitle": "Monthly Subscription Winners",
-          "content": "Michael The Hero - Theneshehehs - Best CV"
-        },
-        {
-          "subTitle": "How to Claim Your Prize",
-          "content": "If your name is on the list, tap the button below and follow the instructions to claim your prize. Once you’ve submitted your Prize Winning Confirmation, keep an eye on your email inbox for further details. P.S. If you didn’t win this time, don’t worry—more contests and exciting opportunities are just around the corner!"
         }
       ]
     }
