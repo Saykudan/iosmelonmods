@@ -12,10 +12,10 @@
         "nativeAdUnitID": "ca-app-pub-4428949430819505/8722556918"
     },
     "yandex": {
-        "appOpenAdUnitID": "demo-appopenad-yandex",
-        "interstitialAdUnitID": "demo-interstitial-yandex",
-        "rewardedAdUnitID": "demo-rewarded-yandex",
-        "nativeAdUnitID": "demo-native-video-yandex"
+        "appOpenAdUnitID": "R-M-18342133-3",
+        "interstitialAdUnitID": "R-M-18342133-2",
+        "rewardedAdUnitID": "R-M-18342133-4",
+        "nativeAdUnitID": "R-M-18342133-1"
     },
     "countryTargeting": {
         "enabled": true,
@@ -37,5 +37,11 @@
             "rewardedAdsType": "yandex",
             "nativeAdsType": "yandex"
         }
+    },
+    "adNetworkSelection": {
+        "appOpenAdsType": "admob",
+        "interstitialAdsType": "admob",
+        "rewardedAdsType": "admob",
+        "nativeAdsType": "admob"
     }
 }
