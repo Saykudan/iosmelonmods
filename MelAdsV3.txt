@@ -1,0 +1,41 @@
+{
+    "appLovin": {
+        "appOpenAdUnitID": "",
+        "interstitialAdUnitID": "",
+        "rewardedAdUnitID": "",
+        "nativeAdUnitID": ""
+    },
+    "admob": {
+        "appOpenAdUnitID": "ca-app-pub-3940256099942544/5575463023",
+        "interstitialAdUnitID": "ca-app-pub-3940256099942544/4411468910",
+        "rewardedAdUnitID": "ca-app-pub-3940256099942544/1712485313",
+        "nativeAdUnitID": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "yandex": {
+        "appOpenAdUnitID": "demo-appopenad-yandex",
+        "interstitialAdUnitID": "demo-interstitial-yandex",
+        "rewardedAdUnitID": "demo-rewarded-yandex",
+        "nativeAdUnitID": "demo-native-video-yandex"
+    },
+    "countryTargeting": {
+        "enabled": true,
+        "rules": [
+            {
+                "countries": ["RU", "BY", "KZ", "UZ", "TJ", "KG", "TM", "AZ", "AM", "GE", "MD", "UA"],
+                "name": "CIS Countries",
+                "adNetworkSelection": {
+                    "appOpenAdsType": "yandex",
+                    "interstitialAdsType": "yandex",
+                    "rewardedAdsType": "yandex",
+                    "nativeAdsType": "yandex"
+                }
+            }
+        ],
+        "defaultSelection": {
+            "appOpenAdsType": "yandex",
+            "interstitialAdsType": "yandex",
+            "rewardedAdsType": "yandex",
+            "nativeAdsType": "yandex"
+        }
+    }
+}
