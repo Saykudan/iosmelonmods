@@ -32,10 +32,10 @@
             }
         ],
         "defaultSelection": {
-            "appOpenAdsType": "yandex",
-            "interstitialAdsType": "yandex",
-            "rewardedAdsType": "yandex",
-            "nativeAdsType": "yandex"
+            "appOpenAdsType": "admob",
+            "interstitialAdsType": "admob",
+            "rewardedAdsType": "admob",
+            "nativeAdsType": "admob"
         }
     },
     "adNetworkSelection": {
