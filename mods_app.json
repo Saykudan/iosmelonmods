@@ -1,15 +1,31 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Arctica Ice god",
-    "author": "@Vik𒉭Zero",
+    "fileTypes": "MUI Goku",
+    "author": "@anthozilla",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/arctica_ice_god/articaxe.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/arctica_ice_god/ice_god_arctica_.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_vr01.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_vr02.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_vr2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_vr3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_vr4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/mui_effect.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_moro_vr01.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_moro_vr02.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_moro_vr2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_moro_vr3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_moro_vr4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_mui_moro.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_tui_vr2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_tui.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_tui_vr01.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_tui_vr02.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/goku_tui_vr3.melmod"
     ],
-    "tag": "NPC",
+    "tag": "Anime",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/arctica_ice_god/arctica_ice_god.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mui_goku/mui_goku.jpg"
   }
 ]
