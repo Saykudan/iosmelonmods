@@ -1,41 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "godzilla",
-    "author": "@melmods",
+    "fileTypes": "Aircraft",
+    "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla__.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz10.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz11.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz12.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz13.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz14.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz15.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godz9.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_10.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_9.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_nofire_.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla_2022_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/aircraft/upz2266_.melsave"
     ],
-    "tag": "Dinosaurs",
+    "tag": "Military",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/godzilla/godzilla.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/aircraft/aircraft.jpg"
   }
 ]
