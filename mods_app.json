@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "PANTERA NEGRA",
+    "fileTypes": "Tiger II",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/pantera_negra/blackpanter.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/tiger_ii/untitled_tiger_ii_.melsave"
     ],
-    "tag": "Superheroes",
-    "tagOrder": 1,
+    "tag": "Military",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/pantera_negra/pantera_negra.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/tiger_ii/tiger_ii.jpg"
   }
 ]
