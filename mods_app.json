@@ -1,20 +1,15 @@
 [
   {
     "id": 1000,
-    "fileTypes": "GTA Protagonists",
-    "author": "melonmods",
+    "fileTypes": "Necron Warrior",
+    "author": "@wtetrr",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/carl_johnson_by_mnms.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/claude_speed_by_mnms.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/franklinclintonbymnm.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/michaeldesanta_bymnm.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/niko_bellic_by_mnms.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/tommy_vercetti.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/trevorphilips_bymnms.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/necron_warrior/gaus_gun.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/necron_warrior/warrion_necron.melmod"
     ],
     "tag": "NPC",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/gta_protagonists/gta_protagonists.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/necron_warrior/necron_warrior.jpg"
   }
 ]
