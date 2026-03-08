@@ -1,26 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Armored Titan S4",
-    "author": "Mr elppA",
+    "fileTypes": "PENNYWISE",
+    "author": "KIM:)",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/armors41.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/armors42.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/armortis4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/rebuarmor9.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/armoredtitans4_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/pennywise/pennywise_the_dancing_clown_modpack_by_kim.zip.melmod"
     ],
-    "tag": "Anime",
+    "tag": "GAMES",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_titan_s4/armored_titan_s4.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/pennywise/pennywise.jpg"
   }
 ]
