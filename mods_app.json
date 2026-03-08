@@ -1,23 +1,20 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Deviljho",
-    "author": "@Kai’s",
+    "fileTypes": "doctor strange",
+    "author": "@Mnms.‬",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/jho_p9.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/deviljho.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/captain_marvel.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/doctor_strange_hand_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/doctor_strange.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/doctor_strange2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/doctor_strange.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/doctor_strange_bymnm.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/magic_of_ds.melmod"
     ],
-    "tag": "Dinosaurs",
-    "tagOrder": 50,
+    "tag": "Superheroes",
+    "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/deviljho/deviljho.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/doctor_strange/doctor_strange.jpg"
   }
 ]
