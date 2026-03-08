@@ -1,17 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Human organs",
-    "author": "melonmods",
+    "fileTypes": "RED HULK",
+    "author": "KIM:)",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/human_organs/eye.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/human_organs/lungs.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/human_organs/a_heart.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/human_organs/brain.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/red_hulk/kim_5c_27s_red_hulk_mod.zip.melmod"
     ],
-    "tag": "NPC",
-    "tagOrder": 50,
+    "tag": "Superheroes",
+    "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/human_organs/human_organs.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/red_hulk/red_hulk.jpg"
   }
 ]
