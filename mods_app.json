@@ -1,14 +1,15 @@
 [
   {
     "id": 1000,
-    "fileTypes": "FNAF: Security Breach",
-    "author": "@DesterLega",
+    "fileTypes": "Arctica Ice god",
+    "author": "@Vik𒉭Zero",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/fnaf__security_breach/burntrap_from_fnaf_sb.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/arctica_ice_god/articaxe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/arctica_ice_god/ice_god_arctica_.melmod"
     ],
     "tag": "NPC",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/fnaf__security_breach/fnaf__security_breach.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/arctica_ice_god/arctica_ice_god.jpg"
   }
 ]
