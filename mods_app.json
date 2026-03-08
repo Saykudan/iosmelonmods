@@ -1,25 +1,24 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Indominus Rex",
+    "fileTypes": "Quetzalcoatlus",
     "author": "@Kai’s",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indominus_rex.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p10.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p11.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indorex_p9.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p11.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetza_p9.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetzalcoatlus.melsave"
     ],
     "tag": "Dinosaurs",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/indominus_rex/indominus_rex.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/quetzalcoatlus/quetzalcoatlus.jpg"
   }
 ]
