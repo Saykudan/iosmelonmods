@@ -1,8 +1,34 @@
 {
-  "selectedIdToShow": 7,
+  "selectedIdToShow": 8,
   "showBanner": false,
-  "showSelectedNews": false,
+  "showSelectedNews": true,
   "newsItems": [
+    {
+      "id": 8,
+      "title": "🎉 Christmas Giveaway Winners Announcement!",
+      "description": "First, we sincerely apologize for the delay in announcing the winners. We've been heads-down fixing bugs and heavily optimizing the app to give you the best experience possible. As a thank you for your patience, we've bumped up the number of winners!",
+      "buttonType": 2,
+      "showDetails": false,
+      "date": "2026-03-08",
+      "paragraphs": [
+        {
+          "subTitle": "Our Apologies",
+          "content": "We know this announcement is long overdue and we're truly sorry for the wait. The team has been working non-stop on major performance improvements and bug fixes. Your patience means the world to us, and to make it up to you, we've added more winners than originally planned!"
+        },
+        {
+          "subTitle": "🏆 Yearly Subscription Winners",
+          "content": "Yuryplay - чта?❤️ - Rateing mods"
+        },
+        {
+          "subTitle": "🎁 Monthly Subscription Winners",
+          "content": "Guitelecom - Okarunnn - Rizwan 1212 - The most underrated - You are so good! - Tbtbrf - Melon mods for melon sandbox - Good (rvvrthrtugrfj)"
+        },
+        {
+          "subTitle": "How to Claim Your Prize",
+          "content": "If your name is on the list, tap the button below and follow the instructions to claim your prize. Once you've submitted your Prize Winning Confirmation, keep an eye on your email inbox for further details. P.S. If you didn't win this time, don't worry — another contest is coming very soon!"
+        }
+      ]
+    },
     {
       "id": 7,
       "title": "🎄 Christmas Special Giveaway Contest! 🎁",
