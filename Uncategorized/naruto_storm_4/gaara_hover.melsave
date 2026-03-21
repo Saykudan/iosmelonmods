@@ -1,0 +1,2626 @@
+{
+  "icon": [
+    137,
+    80,
+    78,
+    71,
+    13,
+    10,
+    26,
+    10,
+    0,
+    0,
+    0,
+    13,
+    73,
+    72,
+    68,
+    82,
+    0,
+    0,
+    0,
+    64,
+    0,
+    0,
+    0,
+    64,
+    8,
+    6,
+    0,
+    0,
+    0,
+    170,
+    105,
+    113,
+    222,
+    0,
+    0,
+    2,
+    39,
+    73,
+    68,
+    65,
+    84,
+    120,
+    1,
+    237,
+    152,
+    205,
+    43,
+    4,
+    97,
+    28,
+    199,
+    127,
+    51,
+    59,
+    139,
+    44,
+    109,
+    138,
+    16,
+    177,
+    107,
+    39,
+    54,
+    214,
+    129,
+    242,
+    146,
+    11,
+    55,
+    55,
+    167,
+    245,
+    150,
+    27,
+    55,
+    23,
+    127,
+    5,
+    119,
+    37,
+    55,
+    185,
+    82,
+    74,
+    185,
+    184,
+    56,
+    72,
+    225,
+    32,
+    10,
+    41,
+    105,
+    55,
+    161,
+    214,
+    122,
+    201,
+    219,
+    34,
+    187,
+    181,
+    51,
+    230,
+    25,
+    205,
+    202,
+    114,
+    245,
+    252,
+    182,
+    246,
+    251,
+    171,
+    233,
+    121,
+    230,
+    153,
+    154,
+    239,
+    247,
+    251,
+    153,
+    231,
+    121,
+    102,
+    26,
+    34,
+    20,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    0,
+    8,
+    128,
+    64,
+    190,
+    17,
+    80,
+    184,
+    2,
+    171,
+    10,
+    5,
+    44,
+    113,
+    91,
+    63,
+    109,
+    82,
+    132,
+    203,
+    7,
+    27,
+    128,
+    161,
+    26,
+    111,
+    92,
+    49,
+    141,
+    87,
+    17,
+    124,
+    57,
+    150,
+    208,
+    185,
+    0,
+    168,
+    28,
+    194,
+    91,
+    139,
+    227,
+    38,
+    135,
+    238,
+    95,
+    154,
+    218,
+    95,
+    131,
+    255,
+    57,
+    214,
+    212,
+    212,
+    105,
+    135,
+    223,
+    119,
+    215,
+    86,
+    22,
+    104,
+    111,
+    211,
+    95,
+    90,
+    137,
+    255,
+    148,
+    204,
+    173,
+    123,
+    139,
+    167,
+    47,
+    32,
+    132,
+    67,
+    149,
+    166,
+    94,
+    92,
+    184,
+    27,
+    44,
+    41,
+    90,
+    229,
+    116,
+    40,
+    125,
+    9,
+    108,
+    156,
+    183,
+    210,
+    240,
+    240,
+    40,
+    37,
+    83,
+    165,
+    212,
+    172,
+    38,
+    187,
+    171,
+    130,
+    109,
+    229,
+    156,
+    0,
+    164,
+    106,
+    139,
+    167,
+    111,
+    31,
+    91,
+    135,
+    166,
+    230,
+    210,
+    122,
+    250,
+    61,
+    36,
+    218,
+    118,
+    169,
+    38,
+    178,
+    196,
+    164,
+    207,
+    0,
+    91,
+    63,
+    58,
+    75,
+    131,
+    253,
+    221,
+    219,
+    162,
+    223,
+    88,
+    223,
+    48,
+    147,
+    229,
+    73,
+    234,
+    169,
+    244,
+    77,
+    208,
+    73,
+    23,
+    61,
+    189,
+    160,
+    23,
+    79,
+    197,
+    71,
+    129,
+    74,
+    79,
+    206,
+    24,
+    71,
+    203,
+    6,
+    32,
+    29,
+    187,
+    122,
+    245,
+    88,
+    137,
+    15,
+    110,
+    239,
+    166,
+    56,
+    130,
+    179,
+    107,
+    118,
+    150,
+    40,
+    169,
+    94,
+    175,
+    98,
+    90,
+    107,
+    176,
+    139,
+    211,
+    12,
+    207,
+    30,
+    96,
+    37,
+    246,
+    135,
+    130,
+    228,
+    11,
+    234,
+    100,
+    16,
+    157,
+    231,
+    37,
+    128,
+    119,
+    67,
+    75,
+    80,
+    218,
+    37,
+    178,
+    63,
+    112,
+    2,
+    96,
+    219,
+    3,
+    226,
+    71,
+    199,
+    234,
+    51,
+    219,
+    252,
+    251,
+    70,
+    158,
+    3,
+    22,
+    190,
+    205,
+    112,
+    244,
+    236,
+    57,
+    200,
+    33,
+    252,
+    104,
+    208,
+    253,
+    141,
+    225,
+    74,
+    167,
+    12,
+    115,
+    137,
+    67,
+    63,
+    39,
+    52,
+    221,
+    238,
+    162,
+    245,
+    156,
+    48,
+    194,
+    101,
+    194,
+    231,
+    11,
+    89,
+    47,
+    1,
+    222,
+    98,
+    222,
+    3,
+    172,
+    255,
+    66,
+    204,
+    197,
+    12,
+    128,
+    57,
+    189,
+    37,
+    207,
+    10,
+    192,
+    99,
+    125,
+    11,
+    251,
+    253,
+    1,
+    214,
+    191,
+    67,
+    210,
+    167,
+    160,
+    121,
+    182,
+    146,
+    9,
+    188,
+    180,
+    178,
+    70,
+    35,
+    225,
+    129,
+    95,
+    211,
+    64,
+    105,
+    12,
+    75,
+    243,
+    37,
+    77,
+    72,
+    164,
+    20,
+    225,
+    79,
+    246,
+    54,
+    169,
+    165,
+    163,
+    143,
+    68,
+    155,
+    93,
+    206,
+    120,
+    104,
+    108,
+    78,
+    154,
+    47,
+    169,
+    95,
+    130,
+    34,
+    244,
+    245,
+    101,
+    196,
+    62,
+    170,
+    235,
+    244,
+    31,
+    173,
+    3,
+    67,
+    92,
+    151,
+    89,
+    210,
+    72,
+    59,
+    161,
+    230,
+    39,
+    244,
+    204,
+    18,
+    16,
+    99,
+    101,
+    129,
+    30,
+    122,
+    140,
+    238,
+    56,
+    151,
+    105,
+    114,
+    33,
+    34,
+    221,
+    83,
+    70,
+    156,
+    163,
+    35,
+    128,
+    56,
+    80,
+    156,
+    150,
+    195,
+    7,
+    52,
+    65,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    64,
+    0,
+    4,
+    242,
+    129,
+    192,
+    39,
+    76,
+    158,
+    136,
+    0,
+    7,
+    204,
+    78,
+    249,
+    0,
+    0,
+    0,
+    0,
+    73,
+    69,
+    78,
+    68,
+    174,
+    66,
+    96,
+    130
+  ],
+  "versionId": 3,
+  "mapName": "Water",
+  "iconSize": {
+    "x": 64.0,
+    "y": 64.0
+  },
+  "saveObjectContainers": [
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -110584,
+        "modedObjectId": "gaara2024710184636172",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -1.2702665328979492,
+          "y": 1.7701187133789063,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": [
+        {
+          "objectId": 0,
+          "instanceId": -110608,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": -1,
+          "position": {
+            "x": 1.2381796836853027,
+            "y": -0.91759681701660156,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.37488853931427
+          },
+          "scale": {
+            "x": 0.97256898880004883,
+            "y": 0.97256898880004883,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000140000002;080600000078:5:8750000017449444154480=>=94;12>05411486<?5>126>:2404327:>46<48;68:8;46:9>>2<653=<:;?5081:2?:011:==8<:0=1=8=68240::<3=;3?98?7?<6><<>462933<9==39>7><7?;>3=?34?7245?2<:0>6407?>;=03>3:=>52:3<64:<<69:01271<1?6?34300620<6<>7:<405020090>;;>36<?=9>??8?4?>=5?:?1=62;?<05:::0>70?91>96303?78>8<22;>0631>76=31869963018:5<=3?8>=:;?92=799???51>97;0<63923618=:527>:2=?798804<=;1;=0;:81>62252?4585806923620018:6;5=>470>1;01>45=7=74<0=491?;<0001>:46010<676?>106>=93<8<812797>772;27764:<<9?59514>;;;966;50?7;91<40?3=053=589<2647514965=5>96:56<9>8=>5?=>1<6>58069=20:744:7:>874;::::75;=95>?994=9<1:12<2<0>9;0?932>0904887:?<;03>457577617?731>904777=>;=<<5<7327;4=6143;?;761706040<;;3?464;16<05465406>0194:7>4?75=;18==:25721>85371>994>19;=802:64>335=7<5=>3595?<<<0>6407?:39?00=265?842>==3:?<>:0000000049454>44:>426082",
+              "textureSize": {
+                "x": 20.0,
+                "y": 43.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [],
+          "distJoints": [],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "Head",
+          "childIndex": [
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110634,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 0,
+          "position": {
+            "x": -1.7844215108198114E-05,
+            "y": -0.20279836654663086,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.36484628915786743
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000100000008008060000000295>9220000013<494441546805>=94;10=<23010459=081:8:=0=1=1;106056;=0310141:247;04044<;006<<306744<405:0:>08<7>64<<5=6284>8;>25706<9?9?2?>?:<38<7460334400334400334400334400334400334?0370319<8?3:1;;>3=9>:8?57=7<423<64?4<07:?<=>33>:6=;?;109487:1975;38;29?<36<=?00;2251502?<07009054500?24:=4?81:81968;0780>>23;015219>=375;579>69;>425;4927<;<:=575>=019=19<4:9<76315=076;:00>4?4:2283<2;878<986<8=25?=;0:91958>5<3;;>37401:900598821=:>6564008192=;68=75999776=>:?7<6?66>0579?7?;2190=:963;3<<6765;9>=?<0><4008<77;;55=6990182:=;>;989:7<3<68:?15759168;:884329794012:82>;2;1;=19200126<41?<37?11;9138592:?29344>=7500674?0334400334400334400334400334400334?032?00048504;<528=?38620000000049454>44:>426082",
+              "textureSize": {
+                "x": 16.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -50.0,
+                "y": 50.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "UpperBody",
+          "childIndex": [
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110660,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 1,
+          "position": {
+            "x": -6.8568246206268668E-05,
+            "y": -0.17600016295909882,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.32176882028579712
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000120000008008060000000660391?00000122494441546805>=94;10=<23010451=040=454:3:3:=6:06014262091>8515223=133006;300153300169298044387<=?=989054242>2478:7<679?;?<?>?6<1;<38?0448800448800448800448800448800448800448>0<70824369?2<2;6>=6<6364=5374955=9679:3319423:7?=4676;5?>74=49:66;6=:;=9<873570;<0>07457<61=142>7:;31?51??:=4=6166;37>5=044=9:?84::::92315>5?164109796741:714;0434:28146827845:2574=<>6=>5859;5;7<;>?55874>95118<3926965>6657073642783=;>56?>58?8;=5;>;3:57;848?41571803=1=5<446514;:?=0878;22<946>321?1;>?3;24235108<70>17=3;<471?6=0=05:385?01<:180;5:385>:097=6256942=09900009900009900009900009900009900009?<25813;4:?=2;13>==331=?0000000049454>44:>426082",
+              "textureSize": {
+                "x": 18.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -30.0,
+                "y": 30.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": 0.040306951850652695,
+                "y": -0.024727325886487961,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.011412177234888077,
+                "y": -0.045497015118598938,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 2,
+              "endObjectId": 16
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "MiddleBody",
+          "childIndex": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110686,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 2,
+          "position": {
+            "x": -7.3532472015358508E-05,
+            "y": -0.17600142955780029,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.27480143308639526
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=49484452000000180000008008060000001142:9=6000001;4494441546805>=96:14>03411086:70=18346948080:52=1678004830081>30578062<0:<;332031;88:2230153<038280222484208:4600;3658>;9;;;9=;=9;==084>45?;37;;;=3?966;?6;2725<280011880011880011880011880011880011880011880011880011880817?65:027=5>>:<=0:7:<;=?3<67239?2?29=8:7<72=297<55?<=4;56>2>=:3=5;0;=;?7;48=7=37158=?5>;=15:1=5<:8;0363510370?2<=<16?;262?=;=<?9094>4<<6;5534;9;928=5949:;<11301<1==3<333=1>93985999?73877983?;;;72>5=5670;36>9:=59=;<=8:;6=689<>4>8878>>32<<1;48<283;=7<3592:31520415=>6<50072=:84?7568;;981;79::70?3;;2>92;<:=1;556117:<>4?2?1:8>881>5?>77=497:1143:<5??46<?652>;:40<089;6=>?4092>9>:658?13?0;0=:?4?<24=28;2488679=54<3748<;58>;>649=2<07120554:;62880655<?:;<?<90049>085;8005:9300;<;30;>04=66<5;901;9;77003;8;:1<48124043;<;0648086?03:36;200;1:4?:;<=?=6877460>>;:=30=3<>?:113806?15837406<4=4011033=4?<=731?:496700=>815314<26000066000066000066000066000066000061<06;>00:84>4:;903960<100000000049454>44:>426082",
+              "textureSize": {
+                "x": 24.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -30.0,
+                "y": 30.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerBody",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110712,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 3,
+          "position": {
+            "x": 0.0019229898462072015,
+            "y": -0.20198190212249756,
+            "z": 0.10000000149011612
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.4478727579116821
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000800000080080600000036><283>00000115494441545809>=92;10:<2301086:?92<522:>0507477=031?41<1<14=?011053707<18>1===1<7574105<44::=4:5:0?><13;9336>028<21=;4;9?6??72<9?=0991863::00>:803>:803:?01?0>44;<<=4>:7?7406>8<:166;345;;==<66:?655157912:0<8152160;61;0=?723940;50966548270182>:>;:707:0<:?=7>?358<35?682?145>05>><0:=>201:85085827519<20401?2?<4<781049=2;5235>51966=>=19<<66531:0><794:62;9:<?171?:0=?1?58>0743:501<;7:92872:?82;95>2?4273>2?>9325269311>;;45<:>25:?;529<:3;91>3<6=:1<6>175?2;880?>800813381=56<56>378=<<;;=>425=<;1;6045?1<3>;01:80=90<210?0210382<?06=1?0<>;:80>:803>:803::00>?<=081279:9?513=056725?80000000049454>44:>426082",
+              "textureSize": {
+                "x": 8.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -130.0,
+                "y": 10.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LegF",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110738,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 4,
+          "position": {
+            "x": -0.0047795809805393219,
+            "y": -0.25807979702949524,
+            "z": -0.10000000149011612
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 359.3905029296875
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000800000080080600000036><283>000000=6494441545809>=92<=0=<2300<851;944;2526>8005<=9:03;;142>7::387483>>82=44;249003<?72?>?81142>2?07271>=3<7?769?=2753<74800>=0013:4007?><201872=86>170<537:2?7;>=;2169<548<8;;:5534>=?>?4;82;=1451758474>22402>9;6974=02;::3000;62;6;=7<8?603;?2?94:68>1556029?9;7?>660=??19214723=711=;76412=89511042488:365182146;141580928;5420849:>8?>74>4?6714424<>82149?=<;2:<<583454324<<?3197911;?234<=3<93=258<>3=1;==<:1588:053:4007>8001=:0033?71>00645423247440<?6200000000049454>44:>426082",
+              "textureSize": {
+                "x": 8.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": 0.0,
+                "y": 140.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": -0.0042068073526024818,
+                "y": 0.046177968382835388,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": -0.052198782563209534,
+                "y": -0.012283037416636944,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 5,
+              "endObjectId": 16
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerLegF",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110764,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 5,
+          "position": {
+            "x": 0.029937488958239555,
+            "y": -0.16006313264369965,
+            "z": 0.10000001639127731
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 359.26693725585938
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000?000000070806000000=7851727000000::494441541819636480021=1=?=??<<<<2<302><385>5?50<0<424:0<8<123:8<70413406423550>2>?=?3?0<2003601:416:?5?58=??7??>?<03:<>==>;=:;2806:16806:940=6<8?0>>1>58132?2?0798?>??>2<:7?1003>61:0<<=60552002:851<9;;90819;9;07>11::824<<10;8>6:?5?;?8015<235431928>25097<0=4<0?=:0:8:80<76124<82181:6>;386860>83;8;822<3<;97?7>1?:407<10008921;34162=;;76?640400?79735:;:97177=<0000000049454>44:>426082",
+              "textureSize": {
+                "x": 15.0,
+                "y": 7.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -10.0,
+                "y": 45.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "FootF",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110792,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 3,
+          "position": {
+            "x": 0.0013668625615537167,
+            "y": -0.20293043553829193,
+            "z": -0.10000000149011612
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.1375802755355835
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000800000080080600000036><283>000000<1494441545809>=92<=0=8330148303<:05:9133040?79?:31;=00198:0129748;48>>4<88177>150:995?<0>>4<75?<<8;2125971370024><0093881??4860609;?37<=?31<?39:769;::5657954:=3>8>220?011:548480=35::32>:279034:29919>1:10::9?<=0>80<;;6;=3:367385>;45=539?006>:=201703842:12?211<38396053>;1::0<==1>59:034?>9?8058763:3>=15?:;9151:=7?5=9?>4;85=86873>00621;:9<008084300?0108:<0:681?143<3:0127>0049<8013?8;104=>52<235517><?8=280000000049454>44:>426082",
+              "textureSize": {
+                "x": 8.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -130.0,
+                "y": 10.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LegB",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110818,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 7,
+          "position": {
+            "x": -7.90553167462349E-06,
+            "y": -0.26098558306694031,
+            "z": -0.10000000149011612
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.135029673576355
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000800000080080600000036><283>000000=6494441545809>=92<=0=<2300<851;944;2526>8005<=9:03;;142>7::387483>>82=44;249003<?72?>?81142>2?07271>=3<7?769?=2753<74800>=0013:4007?><201872=86>170<537:2?7;>=;2169<548<8;;:5534>=?>?4;82;=1451758474>22402>9;6974=02;::3000;62;6;=7<8?603;?2?94:68>1556029?9;7?>660=??19214723=711=;76412=89511042488:365182146;141580928;5420849:>8?>74>4?6714424<>82149?=<;2:<<583454324<<?3197911;?234<=3<93=258<>3=1;==<:1588:053:4007>8001=:0033?71>00645423247440<?6200000000049454>44:>426082",
+              "textureSize": {
+                "x": 8.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": 0.0,
+                "y": 140.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [
+            {
+              "constraintId": 6,
+              "startPoint": {
+                "x": 0.0013909871922805905,
+                "y": 0.012587470933794975,
+                "z": 0.0
+              },
+              "endPoint": {
+                "x": 0.019784990698099136,
+                "y": -0.020993024110794067,
+                "z": 0.0
+              },
+              "joint": {
+                "instanceID": 0
+              },
+              "endObject": {
+                "instanceID": 0
+              },
+              "mechCon": {
+                "inputID": "",
+                "inputMechanic": {
+                  "instanceID": 0
+                },
+                "outputID": "",
+                "outputMechanic": {
+                  "instanceID": 0
+                }
+              },
+              "distance": 0.0,
+              "startObjectId": 8,
+              "endObjectId": 16
+            }
+          ],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "LowerLegB",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110844,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 8,
+          "position": {
+            "x": 0.029942801222205162,
+            "y": -0.16100303828716278,
+            "z": -0.10000001639127731
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0108221769332886
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000?000000070806000000=7851727000000:=494441541819636480021=1=?=??<<<<2<302><385>5?50<0<424:0<8<123:8<70413406423550>2>?=?3?0<2003601:416:?5?58=??7??>?<03:<>==>;=:;2806:16806:940=6<8?0>>1>58132?2?0798?>??>2<:7?1003>61:0<<=60552002:851<9;;90819;9;07>11::824<<10;8>6:?5?;?8015<235431928>25097<0=4<0?=:0:8:80<76124<82181:6>334<;186860>8<<9202>:><870?0>06638=?=>=>97>1>5<;?;60?>8=1;571800765?330?>492676?0000000049454>44:>426082",
+              "textureSize": {
+                "x": 15.0,
+                "y": 7.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -10.0,
+                "y": 45.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "FootB",
+          "childIndex": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110872,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 1,
+          "position": {
+            "x": -0.010281078517436981,
+            "y": -0.079468414187431335,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 354.46392822265625
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000800000080080600000036><283>000000:2494441545809>=93410>40400<453;<2<61=1<<5755=<4519<<0<6<682947<69676:4522923?0;=3;44?=;;<20<24303344003344003??3090;066=?<:86;86;4486598>=:?1<88;00154:7745401582;;?;02746>742>202:6:>>45605:>3216>44043920>:5100;68;<605:05=2<54=;;691:<;0837=<901;63520072069>?2?807<51>701<;59>8?992<5678?317:8?<;?96?=81<631::0011::0011:?8<8<00>;=9319<?577;43:>0000000049454>44:>426082",
+              "textureSize": {
+                "x": 8.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -160.0,
+                "y": 160.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "ArmF",
+          "childIndex": [
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110898,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 10,
+          "position": {
+            "x": 0.0099935177713632584,
+            "y": -0.25797471404075623,
+            "z": 0.10000000149011612
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 354.46124267578125
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000:0000008008060000003219?803000000?1494441545809>=93310><2300<45930:164626161646<415;802<7>4003=0;626461614262660872=29?<669::40<5049?<589?=?=1=3?5163?8230112200112200112?83?025656=>2?8<4;575?<?<3>=?830;>2>373;264223<40=12;5:88418596:52<29200;969<2>;13?=<338<=517<<4;5>4:<1<3?=:1:>2=<5539:2286234602=2544;21407<2;79629392137<3218?782??283=128>4?1?;42??5777>7567=0:186;;787?>5388:2>5067515>=6:>7<5=537;:=;<94?0;<211;7=43:08>?9734573<5747:3:;178>;976?9264560249936<8;97;7?>41431615617955156>3950448800448800448>0=709;<008?<231347702=<5:0000000049454>44:>426082",
+              "textureSize": {
+                "x": 10.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -150.0,
+                "y": 0.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "HandF",
+          "childIndex": [
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110928,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 1,
+          "position": {
+            "x": -0.010528517886996269,
+            "y": -0.079443275928497314,
+            "z": -0.10000000149011612
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 354.32089233398438
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000800000080080600000036><283>000000:2494441545809>=93410>40400<453;<2<61=1<<5755=<4519<<0<6<682947<69676:4522923?0;=3;44?=;;<20<24303344003344003??3090;066=?<:86;86;4486598>=:?1<88;00154:7745401582;;?;02746>742>202:6:>>45605:>3216>44043920>:5100;68;<605:05=2<54=;;691:<;0837=<901;63520072069>?2?807<51>701<;59>8?992<5678?317:8?<;?96?=81<631::0011::0011:?8<8<00>;=9319<?577;43:>0000000049454>44:>426082",
+              "textureSize": {
+                "x": 8.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -160.0,
+                "y": 160.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "ArmB",
+          "childIndex": [
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "objectId": 0,
+          "instanceId": -110954,
+          "modedObjectId": "",
+          "localId": 0,
+          "parentId": 12,
+          "position": {
+            "x": 0.0099994540214538574,
+            "y": -0.25797313451766968,
+            "z": -0.10000000149011612
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 354.3209228515625
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "color": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "intensity": 0.0,
+          "layer": 6,
+          "sortingLayer": "Default",
+          "gravity": false,
+          "freezed": false,
+          "notBreakable": false,
+          "isHuman": true,
+          "isActivationForced": false,
+          "TreeBranch": {
+            "burnt": false
+          },
+          "LightSaveData": {
+            "<IsActive>k__BackingField": false,
+            "<Color>k__BackingField": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "<IsBrokenByWater>k__BackingField": false,
+            "<ChildrenSaveData>k__BackingField": []
+          },
+          "BreakableSaveData": {
+            "<IsBroken>k__BackingField": false,
+            "<IsBreakable>k__BackingField": false
+          },
+          "humanData": [
+            {
+              "texture": [],
+              "textureOPT": "89504>470=0:1:0:0000000=494844520000000:0000008008060000003219?803000000?1494441545809>=93310><2300<45930:164626161646<415;802<7>4003=0;626461614262660872=29?<669::40<5049?<589?=?=1=3?5163?8230112200112200112?83?025656=>2?8<4;575?<?<3>=?830;>2>373;264223<40=12;5:88418596:52<29200;969<2>;13?=<338<=517<<4;5>4:<1<3?=:1:>2=<5539:2286234602=2544;21407<2;79629392137<3218?782??283=128>4?1?;42??5777>7567=0:186;;787?>5388:2>5067515>=6:>7<5=537;:=;<94?0;<211;7=43:08>?9734573<5747:3:;178>;976?9264560249936<8;97;7?>41431615617955156>3950448800448800448>0=709;<008?<231347702=<5:0000000049454>44:>426082",
+              "textureSize": {
+                "x": 10.0,
+                "y": 128.0
+              },
+              "clothesIds": [],
+              "additionalClothesIndexes": [],
+              "integrity": 1500.0,
+              "health": 100.0,
+              "blood": 100.0,
+              "rottenScale": 0.0,
+              "infected": false,
+              "isFireProof": false,
+              "immortal": false,
+              "takenObjectId": -1,
+              "anId": 0,
+              "bloodColor": {
+                "r": 0.650943398475647,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+              },
+              "isAttachedToSlot": false,
+              "slotVehicleInstanceId": -1,
+              "slotVehicleId": 0,
+              "occupedSlotId": -1
+            }
+          ],
+          "mechanicData": [],
+          "brokenJoints": [],
+          "hingeJoints": [
+            {
+              "index": 1,
+              "limits": {
+                "x": -150.0,
+                "y": 0.0
+              },
+              "useLimits": true
+            }
+          ],
+          "distJoints": [
+            {
+              "index": 0,
+              "dist": 0.05000000074505806
+            }
+          ],
+          "constraints": [],
+          "collisionIgnores": [],
+          "addData": [],
+          "saveMetaDatas": [],
+          "childName": "HandB",
+          "childIndex": [
+            0,
+            0,
+            2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -111084,
+        "modedObjectId": "sand bottle2024710184743267",
+        "localId": 0,
+        "parentId": 1,
+        "position": {
+          "x": -0.148424431681633,
+          "y": -0.074646897614002228,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 353.3170166015625
+        },
+        "scale": {
+          "x": 1.159717321395874,
+          "y": 1.2393991947174072,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": 130,
+        "instanceId": -111108,
+        "modedObjectId": "",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.0067262649536132813,
+          "y": -0.43246841430664063,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 0.93434840440750122,
+          "y": 0.93434840440750122,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "BackGroundItem",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [
+          {
+            "activationInput": 1.0,
+            "floatParameters": [
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 6,
+            "startPoint": {
+              "x": 0.03046843409538269,
+              "y": -0.047692473977804184,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.00024724748800508678,
+              "y": -0.02960469014942646,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 15,
+            "endObjectId": 16
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -111134,
+        "modedObjectId": "sand202471018471349",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.025360107421875,
+          "y": -0.42005157470703125,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 2.5675253868103027
+        },
+        "scale": {
+          "x": 1.3512260913848877,
+          "y": 1.3512260913848877,
+          "z": 1.0
+        },
+        "color": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "w": 1.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "Default",
+        "gravity": false,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [
+          {
+            "type": "ModEditor.SaveLoad.Models.ModScriptsData",
+            "fieldName": "ModScriptsData",
+            "fieldData": "{\"ExplosiveModels\":[],\"BladeModels\":[{\"IsCustomModel\":false,\"IsNull\":false,\"Damage\":90.0,\"Rotation\":0.0,\"Id\":{\"Value\":\"c35a6c9d-ab12-40e1-a333-f29ccbf561c3\"},\"TriggerColliderData\":{\"colliderIndex\":3,\"materialIndex\":0,\"position\":{\"x\":0.0,\"y\":0.0},\"size\":{\"x\":0.248046875,\"y\":0.20703125},\"IsTrigger\":true,\"points\":[{\"x\":-0.26327991485595705,\"y\":0.12333518266677857},{\"x\":0.2828853130340576,\"y\":0.11026883125305176},{\"x\":0.2627372741699219,\"y\":-0.12257665395736695},{\"x\":-0.28358423709869387,\"y\":-0.11710304021835327}],\"Id\":{\"Value\":\"f1b0a202-43b1-4fbd-935d-7fe292733d4a\"}},\"BladesCollidersData\":[],\"Trigger\":{\"instanceID\":0},\"Blades\":[]}],\"Path\":\"\"}"
+          }
+        ],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    }
+  ],
+  "averagePosition": {
+    "x": 14.996505737304688,
+    "y": 22.687171936035156,
+    "z": 0.0
+  },
+  "metadata": {
+    "ManifestId": "",
+    "Name": ""
+  }
+}
