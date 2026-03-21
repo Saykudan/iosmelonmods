@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Rebirth Mosasaurus",
+    "fileTypes": "Mortem rex",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rebirth_mosasaurus/kai_5c_27s_rebirthmosa_rebuild.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/mortem_rex/kais_mortem_rex.zip.melmod"
     ],
     "tag": "Dinosaurs",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rebirth_mosasaurus/rebirth_mosasaurus.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/mortem_rex/mortem_rex.jpg"
   }
 ]
