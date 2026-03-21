@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Rudy the baryonyx",
+    "fileTypes": "Rebirth Mosasaurus",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rudy_the_baryonyx/kais_rudy.zip.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rebirth_mosasaurus/kai_5c_27s_rebirthmosa_rebuild.melmod"
     ],
     "tag": "Dinosaurs",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rudy_the_baryonyx/rudy_the_baryonyx.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rebirth_mosasaurus/rebirth_mosasaurus.jpg"
   }
 ]
