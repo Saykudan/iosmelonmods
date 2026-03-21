@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "CDH Trex",
+    "fileTypes": "Rudy the baryonyx",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/cdh_trex/kais_cdhtrexmod.zip.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rudy_the_baryonyx/kais_rudy.zip.melmod"
     ],
     "tag": "Dinosaurs",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/cdh_trex/cdh_trex.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/rudy_the_baryonyx/rudy_the_baryonyx.jpg"
   }
 ]
