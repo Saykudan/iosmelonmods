@@ -1,19 +1,28 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Deadpool & Wolverine",
-    "author": "@AROM@MnMs",
+    "fileTypes": "Future Soldiers",
+    "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/deadpool___wolverine/deadpool.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/deadpool___wolverine/deadpool_bymnms.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/deadpool___wolverine/deadpool_by_mnms__1_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/deadpool___wolverine/deadpool_by_mnms.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/deadpool___wolverine/wade_wilson_by_mnms.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/deadpool___wolverine/wolverine_by_arom.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit11.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit10.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit9.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit7v2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit6v3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit6v2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit3v2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/battlesuit3.melmod"
     ],
-    "tag": "Superheroes",
-    "tagOrder": 1,
+    "tag": "Military",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/deadpool___wolverine/deadpool___wolverine.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/future_soldiers/future_soldiers.jpg"
   }
 ]
