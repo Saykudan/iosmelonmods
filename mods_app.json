@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "UPDATE TOJI JJK | Moveset Added",
-    "author": "GianGames [OFFICIAL]",
+    "fileTypes": "Omnidroid vx1 save",
+    "author": "CHRIS MODS MPG",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/update_toji_jjk___moveset_added/toji_2bmovesetbygian.zip.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/omnidroid_vx1_save/omnidroid_vx1_-_chris_mods_mpg.zip.melmod"
     ],
-    "tag": "Anime",
+    "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/update_toji_jjk___moveset_added/update_toji_jjk___moveset_added.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/omnidroid_vx1_save/omnidroid_vx1_save.jpg"
   }
 ]
