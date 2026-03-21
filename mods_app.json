@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "JWD giganatosaurus rebuild",
+    "fileTypes": "Godzilla Bloodbath",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/jwd_giganatosaurus_rebuild/kai_5c_27s_giganatosaurusv2.zip.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_bloodbath/kai_5c_27s_bloodbath_goji.zip.melmod"
     ],
-    "tag": "Dinosaurs",
+    "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/jwd_giganatosaurus_rebuild/jwd_giganatosaurus_rebuild.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_bloodbath/godzilla_bloodbath.jpg"
   }
 ]
