@@ -1,16 +1,19 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Doomguy",
-    "author": "@felipe",
+    "fileTypes": "justice League V2",
+    "author": "@demonpneum",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/doomguy/crisol_by_felipe.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/doomguy/doomicorn_by_felipe.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/doomguy/doom_guy_by_felipe.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/justice_league_v2/aquaman.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/justice_league_v2/batman.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/justice_league_v2/cyborn.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/justice_league_v2/flash.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/justice_league_v2/superman.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/justice_league_v2/wonderwoman.melmod"
     ],
     "tag": "Vehicles",
     "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/doomguy/doomguy.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/justice_league_v2/justice_league_v2.jpg"
   }
 ]
