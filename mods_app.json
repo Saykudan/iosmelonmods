@@ -1,14 +1,15 @@
 [
   {
     "id": 1000,
-    "fileTypes": "M1 Abrams",
-    "author": "melonmods",
+    "fileTypes": "Maki Zenin",
+    "author": "@iiKxaye",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/m1_abrams/m1_abrams.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/maki_zenin/maki_zenin.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/maki_zenin/split_soul_katana.melmod"
     ],
-    "tag": "Military",
+    "tag": "Anime",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/m1_abrams/m1_abrams.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/maki_zenin/maki_zenin.jpg"
   }
 ]
