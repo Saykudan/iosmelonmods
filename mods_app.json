@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "PENNYWISE",
+    "fileTypes": "SPIDER-MAN x INVINCIBLE",
     "author": "KIM:)",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/pennywise/pennywise_the_dancing_clown_modpack_by_kim.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/spider-man_x_invincible/kim_5c_27s_classic_spider-man.melmod"
     ],
-    "tag": "GAMES",
-    "tagOrder": 50,
+    "tag": "Superheroes",
+    "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/pennywise/pennywise.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/spider-man_x_invincible/spider-man_x_invincible.jpg"
   }
 ]
