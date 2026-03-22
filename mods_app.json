@@ -1,21 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Mini pack for the anime \\”Berserk\\”",
-    "author": "melonmods",
+    "fileTypes": "homelander",
+    "author": "@BLYT’s",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/beherit.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/gats.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/gats01.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/gats1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/griffit_zatmenie.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/griffit.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/mech_griffita.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/mechgatsa.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/homelander/homelander_blyt.melmod"
     ],
-    "tag": "Anime",
-    "tagOrder": 50,
+    "tag": "Superheroes",
+    "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/mini_pack_for_the_anime___berserk__/mini_pack_for_the_anime___berserk__.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/homelander/homelander.jpg"
   }
 ]
