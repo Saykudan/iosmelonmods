@@ -1,16 +1,26 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Red Mushroom Toad",
-    "author": "@uuuu",
+    "fileTypes": "Star Wars characters",
+    "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/red_mushroom_toad/red_mushroom.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/red_mushroom_toad/toad.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/red_mushroom_toad/toad_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/c_3po_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/chewbacca_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/dart_maul_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/darth_vader_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/death_trooper_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/luke_skywalker_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/obiwan_kenobi_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/stormtrooper_general_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/stormtrooper_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/x_winger_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/at_at_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/at_st_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/grievous_.melsave"
     ],
     "tag": "NPC",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/red_mushroom_toad/red_mushroom_toad.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/star_wars_characters/star_wars_characters.jpg"
   }
 ]
