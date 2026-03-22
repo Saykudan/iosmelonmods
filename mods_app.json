@@ -1,16 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Satoru gojo JJK",
-    "author": "CHRIS MODS MPG",
+    "fileTypes": "Geortharoc",
+    "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/hollow_purple_by_chrispaul544.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/satoru_gojo_eyes_v2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/satoru_gojo_v2.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/geortharoc/kais_geortharoc_mod.melmod"
     ],
-    "tag": "Anime",
+    "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/satoru_gojo_jjk.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/geortharoc/geortharoc.jpg"
   }
 ]
