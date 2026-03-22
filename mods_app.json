@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Mechanical vehicle",
+    "fileTypes": "Big yellow flashlight",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/mechanical_vehicle/161391496464_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/big_yellow_flashlight/2_51904832028750699100000xqfvjpr.melmod"
     ],
-    "tag": "Vehicles",
-    "tagOrder": 4,
+    "tag": "Objects",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/mechanical_vehicle/mechanical_vehicle.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/big_yellow_flashlight/big_yellow_flashlight.jpg"
   }
 ]
