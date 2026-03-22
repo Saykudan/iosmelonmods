@@ -1,28 +1,16 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Distortus rex v3",
-    "author": "Kai's workshop",
+    "fileTypes": "Satoru gojo JJK",
+    "author": "CHRIS MODS MPG",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p10.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p11.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p12.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p13.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p14.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/drex_v3_p9.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/distortarex_rebuild.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/hollow_purple_by_chrispaul544.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/satoru_gojo_eyes_v2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/satoru_gojo_v2.melmod"
     ],
-    "tag": "Monsters",
+    "tag": "Anime",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/distortus_rex_v3/distortus_rex_v3.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/satoru_gojo_jjk/satoru_gojo_jjk.jpg"
   }
 ]
