@@ -1,18 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "superman laser eyes",
-    "author": "@chris Paul",
+    "fileTypes": "Spectacular Spider-Man",
+    "author": "@sourtop134",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/superman_laser_eyes/hulk_2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/superman_laser_eyes/hulk.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/superman_laser_eyes/super_man_laser_eyes.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/superman_laser_eyes/superman_laser_eye.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/superman_laser_eyes/superman_v1.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/spectacular_spider-man/spectacularspideyfix.melmod"
     ],
     "tag": "Superheroes",
     "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/superman_laser_eyes/superman_laser_eyes.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/spectacular_spider-man/spectacular_spider-man.jpg"
   }
 ]
