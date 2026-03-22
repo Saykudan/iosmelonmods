@@ -1,14 +1,21 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Void Ghidorah",
-    "author": "Kai's workshop",
+    "fileTypes": "PENNYWISE AWAKENING",
+    "author": "KIM:)",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/void_ghidorah/voidorah.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise2.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise3.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise4.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise5.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise6.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise7.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise8.melsave"
     ],
-    "tag": "Monsters",
+    "tag": "NPC",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/void_ghidorah/void_ghidorah.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_awakening/pennywise_awakening.jpg"
   }
 ]
