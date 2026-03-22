@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Void Ghidorah",
+    "fileTypes": "The Tripod",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/void_ghidorah/voidorah.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/the_tripod/kai_5c_27s_tripod.melmod"
     ],
     "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/void_ghidorah/void_ghidorah.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/the_tripod/the_tripod.jpg"
   }
 ]
