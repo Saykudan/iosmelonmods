@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Vaz 2111",
-    "author": "melmod.com",
+    "fileTypes": "Passenger aircraft",
+    "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/vaz_2111/2111_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/passenger_aircraft/camaiet_.melsave"
     ],
-    "tag": "Vehicles",
-    "tagOrder": 4,
+    "tag": "Military",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/vaz_2111/vaz_2111.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/passenger_aircraft/passenger_aircraft.jpg"
   }
 ]
