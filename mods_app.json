@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Light field reconnaissance tank",
+    "fileTypes": "Passenger aircraft",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/light_field_reconnaissance_tank/_________.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/passenger_aircraft/camaiet_.melsave"
     ],
     "tag": "Vehicles",
     "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/light_field_reconnaissance_tank/light_field_reconnaissance_tank.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/passenger_aircraft/passenger_aircraft.jpg"
   }
 ]
