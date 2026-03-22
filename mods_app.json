@@ -1,20 +1,28 @@
 [
   {
     "id": 1000,
-    "fileTypes": "new Tanks",
-    "author": "@nikita_p",
+    "fileTypes": "Replica Forces",
+    "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/gusenica.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/kileso2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/kileso.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/tankk2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/tankk.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/puxa_tanka.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/tank.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_fatigue.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_rifle.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_smg.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_shotgun.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_recon.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_tactical.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_urban.melmod"
     ],
     "tag": "Vehicles",
     "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/new_tanks/new_tanks.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/replica_forces/replica_forces.jpg"
   }
 ]
