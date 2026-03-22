@@ -1,19 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Su-34 in different camouflages",
+    "fileTypes": "M1 Abrams",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su-34_in_different_camouflages/su34desert.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su-34_in_different_camouflages/su34forest.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su-34_in_different_camouflages/su34forest2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su-34_in_different_camouflages/su34night.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su-34_in_different_camouflages/su34winter.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su-34_in_different_camouflages/su34winter2.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/m1_abrams/m1_abrams.melmod"
     ],
     "tag": "Military",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su-34_in_different_camouflages/su-34_in_different_camouflages.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/m1_abrams/m1_abrams.jpg"
   }
 ]
