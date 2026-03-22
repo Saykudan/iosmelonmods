@@ -1,18 +1,16 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Su 35",
-    "author": "melonmods",
+    "fileTypes": "Doomguy",
+    "author": "@felipe",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su_35/su35.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su_35/missile_fairing1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su_35/missile_fairing_2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su_35/missile_body.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su_35/readme.txt"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/doomguy/crisol_by_felipe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/doomguy/doomicorn_by_felipe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/doomguy/doom_guy_by_felipe.melmod"
     ],
-    "tag": "Military",
+    "tag": "GAMES",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/su_35/su_35.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/doomguy/doomguy.jpg"
   }
 ]
