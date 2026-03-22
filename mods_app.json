@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "knife head kaiju",
-    "author": "Kai's workshop",
+    "fileTypes": "Sue Storm - Invisible Woman",
+    "author": "iiKxaye",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/knife_head_kaiju/kai_5c_27s_knifeheadkaiju.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/sue_storm_-_invisible_woman/sue_storm.melmod"
     ],
-    "tag": "Monsters",
-    "tagOrder": 50,
+    "tag": "Superheroes",
+    "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/knife_head_kaiju/knife_head_kaiju.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/sue_storm_-_invisible_woman/sue_storm_-_invisible_woman.jpg"
   }
 ]
