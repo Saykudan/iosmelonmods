@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Passenger aircraft",
-    "author": "melonmods",
+    "fileTypes": "CAMARASAURUS",
+    "author": "@ᴏʀɪɢɪɴᴀʟ",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/passenger_aircraft/camaiet_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/camarasaurus/camarasaurus_ddp_.melsave"
     ],
-    "tag": "Military",
+    "tag": "Dinosaurs",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/passenger_aircraft/passenger_aircraft.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/camarasaurus/camarasaurus.jpg"
   }
 ]
