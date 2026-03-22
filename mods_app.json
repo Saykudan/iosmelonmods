@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Armored giant",
+    "fileTypes": "Armed helicopter",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_giant/armored_titan.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/armed_helicopter/123_.melsave"
     ],
-    "tag": "Anime",
+    "tag": "Military",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/armored_giant/armored_giant.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/armed_helicopter/armed_helicopter.jpg"
   }
 ]
