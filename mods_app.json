@@ -1,19 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "sower – sower",
+    "fileTypes": "cat statue",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/sower___sower/leg.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/sower___sower/hand.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/sower___sower/shoulder.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/sower___sower/torso.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/sower___sower/jaw.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/sower___sower/head.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Animals/cat_statue/ucto4huk_memob.melmod"
     ],
-    "tag": "Monsters",
-    "tagOrder": 50,
+    "tag": "Animals",
+    "tagOrder": 6,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/sower___sower/sower___sower.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Animals/cat_statue/cat_statue.jpg"
   }
 ]
