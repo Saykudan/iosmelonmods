@@ -1,14 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Mind - meat flayer idk",
-    "author": "Kai's workshop",
+    "fileTypes": "Space Marines",
+    "author": "GianGames [OFFICIAL]",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/mind_-_meat_flayer_idk/meat_mind_flayer.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/space_marines/data",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/space_marines/metadata",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/space_marines/part_68929e62-1b65-4f53-8116-3e9c7d3803ab",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/space_marines/mask",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/space_marines/icon"
     ],
-    "tag": "Monsters",
-    "tagOrder": 50,
+    "tag": "Superheroes",
+    "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/mind_-_meat_flayer_idk/mind_-_meat_flayer_idk.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/space_marines/space_marines.jpg"
   }
 ]
