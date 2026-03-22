@@ -1,27 +1,28 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Shin godzilla",
+    "fileTypes": "Evolved godzilla",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p10.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p11.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p12.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p13_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shingojira_p9.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shin_gojira_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p10.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p11.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p12.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p13.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p14.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/godzilla_evo_p9.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/evolved_godzilla___.melsave"
     ],
     "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/shin_godzilla/shin_godzilla.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/evolved_godzilla/evolved_godzilla.jpg"
   }
 ]
