@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "UPDATED GOJO JJK  | Moveset Added",
-    "author": "GianGames [OFFICIAL]",
+    "fileTypes": "Pennywise attacks",
+    "author": "iiKxaye",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/updated_gojo_jjk____moveset_added/gojomovesetupdatedgian.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_attacks/pennywise_mad.melmod"
     ],
-    "tag": "Anime",
+    "tag": "NPC",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/updated_gojo_jjk____moveset_added/updated_gojo_jjk____moveset_added.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_attacks/pennywise_attacks.jpg"
   }
 ]
