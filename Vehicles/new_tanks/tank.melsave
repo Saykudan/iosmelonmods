@@ -1,0 +1,2491 @@
+{
+  "icon": [
+    137,
+    80,
+    78,
+    71,
+    13,
+    10,
+    26,
+    10,
+    0,
+    0,
+    0,
+    13,
+    73,
+    72,
+    68,
+    82,
+    0,
+    0,
+    0,
+    64,
+    0,
+    0,
+    0,
+    64,
+    8,
+    6,
+    0,
+    0,
+    0,
+    170,
+    105,
+    113,
+    222,
+    0,
+    0,
+    4,
+    31,
+    73,
+    68,
+    65,
+    84,
+    120,
+    1,
+    237,
+    150,
+    217,
+    111,
+    91,
+    69,
+    20,
+    135,
+    127,
+    115,
+    23,
+    47,
+    113,
+    188,
+    196,
+    190,
+    73,
+    131,
+    73,
+    226,
+    82,
+    37,
+    84,
+    138,
+    10,
+    148,
+    54,
+    64,
+    73,
+    255,
+    114,
+    36,
+    160,
+    226,
+    129,
+    10,
+    129,
+    136,
+    88,
+    132,
+    104,
+    105,
+    2,
+    73,
+    188,
+    36,
+    141,
+    241,
+    190,
+    223,
+    101,
+    134,
+    51,
+    247,
+    98,
+    168,
+    218,
+    240,
+    64,
+    175,
+    221,
+    167,
+    115,
+    31,
+    60,
+    51,
+    103,
+    182,
+    115,
+    190,
+    57,
+    139,
+    1,
+    254,
+    152,
+    0,
+    19,
+    96,
+    2,
+    76,
+    128,
+    9,
+    48,
+    1,
+    38,
+    192,
+    4,
+    152,
+    0,
+    19,
+    96,
+    2,
+    76,
+    128,
+    9,
+    48,
+    1,
+    38,
+    192,
+    4,
+    152,
+    0,
+    19,
+    96,
+    2,
+    76,
+    128,
+    9,
+    48,
+    1,
+    38,
+    176,
+    100,
+    2,
+    135,
+    15,
+    110,
+    169,
+    249,
+    21,
+    15,
+    63,
+    217,
+    249,
+    167,
+    63,
+    151,
+    189,
+    169,
+    86,
+    188,
+    169,
+    139,
+    94,
+    190,
+    231,
+    225,
+    225,
+    174,
+    18,
+    50,
+    128,
+    31,
+    72,
+    100,
+    86,
+    44,
+    64,
+    24,
+    180,
+    68,
+    65,
+    209,
+    56,
+    149,
+    0,
+    12,
+    203,
+    194,
+    212,
+    157,
+    225,
+    243,
+    71,
+    103,
+    75,
+    213,
+    113,
+    169,
+    135,
+    191,
+    108,
+    244,
+    124,
+    252,
+    233,
+    253,
+    138,
+    74,
+    36,
+    109,
+    216,
+    74,
+    98,
+    34,
+    21,
+    217,
+    174,
+    96,
+    153,
+    38,
+    236,
+    132,
+    9,
+    233,
+    121,
+    232,
+    247,
+    70,
+    40,
+    57,
+    121,
+    12,
+    135,
+    19,
+    128,
+    228,
+    153,
+    149,
+    20,
+    62,
+    251,
+    226,
+    233,
+    82,
+    116,
+    37,
+    244,
+    203,
+    249,
+    118,
+    119,
+    119,
+    213,
+    241,
+    241,
+    241,
+    181,
+    74,
+    143,
+    70,
+    83,
+    76,
+    167,
+    51,
+    24,
+    244,
+    232,
+    130,
+    126,
+    180,
+    255,
+    11,
+    67,
+    96,
+    220,
+    242,
+    145,
+    38,
+    8,
+    238,
+    204,
+    192,
+    85,
+    115,
+    4,
+    169,
+    200,
+    35,
+    132,
+    135,
+    193,
+    96,
+    246,
+    138,
+    146,
+    239,
+    221,
+    222,
+    84,
+    130,
+    78,
+    255,
+    233,
+    201,
+    229,
+    181,
+    119,
+    188,
+    178,
+    225,
+    63,
+    4,
+    177,
+    54,
+    95,
+    119,
+    230,
+    221,
+    59,
+    101,
+    37,
+    3,
+    122,
+    85,
+    125,
+    50,
+    25,
+    48,
+    28,
+    107,
+    67,
+    245,
+    88,
+    64,
+    139,
+    164,
+    4,
+    222,
+    114,
+    10,
+    48,
+    45,
+    1,
+    195,
+    20,
+    152,
+    206,
+    92,
+    189,
+    12,
+    46,
+    185,
+    190,
+    79,
+    251,
+    108,
+    203,
+    128,
+    37,
+    72,
+    96,
+    26,
+    180,
+    86,
+    232,
+    160,
+    192,
+    183,
+    223,
+    87,
+    23,
+    174,
+    231,
+    92,
+    247,
+    133,
+    28,
+    252,
+    209,
+    189,
+    138,
+    178,
+    41,
+    102,
+    19,
+    244,
+    122,
+    74,
+    5,
+    100,
+    148,
+    12,
+    141,
+    136,
+    140,
+    86,
+    48,
+    19,
+    22,
+    2,
+    138,
+    119,
+    248,
+    209,
+    181,
+    180,
+    148,
+    230,
+    245,
+    243,
+    71,
+    227,
+    40,
+    3,
+    42,
+    2,
+    101,
+    16,
+    40,
+    109,
+    124,
+    200,
+    46,
+    204,
+    15,
+    26,
+    216,
+    160,
+    55,
+    161,
+    57,
+    19,
+    223,
+    253,
+    88,
+    95,
+    136,
+    190,
+    115,
+    227,
+    117,
+    27,
+    251,
+    192,
+    131,
+    123,
+    55,
+    149,
+    65,
+    238,
+    107,
+    209,
+    107,
+    154,
+    20,
+    207,
+    138,
+    78,
+    212,
+    238,
+    28,
+    208,
+    139,
+    166,
+    51,
+    148,
+    205,
+    180,
+    27,
+    147,
+    77,
+    210,
+    247,
+    96,
+    10,
+    139,
+    250,
+    146,
+    194,
+    58,
+    50,
+    52,
+    148,
+    71,
+    214,
+    135,
+    123,
+    76,
+    218,
+    167,
+    200,
+    91,
+    116,
+    104,
+    232,
+    185,
+    192,
+    87,
+    144,
+    4,
+    68,
+    122,
+    128,
+    23,
+    104,
+    85,
+    73,
+    168,
+    39,
+    180,
+    218,
+    158,
+    196,
+    215,
+    71,
+    167,
+    177,
+    245,
+    215,
+    169,
+    55,
+    214,
+    215,
+    235,
+    117,
+    208,
+    233,
+    116,
+    177,
+    189,
+    185,
+    142,
+    114,
+    121,
+    3,
+    77,
+    234,
+    151,
+    111,
+    172,
+    227,
+    79,
+    106,
+    47,
+    46,
+    219,
+    112,
+    10,
+    69,
+    212,
+    47,
+    90,
+    168,
+    63,
+    239,
+    192,
+    113,
+    74,
+    168,
+    55,
+    59,
+    56,
+    109,
+    180,
+    176,
+    182,
+    230,
+    160,
+    118,
+    213,
+    195,
+    105,
+    189,
+    5,
+    167,
+    228,
+    132,
+    243,
+    191,
+    87,
+    175,
+    112,
+    86,
+    109,
+    225,
+    217,
+    73,
+    11,
+    133,
+    213,
+    18,
+    170,
+    141,
+    54,
+    106,
+    181,
+    54,
+    110,
+    56,
+    235,
+    104,
+    208,
+    25,
+    181,
+    70,
+    7,
+    91,
+    155,
+    27,
+    120,
+    222,
+    108,
+    161,
+    51,
+    30,
+    225,
+    224,
+    206,
+    246,
+    223,
+    248,
+    94,
+    223,
+    132,
+    216,
+    4,
+    31,
+    124,
+    188,
+    167,
+    92,
+    111,
+    130,
+    92,
+    54,
+    139,
+    139,
+    139,
+    75,
+    248,
+    190,
+    142,
+    229,
+    28,
+    197,
+    114,
+    63,
+    124,
+    44,
+    202,
+    117,
+    176,
+    172,
+    92,
+    168,
+    97,
+    194,
+    30,
+    132,
+    185,
+    193,
+    167,
+    151,
+    13,
+    100,
+    142,
+    230,
+    21,
+    146,
+    9,
+    45,
+    35,
+    15,
+    162,
+    184,
+    240,
+    168,
+    2,
+    184,
+    94,
+    180,
+    86,
+    203,
+    245,
+    188,
+    14,
+    1,
+    125,
+    158,
+    30,
+    235,
+    156,
+    176,
+    93,
+    41,
+    83,
+    169,
+    244,
+    225,
+    186,
+    192,
+    227,
+    111,
+    226,
+    87,
+    134,
+    216,
+    30,
+    176,
+    154,
+    181,
+    81,
+    121,
+    103,
+    131,
+    74,
+    86,
+    100,
+    72,
+    58,
+    157,
+    199,
+    70,
+    201,
+    134,
+    110,
+    5,
+    197,
+    185,
+    105,
+    102,
+    81,
+    42,
+    90,
+    161,
+    204,
+    245,
+    178,
+    161,
+    177,
+    146,
+    140,
+    215,
+    107,
+    156,
+    34,
+    101,
+    124,
+    50,
+    216,
+    182,
+    237,
+    200,
+    120,
+    63,
+    146,
+    23,
+    11,
+    6,
+    229,
+    145,
+    213,
+    208,
+    120,
+    41,
+    87,
+    176,
+    94,
+    180,
+    169,
+    20,
+    230,
+    105,
+    109,
+    154,
+    254,
+    35,
+    40,
+    172,
+    230,
+    246,
+    144,
+    76,
+    46,
+    166,
+    128,
+    197,
+    6,
+    208,
+    110,
+    13,
+    49,
+    232,
+    142,
+    144,
+    45,
+    228,
+    49,
+    158,
+    164,
+    144,
+    38,
+    197,
+    202,
+    185,
+    36,
+    50,
+    41,
+    43,
+    84,
+    216,
+    160,
+    215,
+    165,
+    46,
+    108,
+    63,
+    64,
+    62,
+    103,
+    208,
+    203,
+    209,
+    31,
+    159,
+    12,
+    149,
+    190,
+    153,
+    135,
+    148,
+    77,
+    217,
+    142,
+    124,
+    208,
+    117,
+    3,
+    242,
+    128,
+    4,
+    10,
+    52,
+    159,
+    179,
+    141,
+    176,
+    20,
+    234,
+    125,
+    54,
+    205,
+    23,
+    215,
+    82,
+    216,
+    220,
+    218,
+    71,
+    42,
+    105,
+    194,
+    16,
+    26,
+    24,
+    149,
+    203,
+    225,
+    9,
+    228,
+    96,
+    250,
+    250,
+    126,
+    255,
+    194,
+    206,
+    216,
+    0,
+    142,
+    126,
+    56,
+    23,
+    65,
+    215,
+    199,
+    163,
+    47,
+    127,
+    17,
+    231,
+    213,
+    134,
+    152,
+    186,
+    62,
+    206,
+    187,
+    83,
+    12,
+    39,
+    212,
+    210,
+    88,
+    7,
+    233,
+    152,
+    170,
+    130,
+    103,
+    153,
+    232,
+    247,
+    37,
+    254,
+    56,
+    235,
+    137,
+    225,
+    72,
+    34,
+    160,
+    114,
+    55,
+    163,
+    80,
+    208,
+    121,
+    237,
+    217,
+    73,
+    91,
+    252,
+    250,
+    180,
+    41,
+    122,
+    61,
+    137,
+    62,
+    37,
+    183,
+    241,
+    44,
+    208,
+    98,
+    60,
+    249,
+    173,
+    45,
+    92,
+    10,
+    169,
+    70,
+    237,
+    103,
+    12,
+    70,
+    65,
+    248,
+    191,
+    192,
+    109,
+    79,
+    225,
+    119,
+    103,
+    248,
+    234,
+    232,
+    36,
+    118,
+    248,
+    190,
+    192,
+    97,
+    113,
+    221,
+    195,
+    247,
+    111,
+    169,
+    202,
+    206,
+    191,
+    201,
+    233,
+    195,
+    219,
+    91,
+    218,
+    22,
+    236,
+    108,
+    151,
+    213,
+    188,
+    31,
+    142,
+    105,
+    141,
+    150,
+    233,
+    254,
+    221,
+    119,
+    163,
+    53,
+    161,
+    156,
+    100,
+    243,
+    253,
+    31,
+    236,
+    189,
+    29,
+    206,
+    235,
+    241,
+    193,
+    254,
+    77,
+    117,
+    127,
+    191,
+    18,
+    142,
+    245,
+    58,
+    254,
+    152,
+    0,
+    19,
+    96,
+    2,
+    76,
+    128,
+    9,
+    48,
+    1,
+    38,
+    192,
+    4,
+    152,
+    0,
+    19,
+    96,
+    2,
+    76,
+    128,
+    9,
+    48,
+    1,
+    38,
+    192,
+    4,
+    152,
+    0,
+    19,
+    96,
+    2,
+    76,
+    128,
+    9,
+    48,
+    1,
+    38,
+    192,
+    4,
+    152,
+    0,
+    19,
+    248,
+    95,
+    4,
+    254,
+    2,
+    95,
+    132,
+    180,
+    158,
+    30,
+    51,
+    101,
+    136,
+    0,
+    0,
+    0,
+    0,
+    73,
+    69,
+    78,
+    68,
+    174,
+    66,
+    96,
+    130
+  ],
+  "versionId": 3,
+  "mapName": "Water",
+  "seed": 405904407,
+  "iconSize": {
+    "x": 64.0,
+    "y": 64.0
+  },
+  "saveObjectContainers": [
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -32998,
+        "modedObjectId": "tankk2202482019590912",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.3950800895690918,
+          "y": 0.95438957214355469,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.07323242723941803
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "Default",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.76142406463623047,
+              "y": -0.082904815673828125,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.76142406463623047,
+              "y": -0.082904815673828125,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 0,
+            "endObjectId": 2,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": 0.72303962707519531,
+              "y": -0.33368682861328125,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.455319881439209,
+              "y": -0.11309814453125,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.27004817128181458,
+            "startObjectId": 0,
+            "endObjectId": 2,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          },
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": 0.71122884750366211,
+              "y": -0.32631111145019531,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.44203281402587891,
+              "y": -0.11014747619628906,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.29223078489303589,
+            "startObjectId": 0,
+            "endObjectId": 2,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          },
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": 0.71418190002441406,
+              "y": -0.33663749694824219,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.43908023834228516,
+              "y": -0.098346710205078125,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.29989299178123474,
+            "startObjectId": 0,
+            "endObjectId": 2,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          },
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": 0.72008705139160156,
+              "y": -0.33811187744140625,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.46122503280639648,
+              "y": -0.12637519836425781,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.26424369215965271,
+            "startObjectId": 0,
+            "endObjectId": 2,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          },
+          {
+            "constraintId": 6,
+            "startPoint": {
+              "x": 0.17098832130432129,
+              "y": -0.079488754272460938,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.60068351030349731,
+              "y": 0.36607357859611511,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 0,
+            "endObjectId": 1,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -20302,
+        "modedObjectId": "tankk2024820195847883",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.034272193908691406,
+          "y": 0.14130783081054688,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 359.964111328125
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "Default",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 0.804570198059082,
+              "y": -0.54150772094726563,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.79844141006469727,
+              "y": -0.54252815246582031,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 7,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.14727926254272461,
+              "y": -0.54558944702148438,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.14217185974121094,
+              "y": -0.54048538208007813,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 8,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.88867950439453125,
+              "y": -0.53027725219726563,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.89991617202758789,
+              "y": -0.53946304321289063,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 4,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -1.6642975807189941,
+              "y": -0.54966926574707031,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -1.662254810333252,
+              "y": -0.54150390625,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 6,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -2.3073050975799561,
+              "y": -0.39554405212402344,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -2.3103694915771484,
+              "y": -0.39146232604980469,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 5,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          },
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": 2.1902976036071777,
+              "y": -0.3873288631439209,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 2.1893417835235596,
+              "y": -0.3797965943813324,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 1,
+            "endObjectId": 10,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -32912,
+        "modedObjectId": "puxa tanka2024816192559334",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 1.8254072666168213,
+          "y": 0.82211875915527344,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 359.2685546875
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 0,
+        "sortingLayer": "BackGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [
+          {
+            "activationInput": 0.0,
+            "floatParameters": [
+              0.0
+            ]
+          }
+        ],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": -0.33721399307250977,
+              "y": 0.1067047119140625,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.77323484420776367,
+              "y": 0.10886955261230469,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.34456697106361389,
+            "startObjectId": 2,
+            "endObjectId": 0,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          },
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": -0.32392740249633789,
+              "y": 0.097852706909179688,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.80718994140625,
+              "y": 0.13542366027832031,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.34080493450164795,
+            "startObjectId": 2,
+            "endObjectId": 0,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          },
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": -0.34754848480224609,
+              "y": 0.097852706909179688,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.80718994140625,
+              "y": 0.1177215576171875,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.31163451075553894,
+            "startObjectId": 2,
+            "endObjectId": 0,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          },
+          {
+            "constraintId": 9,
+            "startPoint": {
+              "x": -0.34902477264404297,
+              "y": 0.06982421875,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": 0.80718994140625,
+              "y": 0.12067222595214844,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.32591426372528076,
+            "startObjectId": 2,
+            "endObjectId": 0,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -29802,
+        "modedObjectId": "gusenica2024820195938864",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -1.5162837505340576,
+          "y": 0.58218193054199219,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.071383684873580933
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 31,
+        "sortingLayer": "BackGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [
+          {
+            "activationInput": 0.0,
+            "floatParameters": [
+              0.0
+            ]
+          }
+        ],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 6,
+            "startPoint": {
+              "x": -0.01892542839050293,
+              "y": 0.13874435424804688,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -1.5045673847198486,
+              "y": 0.49414536356925964,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 3,
+            "endObjectId": 1,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 8
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -21860,
+        "modedObjectId": "kileso22024820195924816",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.936577320098877,
+          "y": -0.40050125122070313,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 8.70038890838623
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -20340,
+        "modedObjectId": "kileso2024820195914714",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -2.3439631462097168,
+          "y": -0.25125885009765625,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 224.30064392089844
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -21822,
+        "modedObjectId": "kileso22024820195924816",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -1.6930975914001465,
+          "y": -0.40146446228027344,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 271.35531616210938
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -21936,
+        "modedObjectId": "kileso22024820195924816",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 0.76726531982421875,
+          "y": -0.40183258056640625,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 168.0255126953125
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -21898,
+        "modedObjectId": "kileso22024820195924816",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": -0.17502236366271973,
+          "y": -0.40203475952148438,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 22.942726135253906
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -21974,
+        "modedObjectId": "kileso22024820195924816",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 1.5614707469940186,
+          "y": -0.40149307250976563,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 292.62322998046875
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [
+          {
+            "constraintId": 10,
+            "startPoint": {
+              "x": -0.002513885498046875,
+              "y": 0.0044727325439453125,
+              "z": 0.0
+            },
+            "endPoint": {
+              "x": -0.00047063827514648438,
+              "y": 0.002429962158203125,
+              "z": 0.0
+            },
+            "joint": {
+              "instanceID": 0
+            },
+            "endObject": {
+              "instanceID": 0
+            },
+            "mechCon": {
+              "inputID": "",
+              "inputMechanic": {
+                "instanceID": 0
+              },
+              "outputID": "",
+              "outputMechanic": {
+                "instanceID": 0
+              }
+            },
+            "distance": 0.0,
+            "startObjectId": 9,
+            "endObjectId": 1,
+            "startObjectConnectionMaterial": 8,
+            "endObjectConnectionMaterial": 0
+          }
+        ],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    },
+    {
+      "saveObjects": {
+        "objectId": -1,
+        "instanceId": -22050,
+        "modedObjectId": "kileso2024820195914714",
+        "localId": 0,
+        "parentId": -1,
+        "position": {
+          "x": 2.1499931812286377,
+          "y": -0.24141693115234375,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 156.25082397460938
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "color": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "intensity": 0.0,
+        "layer": 8,
+        "sortingLayer": "FrontGroundItem",
+        "gravity": true,
+        "freezed": false,
+        "notBreakable": false,
+        "isHuman": false,
+        "isActivationForced": false,
+        "TreeBranch": {
+          "burnt": false
+        },
+        "LightSaveData": {
+          "<IsActive>k__BackingField": false,
+          "<Color>k__BackingField": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "<IsBrokenByWater>k__BackingField": false,
+          "<ChildrenSaveData>k__BackingField": []
+        },
+        "BreakableSaveData": {
+          "<IsBroken>k__BackingField": false,
+          "<IsBreakable>k__BackingField": false
+        },
+        "humanData": [],
+        "mechanicData": [],
+        "brokenJoints": [],
+        "hingeJoints": [],
+        "distJoints": [],
+        "constraints": [],
+        "collisionIgnores": [],
+        "addData": [],
+        "saveMetaDatas": []
+      },
+      "saveObjectChildren": []
+    }
+  ],
+  "averagePosition": {
+    "x": 2.5324575901031494,
+    "y": 19.672752380371094,
+    "z": 0.0
+  },
+  "metadata": {
+    "ManifestId": "",
+    "Name": ""
+  }
+}
