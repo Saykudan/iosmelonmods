@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Helicopter Mi 24",
+    "fileTypes": "Street lights (lighting)",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/helicopter_mi_24/mil_mi24_hind.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/street_lights__lighting_/light.melmod"
     ],
-    "tag": "Military",
+    "tag": "Objects",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/helicopter_mi_24/helicopter_mi_24.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/street_lights__lighting_/street_lights__lighting_.jpg"
   }
 ]
