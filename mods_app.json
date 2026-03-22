@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Ingots of gold",
+    "fileTypes": "Mechanical vehicle",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/ingots_of_gold/slitok3y20g1erkvy.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/mechanical_vehicle/161391496464_.melsave"
     ],
-    "tag": "Objects",
-    "tagOrder": 50,
+    "tag": "Vehicles",
+    "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/ingots_of_gold/ingots_of_gold.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/mechanical_vehicle/mechanical_vehicle.jpg"
   }
 ]
