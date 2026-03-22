@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Leopard 2a7 –  tank",
+    "fileTypes": "Ingots of gold",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/leopard_2a7____tank/leopard_2a74k1ncdchong.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/ingots_of_gold/slitok3y20g1erkvy.melmod"
     ],
-    "tag": "Military",
+    "tag": "Objects",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/leopard_2a7____tank/leopard_2a7____tank.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/ingots_of_gold/ingots_of_gold.jpg"
   }
 ]
