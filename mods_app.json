@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Pennywise attacks",
-    "author": "iiKxaye",
+    "fileTypes": "Skull crawler",
+    "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_attacks/pennywise_mad.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/skull_crawler/kai_5c_27s_skull_crawler.melmod"
     ],
-    "tag": "NPC",
+    "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/pennywise_attacks/pennywise_attacks.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/skull_crawler/skull_crawler.jpg"
   }
 ]
