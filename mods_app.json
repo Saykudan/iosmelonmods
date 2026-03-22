@@ -1,14 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Vaz 2106 – eggplant",
+    "fileTypes": "Pixel Car Racing – racing cars",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/vaz_2106___eggplant/vaz_2106551zqrgtev3.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/pixel_car_racing___racing_cars/pcr_ae86_levin_red_paint.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/pixel_car_racing___racing_cars/pcr_mercedes_amg_project_one.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/pixel_car_racing___racing_cars/pcr__chevrolet_camaro_zl1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/pixel_car_racing___racing_cars/pcr_volvo_850r_london_police_livery.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/pixel_car_racing___racing_cars/pcr_subaru_impreza_england_police_livery.melmod"
     ],
     "tag": "Vehicles",
     "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/vaz_2106___eggplant/vaz_2106___eggplant.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/pixel_car_racing___racing_cars/pixel_car_racing___racing_cars.jpg"
   }
 ]
