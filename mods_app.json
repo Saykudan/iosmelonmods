@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Armed helicopter",
+    "fileTypes": "Vaz 2106 – eggplant",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/armed_helicopter/123_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/vaz_2106___eggplant/vaz_2106551zqrgtev3.melmod"
     ],
-    "tag": "Military",
-    "tagOrder": 50,
+    "tag": "Vehicles",
+    "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/armed_helicopter/armed_helicopter.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/vaz_2106___eggplant/vaz_2106___eggplant.jpg"
   }
 ]
