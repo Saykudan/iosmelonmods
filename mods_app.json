@@ -1,17 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Bar theme pack",
+    "fileTypes": "Mini Titanic",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/barmenstolik.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/krushka.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/stul.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/stulspinka.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/mini_titanic/titanicrljva4n4wus.melmod"
     ],
-    "tag": "Objects",
+    "tag": "Military",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/bar_theme_pack.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/mini_titanic/mini_titanic.jpg"
   }
 ]
