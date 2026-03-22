@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Big yellow flashlight",
+    "fileTypes": "Street lights (lighting)",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/big_yellow_flashlight/2_51904832028750699100000xqfvjpr.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/street_lights__lighting_/light.melmod"
     ],
     "tag": "Objects",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/big_yellow_flashlight/big_yellow_flashlight.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/street_lights__lighting_/street_lights__lighting_.jpg"
   }
 ]
