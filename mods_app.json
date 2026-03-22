@@ -1,14 +1,19 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Springlock Faliure",
-    "author": "melonmods",
+    "fileTypes": "Iron Man",
+    "author": "melmod.com",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/springlock_faliure/functionalspringlock_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/iron_man/cac.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/iron_man/mutant_na_hui.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/iron_man/starc_2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/iron_man/starc_3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/iron_man/starc.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/iron_man/tanos_gay.melmod"
     ],
-    "tag": "GAMES",
-    "tagOrder": 50,
+    "tag": "Superheroes",
+    "tagOrder": 1,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/GAMES/springlock_faliure/springlock_faliure.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/iron_man/iron_man.jpg"
   }
 ]
