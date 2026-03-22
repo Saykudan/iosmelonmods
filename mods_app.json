@@ -1,28 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Replica Forces",
+    "fileTypes": "Ame no Habakiri and enma OnePiece",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_fatigue.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica7.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_rifle.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_smg.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_shotgun.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica6.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica8.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_recon.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_tactical.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_urban.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/ame_no_habakiri_and_enma_onepiece/ame_no_habakiri.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/ame_no_habakiri_and_enma_onepiece/amenohabakiri_sheath.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/ame_no_habakiri_and_enma_onepiece/odenonepiece.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/ame_no_habakiri_and_enma_onepiece/enma.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/ame_no_habakiri_and_enma_onepiece/enma_sheathe.melmod"
     ],
-    "tag": "Military",
+    "tag": "Anime",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/replica_forces/replica_forces.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/ame_no_habakiri_and_enma_onepiece/ame_no_habakiri_and_enma_onepiece.jpg"
   }
 ]
