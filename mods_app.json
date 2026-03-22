@@ -1,14 +1,29 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Geortharoc",
+    "fileTypes": "Godzilla Earth",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/geortharoc/kais_geortharoc_mod.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_fx.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p10.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p11.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p12.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/earth_goji_v2_p9.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/fillius_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/ge_fx.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/gojira_earth_tpe.melsave"
     ],
     "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/geortharoc/geortharoc.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/godzilla_earth/godzilla_earth.jpg"
   }
 ]
