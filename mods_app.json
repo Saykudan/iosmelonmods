@@ -1,15 +1,24 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Adventure Mountain",
-    "author": "melon mods",
+    "fileTypes": "quad bike",
+    "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Maps/adventure_mountain/adventure_moutain_.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Maps/adventure_mountain/adventure_mountain_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/quad_bike_black.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/quad_bike_red.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/quad_bike_orange.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/quad_bike_green.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/qaid_mod.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/quad_black.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/qaid_chapter.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/qaid_red.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/qaid.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/qaid_orange.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/qaid_green.melmod"
     ],
-    "tag": "Maps",
-    "tagOrder": 5,
+    "tag": "Vehicles",
+    "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Maps/adventure_mountain/adventure_mountain.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/quad_bike/quad_bike.jpg"
   }
 ]
