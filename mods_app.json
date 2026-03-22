@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Mastodon wooly",
+    "fileTypes": "Deep Sea Creature",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Animals/mastodon_wooly/kai_5c_27s_mastodon.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/deep_sea_creature/kai_5c_27s_seamonster.melmod"
     ],
-    "tag": "Animals",
-    "tagOrder": 6,
+    "tag": "Monsters",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Animals/mastodon_wooly/mastodon_wooly.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/deep_sea_creature/deep_sea_creature.jpg"
   }
 ]
