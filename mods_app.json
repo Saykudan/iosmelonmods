@@ -1,14 +1,27 @@
 [
   {
     "id": 1000,
-    "fileTypes": "rebuild dunkleosteus",
-    "author": "melonmods",
+    "fileTypes": "Spinosaurus Mirabilis",
+    "author": "Voltra's vault",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/rebuild_dunkleosteus/rebuilddunkleosteus.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p10.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p11.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p12.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p13.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/mirabilis_p9.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/spinosaurus_mirabili.melsave"
     ],
-    "tag": "Monsters",
+    "tag": "Dinosaurs",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/rebuild_dunkleosteus/rebuild_dunkleosteus.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/spinosaurus_mirabilis/spinosaurus_mirabilis.jpg"
   }
 ]
