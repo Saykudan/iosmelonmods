@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "tree without leaves",
+    "fileTypes": "Thermonuclear bomb (does not explode)",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/tree_without_leaves/wood2u3kwy5oboe.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/thermonuclear_bomb__does_not_explode_/bombaet2vt3jqgnn.melmod"
     ],
     "tag": "Objects",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/tree_without_leaves/tree_without_leaves.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/thermonuclear_bomb__does_not_explode_/thermonuclear_bomb__does_not_explode_.jpg"
   }
 ]
