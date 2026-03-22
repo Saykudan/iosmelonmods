@@ -1,17 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Bar theme pack",
+    "fileTypes": "Ice Weapons – Black Ice Bundle",
     "author": "melonmods",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/barmenstolik.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/krushka.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/stul.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/stulspinka.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ice_weapons___black_ice_bundle/416c_carbine.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ice_weapons___black_ice_bundle/9mm_c1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ice_weapons___black_ice_bundle/f2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ice_weapons___black_ice_bundle/fmg_9.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ice_weapons___black_ice_bundle/p90.melmod"
     ],
-    "tag": "Objects",
-    "tagOrder": 50,
+    "tag": "Weapons",
+    "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/bar_theme_pack/bar_theme_pack.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ice_weapons___black_ice_bundle/ice_weapons___black_ice_bundle.jpg"
   }
 ]
