@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Wither Storm",
+    "fileTypes": "Mind - meat flayer idk",
     "author": "Kai's workshop",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/wither_storm/kai_5c_27z_witherstorm.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/mind_-_meat_flayer_idk/meat_mind_flayer.melmod"
     ],
     "tag": "Monsters",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/wither_storm/wither_storm.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/mind_-_meat_flayer_idk/mind_-_meat_flayer_idk.jpg"
   }
 ]
