@@ -1,20 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "God of War Ragnarök",
-    "author": "takuru677",
+    "fileTypes": "Spear of Longinus (Evangelion)",
+    "author": "Liquor1906",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/kratos.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/leviafan.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/lukk.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/odin_vers.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/atreiii_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/odin_palto.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/odin_ragnark.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Throwing/spear_of_longinus__evangelion_/spear-of-longinus-evangelion_1686811102.melmod"
     ],
-    "tag": "Pack",
+    "tag": "Throwing",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/god_of_war_ragnar_k/god_of_war_ragnar_k.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Throwing/spear_of_longinus__evangelion_/spear_of_longinus__evangelion_.jpg"
   }
 ]
