@@ -1,21 +1,30 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Terraria Weapons",
-    "author": "vomarhs",
+    "fileTypes": "SRP Game Pack (Stickman Ragdoll )",
+    "author": "Ssididb",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/muramasa.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/psycho_knife.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/the_horsemans_blade.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/arkhalis.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/phaseblade.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/nights_edge.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/copper_shortsword.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/classy_cane.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/big_ball_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/block_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/card_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/circle_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/cnife_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/glass_stick_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/hammer_sfrom_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/metal_stick_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/narrow_block_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/saw_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/snail_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/spear_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/stickman_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/turbine_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/wheel_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/wooden_stick_from_srp.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/ball_from_srp.melmod"
     ],
-    "tag": "Slashing",
+    "tag": "Pack",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/terraria_weapons.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/srp_game_pack__stickman_ragdoll__/srp_game_pack__stickman_ragdoll__.jpg"
   }
 ]
