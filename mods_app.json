@@ -1,13 +1,10 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Ryuma Shimotsuki Monsters 103 Mercies Dragon Damnation OP",
+    "fileTypes": "Emilia",
     "author": "iiKxaye",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Uncategorized/ryuma_shimotsuki_monsters_103_mercies_dragon_damnation_op/ryuma.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Uncategorized/ryuma_shimotsuki_monsters_103_mercies_dragon_damnation_op/sack.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Uncategorized/ryuma_shimotsuki_monsters_103_mercies_dragon_damnation_op/shusui_sheathe.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Uncategorized/ryuma_shimotsuki_monsters_103_mercies_dragon_damnation_op/shusui.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Uncategorized/emilia/emilia.melmod"
     ],
     "tag": "Uncategorized",
     "tagOrder": 99,
