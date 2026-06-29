@@ -1,15 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Operative Ε-11 SCP:Contaiment Breach",
-    "author": "Ryurikovich230309",
+    "fileTypes": "Eta-10 from SCP universe",
+    "author": "Kefir_admin",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/operative__-11_scp_contaiment_breach/fnp90.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/operative__-11_scp_contaiment_breach/ntf_unit.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/eta-10_from_scp_universe/eta-10-_281_29_1694587724.melmod"
     ],
     "tag": "Living",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/operative__-11_scp_contaiment_breach/operative__-11_scp_contaiment_breach.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/eta-10_from_scp_universe/eta-10_from_scp_universe.jpg"
   }
 ]
