@@ -1,14 +1,15 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Spear of Longinus (Evangelion)",
-    "author": "Liquor1906",
+    "fileTypes": "Goblin Spearman",
+    "author": "xlebushek4967",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Throwing/spear_of_longinus__evangelion_/spear-of-longinus-evangelion_1686811102.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Throwing/goblin_spearman/goblin_spear.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Throwing/goblin_spearman/spear_goblin.melmod"
     ],
     "tag": "Throwing",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Throwing/spear_of_longinus__evangelion_/spear_of_longinus__evangelion_.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Throwing/goblin_spearman/goblin_spearman.jpg"
   }
 ]
