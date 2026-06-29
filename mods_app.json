@@ -1,14 +1,23 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Space Gun",
-    "author": "SpaceIsVeryBeautiful",
+    "fileTypes": "Racing Car Pack",
+    "author": "savelij80",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Energy/space_gun/space_gun_1686819199.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/lamborghini.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/nissan_silvia.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/bugatti.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/nissan_gtr.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/ford_mustang_gt_456.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/subaru_impreza_wrx.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/ford_shelby.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/ford_shelby_cobra.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/ford_mustang_gt.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/mustang_honigun.melmod"
     ],
-    "tag": "Energy",
-    "tagOrder": 50,
+    "tag": "Vehicles",
+    "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Energy/space_gun/space_gun.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/racing_car_pack/racing_car_pack.jpg"
   }
 ]
