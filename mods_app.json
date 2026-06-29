@@ -1,15 +1,35 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Invincible Angstrom Levy",
-    "author": "Hinatin",
+    "fileTypes": "Rebels in the Middle East",
+    "author": "MiCaiTese",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/invincible_angstrom_levy/angstrom_levy.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/invincible_angstrom_levy/drone_orb.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/m162.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/mitsubishi_delica.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/toyota_hilux_arm_mg.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/toyota_hilux_arm.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/toyota_hilux_arm2.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/toyota_hilux_at.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/toyota_hilux_mg_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/toyota_hilux.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/__.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/____________.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/____7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/___.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/___________.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/____________________.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/___________________2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/___________________3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/___________________4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/___________________5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/___________________6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/akm.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/akm2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/m16.melmod"
     ],
-    "tag": "Living",
+    "tag": "Pack",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/invincible_angstrom_levy/invincible_angstrom_levy.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/rebels_in_the_middle_east/rebels_in_the_middle_east.jpg"
   }
 ]
