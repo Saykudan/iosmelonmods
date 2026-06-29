@@ -1,15 +1,27 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Iron Man Armor: Mark I",
-    "author": "Baldur_GG",
+    "fileTypes": "JoJo’s Pack",
+    "author": "killer_queen_bites_the_dust_Q",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Armor/iron_man_armor__mark_i/mark_1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Armor/iron_man_armor__mark_i/mark_1_metal.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/d4c.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/dio_brando_32x32.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/dio_da.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/heirophant_green.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/jostar.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/jotaro_tokiuski.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/kakein.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/polnaref.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/requiem_arrow.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/silver_chariot.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/star_platinum_32x32.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/the_world_32x32.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/vilentine.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/text"
     ],
-    "tag": "Armor",
+    "tag": "Pack",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Armor/iron_man_armor__mark_i/iron_man_armor__mark_i.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Pack/jojo_s_pack/jojo_s_pack.jpg"
   }
 ]
