@@ -1,17 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Syringe Modpack by Rafka",
-    "author": "Rafka",
+    "fileTypes": "Lokast Robot Mod",
+    "author": "THEAIRT",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Syringes/syringe_modpack_by_rafka/fire_syringe_.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Syringes/syringe_modpack_by_rafka/ice_syringe_.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Syringes/syringe_modpack_by_rafka/shadow_syringe_.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Syringes/syringe_modpack_by_rafka/stopvirus_syringe_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Mechanics/lokast_robot_mod/lokast-robot-mod-by-theairt_1686723406.melmod"
     ],
-    "tag": "Syringes",
+    "tag": "Mechanics",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Syringes/syringe_modpack_by_rafka/syringe_modpack_by_rafka.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Mechanics/lokast_robot_mod/lokast_robot_mod.jpg"
   }
 ]
