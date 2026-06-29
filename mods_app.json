@@ -1,14 +1,21 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Kitchen Knife from People",
-    "author": "Ggggggskak",
+    "fileTypes": "Terraria Weapons",
+    "author": "vomarhs",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Stabbing/kitchen_knife_from_people/kitchen-knife-from-people-playground_1686802561.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/muramasa.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/psycho_knife.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/the_horsemans_blade.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/arkhalis.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/phaseblade.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/nights_edge.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/copper_shortsword.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/classy_cane.melmod"
     ],
-    "tag": "Stabbing",
+    "tag": "Slashing",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Stabbing/kitchen_knife_from_people/kitchen_knife_from_people.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Slashing/terraria_weapons/terraria_weapons.jpg"
   }
 ]
