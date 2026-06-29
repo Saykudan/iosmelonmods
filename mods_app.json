@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "An ordinary two-storey house for",
-    "author": "BODIEFRIZ",
+    "fileTypes": "Spider-Man NPC",
+    "author": "Кисляк",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/an_ordinary_two-storey_house_for/house_2_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/spider-man_npc/spider_man.melmod"
     ],
-    "tag": "Build",
+    "tag": "Living",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/an_ordinary_two-storey_house_for/an_ordinary_two-storey_house_for.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Living/spider-man_npc/spider-man_npc.jpg"
   }
 ]
