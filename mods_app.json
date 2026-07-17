@@ -1,16 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Dark Samurai",
+    "fileTypes": "Outcast Samurai",
     "author": "Baldur_GG",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/dark_samurai/dark_flag.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/dark_samurai/dark_samurai.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/dark_samurai/dark_katana.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/outcast_samurai/outcast_flag.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/outcast_samurai/tonfa.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/outcast_samurai/blade_of_the_exile.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/outcast_samurai/exile_katana.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/outcast_samurai/samurai_outcast.melmod"
     ],
     "tag": "NPC",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/dark_samurai/dark_samurai.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/outcast_samurai/outcast_samurai.jpg"
   }
 ]
