@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Chernobyl Nuclear Power Plant",
-    "author": "Danielchikibriki",
+    "fileTypes": "A cart with cannon",
+    "author": "ShyBarlik",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/chernobyl_nuclear_power_plant/chernobyl-nuclear-power-plant-for-melon-playground_1686646625.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/a_cart_with_cannon/a-cart-with-cannon-by-shybarlik_1686646894.melsave"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/chernobyl_nuclear_power_plant/chernobyl_nuclear_power_plant.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/a_cart_with_cannon/a_cart_with_cannon.jpg"
   }
 ]
