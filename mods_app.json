@@ -1,16 +1,19 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Block Strike Weapons Pack",
-    "author": "virmu0",
+    "fileTypes": "Longer Syringes",
+    "author": "Coggy The Strawberry",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/block_strike_weapons_pack/glock_galaktik.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/block_strike_weapons_pack/baianetspace_rang_2_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/block_strike_weapons_pack/aka47_marshmall.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/longer_syringes/blue_n_green_syringe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/longer_syringes/cyan_syringe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/longer_syringes/pink_syringe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/longer_syringes/red_n_yellow_syringe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/longer_syringes/syringe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/longer_syringes/yellow_syringe.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/block_strike_weapons_pack/block_strike_weapons_pack.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/longer_syringes/longer_syringes.jpg"
   }
 ]
