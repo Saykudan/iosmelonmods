@@ -1,17 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Carnage Marvel NPC",
-    "author": "Baldur_GG",
+    "fileTypes": "Tiger II Tank",
+    "author": "MR_LUKA67",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/carnage_marvel_npc/tentacle_tip.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/carnage_marvel_npc/carnage_tentacle.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/carnage_marvel_npc/carnage_blade.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/carnage_marvel_npc/carnage.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/tiger_ii_tank/untitled_tiger_ii_.melsave"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/carnage_marvel_npc/carnage_marvel_npc.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/tiger_ii_tank/tiger_ii_tank.jpg"
   }
 ]
