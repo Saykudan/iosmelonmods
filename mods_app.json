@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Lokast Robot Mod",
-    "author": "THEAIRT",
+    "fileTypes": "Alarm Clock",
+    "author": "N/A",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/lokast_robot_mod/lokast-robot-mod-by-theairt_1686723406.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/alarm_clock/alarm_clock_1686723868.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/lokast_robot_mod/lokast_robot_mod.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/alarm_clock/alarm_clock.jpg"
   }
 ]
