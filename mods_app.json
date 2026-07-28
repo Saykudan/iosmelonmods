@@ -1,19 +1,15 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Stell Ball Run Characters",
-    "author": "Doggi_Hotdogi",
+    "fileTypes": "Terraria: Bondrewd Armor",
+    "author": "Babajanov_Elyor",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stell_ball_run_characters/task_1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stell_ball_run_characters/task_4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stell_ball_run_characters/task_3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stell_ball_run_characters/task_2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stell_ball_run_characters/steel_ball.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stell_ball_run_characters/joni_jostar.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria__bondrewd_armor/bondrewd.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria__bondrewd_armor/vortex_armour.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stell_ball_run_characters/stell_ball_run_characters.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria__bondrewd_armor/terraria__bondrewd_armor.jpg"
   }
 ]
