@@ -1,18 +1,35 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Stryker Revolver Shotgun",
-    "author": "slsh¹¹³",
+    "fileTypes": "Rebels in the Middle East",
+    "author": "MiCaiTese",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/data",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/metadata",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/part_7b94bc3e-9d91-4fde-8482-3bf4d02323c8",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/firearmsound_71f47745-6ef7-4af0-8678-d2239278b180",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/icon"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/m162.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/mitsubishi_delica.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/toyota_hilux_arm_mg.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/toyota_hilux_arm.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/toyota_hilux_arm2.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/toyota_hilux_at.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/toyota_hilux_mg_.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/toyota_hilux.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/__.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/____________.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/____7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/___.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/___________.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/____________________.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/___________________2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/___________________3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/___________________4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/___________________5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/___________________6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/akm.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/akm2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/m16.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/stryker_revolver_shotgun.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rebels_in_the_middle_east/rebels_in_the_middle_east.jpg"
   }
 ]
