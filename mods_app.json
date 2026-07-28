@@ -1,14 +1,23 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Kitchen Knife",
-    "author": "HleBRe0ff",
+    "fileTypes": "Weapons from People  1",
+    "author": "@ivanhrenov and @belka_jentelmen",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/kitchen_knife/noh_1686803108.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/axe.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/baseball_bat.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/knife.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/planck.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/rod.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/spear.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/stick.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/sword.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/wooden_hammer.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/wrench.melmod"
     ],
     "tag": "Weapons",
     "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/kitchen_knife/kitchen_knife.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/weapons_from_people__1/weapons_from_people__1.jpg"
   }
 ]
