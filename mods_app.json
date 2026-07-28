@@ -1,18 +1,16 @@
 [
   {
     "id": 1000,
-    "fileTypes": "JAW TITAN",
+    "fileTypes": "Nico Robin",
     "author": "melonmodhub.com",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/jaw_titan/jaw_titan_.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/jaw_titan/jaw_titan_leg_1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/jaw_titan/jaw_titan_leg_2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/jaw_titan/jaw_titan_mouth.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/jaw_titan/rebuild_jaw_titan.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/nico_robin/lower_arm.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/nico_robin/nicorobin.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/nico_robin/upper_arm.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/jaw_titan/jaw_titan.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/nico_robin/nico_robin.jpg"
   }
 ]
