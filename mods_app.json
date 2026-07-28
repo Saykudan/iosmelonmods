@@ -1,15 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Grenade Launcher",
-    "author": "aimXSD",
+    "fileTypes": "An assassin for hire",
+    "author": "Xpl0ITeD_0",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/grenade_launcher/gun.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/grenade_launcher/wooden_gun_2.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/an_assassin_for_hire/mech.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/an_assassin_for_hire/naemnik.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/an_assassin_for_hire/pero_pod_rebro_2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/an_assassin_for_hire/pero_pod_rebro.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/an_assassin_for_hire/pistol.melmod"
     ],
-    "tag": "Weapons",
-    "tagOrder": 3,
+    "tag": "NPC",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/grenade_launcher/grenade_launcher.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/an_assassin_for_hire/an_assassin_for_hire.jpg"
   }
 ]
