@@ -1,17 +1,24 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Medusa",
-    "author": "@yubelyash",
+    "fileTypes": "Shastasaurus",
+    "author": "@gamerhafizgamecute393",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/medusa/medusa.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/medusa/snake_tail1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/medusa/tail.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/medusa/medusa_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shasta_8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/sardine.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/sardine.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shastasaurus.melsave"
     ],
-    "tag": "NPC",
+    "tag": "Dinosaurs",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/medusa/medusa.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Dinosaurs/shastasaurus/shastasaurus.jpg"
   }
 ]
