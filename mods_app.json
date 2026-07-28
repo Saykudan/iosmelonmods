@@ -1,19 +1,23 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Mark vs Cecil",
+    "fileTypes": "REXPLODE vs INVINCIBLE",
     "author": "KIM:)",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mark_vs_cecil/cecil_stedman_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mark_vs_cecil/mark_grayson__invincible_suit___battle_damaged_by_reanimen_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mark_vs_cecil/reanimen.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mark_vs_cecil/cecil.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mark_vs_cecil/invinciblerbd.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mark_vs_cecil/reanimen.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/mark_grayson__retro_mark___battle_damaged_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rex_sloan__rexplode_suit___fatality_wounded___glowing_face_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rex_sloan__rexplode_suit___fatality_wounded___glowing_hands_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rex_sloan__rexplode_suit_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rexplode_s_explosives__glowing_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rexplode_s_explosives.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/invinciblelbmbd.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rexplode.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rexplodebd.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rexplodebd2.melsave"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mark_vs_cecil/mark_vs_cecil.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/rexplode_vs_invincible/rexplode_vs_invincible.jpg"
   }
 ]
