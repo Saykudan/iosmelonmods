@@ -1,21 +1,19 @@
 [
   {
     "id": 1000,
-    "fileTypes": "ROBOT, MONSTER GIRL and MAULER TWINS",
-    "author": "KIM:)",
+    "fileTypes": "chill guy",
+    "author": "hhhh",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/mauler.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/monster_girl__monster_form_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/robot__drone___battle_damaged_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/robot__drone_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/mauller_twins.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/monster_girl.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/robotd.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/robotdbd.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/chill_guy/chill_guy_2.0_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/chill_guy/chill_guy.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/chill_guy/chill_guy_1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/chill_guy/chill_guy_2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/chill_guy/chill_guy_3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/chill_guy/desktop.ini"
     ],
-    "tag": "Superheroes",
-    "tagOrder": 1,
+    "tag": "NPC",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Superheroes/robot__monster_girl_and_mauler_twins/robot__monster_girl_and_mauler_twins.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/chill_guy/chill_guy.jpg"
   }
 ]
