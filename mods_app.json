@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Type-56",
-    "author": "Imperialq",
+    "fileTypes": "Radio",
+    "author": "N/A",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/type-56/type56_1736132498.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/radio/radio_1724902819.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/type-56/type-56.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/radio/radio.jpg"
   }
 ]
