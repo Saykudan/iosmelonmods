@@ -1,14 +1,16 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Jotun",
-    "author": "DozzAloneRise",
+    "fileTypes": "Animals By KaKTyC",
+    "author": "KaKTyC",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/jotun/jotun-from-the-film-ritual_1686647102.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/animals_by_kaktyc/chicken.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/animals_by_kaktyc/penguin.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/animals_by_kaktyc/snake.melmod"
     ],
-    "tag": "Monsters",
+    "tag": "NPC",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Monsters/jotun/jotun.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/NPC/animals_by_kaktyc/animals_by_kaktyc.jpg"
   }
 ]
