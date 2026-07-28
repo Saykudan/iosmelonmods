@@ -1,14 +1,19 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Magnet Gun",
-    "author": "Klown66",
+    "fileTypes": "SF Weapons Pack",
+    "author": "SanFloris",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/magnet_gun/magnet_gun_1686818745.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/sf_weapons_pack/ak74.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/sf_weapons_pack/benelli_nova.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/sf_weapons_pack/glock_17.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/sf_weapons_pack/mac10.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/sf_weapons_pack/makarov.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/sf_weapons_pack/p90.melmod"
     ],
     "tag": "Weapons",
     "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/magnet_gun/magnet_gun.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/sf_weapons_pack/sf_weapons_pack.jpg"
   }
 ]
