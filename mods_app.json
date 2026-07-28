@@ -1,16 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Kyojuro rengoku + Sword",
-    "author": "Pulp Melon",
+    "fileTypes": "Zeruel",
+    "author": "@Mlemod",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kyojuro_rengoku___sword/flame_nichirin_sword.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kyojuro_rengoku___sword/kyojuro_rengoku_by_sour_top.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kyojuro_rengoku___sword/sheath.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/zeruel/zeruel_1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/zeruel/zeruel_2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/zeruel/zeruel_3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/zeruel/zeruel_laser.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/zeruel/zeruel_.melsave"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kyojuro_rengoku___sword/kyojuro_rengoku___sword.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/zeruel/zeruel.jpg"
   }
 ]
