@@ -1,25 +1,17 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Marvel Pack Part 1 – The Avengers",
-    "author": "@fikistr_lalka and @Viktorkorneplod66",
+    "fileTypes": "MetalHammer",
+    "author": "H²o (and slsh¹¹³)",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/iron_man.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/_______________.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/____________.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/_________________.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/_______.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/_________.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/______________.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/____________.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/____1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/____.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/____________.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/________.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/metalhammer/data",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/metalhammer/metadata",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/metalhammer/part_d273b490-9ff6-41c1-adee-9e4da1f79e4b",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/metalhammer/icon"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/marvel_pack_part_1___the_avengers/marvel_pack_part_1___the_avengers.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/metalhammer/metalhammer.jpg"
   }
 ]
