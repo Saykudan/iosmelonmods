@@ -1,15 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Operative Ε-11 SCP:Contaiment Breach",
+    "fileTypes": "The Fighter SCP:CB",
     "author": "Ryurikovich230309",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/operative__-11_scp_contaiment_breach/fnp90.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/operative__-11_scp_contaiment_breach/ntf_unit.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/the_fighter_scp_cb/apple-ci_1694587528.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/operative__-11_scp_contaiment_breach/operative__-11_scp_contaiment_breach.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/the_fighter_scp_cb/the_fighter_scp_cb.jpg"
   }
 ]
