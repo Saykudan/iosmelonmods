@@ -1,29 +1,17 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Sukuna JJK",
-    "author": "MHReactYT (MyHonestReaction)",
+    "fileTypes": "Culling Games JJK",
+    "author": "GianGames [OFFICIAL]",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/dismantle_1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/domain_damage_sukuna.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/malevolent_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/meguna_qwerty1.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/r_slash_f1_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/r_slash_f2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/r_slash_f4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/r_slash_f5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/slash_f1.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/slash_f2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/slash_f3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/slash_f4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/slash_f5.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/star_visual.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/sukuna_.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/sukuna_clothe.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/culling_games_jjk/choso.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/culling_games_jjk/cursed.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/culling_games_jjk/yuji_culling.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/culling_games_jjk/yuta_culling.melmod"
     ],
     "tag": "Anime",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/sukuna_jjk/sukuna_jjk.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Anime/culling_games_jjk/culling_games_jjk.jpg"
   }
 ]
