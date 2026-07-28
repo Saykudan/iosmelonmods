@@ -1,15 +1,19 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Players make firearms",
-    "author": "melonmodhub.com",
+    "fileTypes": "Deadpool &wolverine",
+    "author": "@AROM@MnMs",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/players_make_firearms/falmgb_.melsave",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/players_make_firearms/falmogaiban_.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/deadpool__wolverine/deadpool.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/deadpool__wolverine/deadpool_bymnms.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/deadpool__wolverine/deadpool_by_mnms__1_.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/deadpool__wolverine/deadpool_by_mnms.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/deadpool__wolverine/wade_wilson_by_mnms.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/deadpool__wolverine/wolverine_by_arom.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/players_make_firearms/players_make_firearms.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/deadpool__wolverine/deadpool__wolverine.jpg"
   }
 ]
