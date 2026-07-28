@@ -1,15 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Invincible Angstrom Levy",
-    "author": "Hinatin",
+    "fileTypes": "Stryker Revolver Shotgun",
+    "author": "slsh¹¹³",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/invincible_angstrom_levy/angstrom_levy.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/invincible_angstrom_levy/drone_orb.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/data",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/metadata",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/part_7b94bc3e-9d91-4fde-8482-3bf4d02323c8",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/firearmsound_71f47745-6ef7-4af0-8678-d2239278b180",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/icon"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/invincible_angstrom_levy/invincible_angstrom_levy.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/stryker_revolver_shotgun/stryker_revolver_shotgun.jpg"
   }
 ]
