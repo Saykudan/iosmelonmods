@@ -1,14 +1,17 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Mac the shark Gun",
-    "author": "N/A",
+    "fileTypes": "Soviet guns mod",
+    "author": "biden_official55",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mac_the_shark_gun/mac_the_shark_weapon_1686816604.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/soviet_guns_mod/ak_12.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/soviet_guns_mod/ak_47.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/soviet_guns_mod/ak_74_m.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/soviet_guns_mod/aksu_74.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/mac_the_shark_gun/mac_the_shark_gun.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/soviet_guns_mod/soviet_guns_mod.jpg"
   }
 ]
