@@ -1,14 +1,16 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Simple Gray Car",
-    "author": "#NA",
+    "fileTypes": "Smooth Car Mod",
+    "author": "N/A",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/simple_gray_car/simple-gray-car_1686823105.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/smooth_car_mod/first_car.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/smooth_car_mod/1st_car.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/smooth_car_mod/1st_car_.melsave"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/simple_gray_car/simple_gray_car.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/smooth_car_mod/smooth_car_mod.jpg"
   }
 ]
