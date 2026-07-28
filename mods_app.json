@@ -1,18 +1,18 @@
 [
   {
     "id": 1000,
-    "fileTypes": "MK18",
-    "author": "MiCaiTese",
+    "fileTypes": "MS16 Assault Rifle",
+    "author": "slsh¹¹³",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/mk18/data",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/mk18/metadata",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/mk18/part_6c282ba4-24f3-4a3a-b918-8e4db048a517",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/mk18/firearmsound_bffa0f06-1c0a-4a4e-9aaf-a7d64c1b8235",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/mk18/icon"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ms16_assault_rifle/data",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ms16_assault_rifle/metadata",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ms16_assault_rifle/part_8a8c2687-ace6-49d8-9dcc-96e9ab5c4407",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ms16_assault_rifle/firearmsound_b2a116db-7e56-4a03-9d27-4f29c1ac4149",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ms16_assault_rifle/icon"
     ],
     "tag": "Weapons",
     "tagOrder": 3,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/mk18/mk18.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/ms16_assault_rifle/ms16_assault_rifle.jpg"
   }
 ]
