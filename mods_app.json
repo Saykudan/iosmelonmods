@@ -1,21 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Terraria Weapons",
-    "author": "vomarhs",
+    "fileTypes": "Thor's Hammer",
+    "author": "kupull777",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/muramasa.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/psycho_knife.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/the_horsemans_blade.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/arkhalis.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/phaseblade.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/nights_edge.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/copper_shortsword.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/classy_cane.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/thor_s_hammer/thors_hammer_1686807324.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/terraria_weapons/terraria_weapons.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/thor_s_hammer/thor_s_hammer.jpg"
   }
 ]
