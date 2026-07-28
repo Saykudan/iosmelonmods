@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Kitchen Knife from People",
-    "author": "Ggggggskak",
+    "fileTypes": "Kitchen Knife",
+    "author": "HleBRe0ff",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kitchen_knife_from_people/kitchen-knife-from-people-playground_1686802561.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kitchen_knife/noh_1686803108.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kitchen_knife_from_people/kitchen_knife_from_people.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/kitchen_knife/kitchen_knife.jpg"
   }
 ]
