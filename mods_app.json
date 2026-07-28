@@ -1,24 +1,24 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Mod Pack for the Solar System",
-    "author": "Space6686",
+    "fileTypes": "Two-storey house with interior",
+    "author": "genry83",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/earth.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/jupiter.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/mars.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/mercury.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/moon.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/neptune.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/pluto.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/saturn.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/sun_star.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/uranus.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/venus.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl2.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl3.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl4.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl5.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl6.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl7.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl8.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/pl9.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/____________.melsave",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/___.melsave"
     ],
     "tag": "Build",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/mod_pack_for_the_solar_system/mod_pack_for_the_solar_system.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Build/two-storey_house_with_interior/two-storey_house_with_interior.jpg"
   }
 ]
