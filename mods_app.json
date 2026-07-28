@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Super Idol Car",
+    "fileTypes": "Simple Gray Car",
     "author": "#NA",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/super_idol_car/super-idol-car_1686822925.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/simple_gray_car/simple-gray-car_1686823105.melmod"
     ],
     "tag": "Vehicles",
     "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/super_idol_car/super_idol_car.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/simple_gray_car/simple_gray_car.jpg"
   }
 ]
