@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Piano",
-    "author": "MeanToon",
+    "fileTypes": "Trailer truck for",
+    "author": "Timoshka2135",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/piano/piano_by_meantoon_1686646234.melsave"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/trailer_truck_for/truck_egor_.melsave"
     ],
-    "tag": "Objects",
-    "tagOrder": 50,
+    "tag": "Vehicles",
+    "tagOrder": 4,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/piano/piano.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Vehicles/trailer_truck_for/trailer_truck_for.jpg"
   }
 ]
