@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Bloody Knife",
+    "fileTypes": "Bloody Axe",
     "author": "boznie red",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/bloody_knife/bloody-knife_1706067677.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/bloody_axe/bloody-axe-by-boznie-red_1686795913.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/bloody_knife/bloody_knife.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/bloody_axe/bloody_axe.jpg"
   }
 ]
