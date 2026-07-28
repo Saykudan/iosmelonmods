@@ -1,40 +1,20 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Pack for food by cosmocato",
-    "author": "cosmocato",
+    "fileTypes": "Pack on balls!",
+    "author": "Larik_lol",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/arbuz.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/aybloko.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/burger_3xkotleta.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/burger_givno.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/burger_red.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/burger.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/chesnok.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/chicken.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/chips_2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/chips_3.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/chips_4.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/chips.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/cucumber.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/granat.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/hotdog.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/kirieshki.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/kokakola_2.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/kokakola.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/luk.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/morkov.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/pelimen.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/pizza_kusok.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/pizza.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/ponchik.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/soli.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/stol_noj.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/sushi.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/american_football.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/baseball.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/basketball.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/football.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/golfball.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/tennis_ball.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/volleyball.melmod"
     ],
     "tag": "Objects",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_for_food_by_cosmocato/pack_for_food_by_cosmocato.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Objects/pack_on_balls_/pack_on_balls_.jpg"
   }
 ]
