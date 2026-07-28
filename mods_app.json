@@ -1,15 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "M16 and Glock G22 from the Standoff 2",
-    "author": "Alibysha",
+    "fileTypes": "Weapon - shotgun \"Mossberg 930\"",
+    "author": "Klown66",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/m16_and_glock_g22_from_the_standoff_2/m16.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/m16_and_glock_g22_from_the_standoff_2/glock_g22.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/weapon_-_shotgun__mossberg_930_/mossberg-930_1776493960.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/m16_and_glock_g22_from_the_standoff_2/m16_and_glock_g22_from_the_standoff_2.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/weapon_-_shotgun__mossberg_930_/weapon_-_shotgun__mossberg_930_.jpg"
   }
 ]
