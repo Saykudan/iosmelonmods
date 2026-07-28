@@ -1,14 +1,15 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Nika [Luffy in Gear 5]",
-    "author": "bakifags",
+    "fileTypes": "Pucci and Whitesnake",
+    "author": "T3mpRan",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/nika__luffy_in_gear_5_/luffygear5thinjured_1776498205.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/pucci_and_whitesnake/pucciwsbytr.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/pucci_and_whitesnake/wsbytr.melmod"
     ],
     "tag": "Sans",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/nika__luffy_in_gear_5_/nika__luffy_in_gear_5_.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Sans/pucci_and_whitesnake/pucci_and_whitesnake.jpg"
   }
 ]
