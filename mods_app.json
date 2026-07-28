@@ -1,16 +1,17 @@
 [
   {
     "id": 1000,
-    "fileTypes": "Laser guns by Cosmocato",
-    "author": "Cosmocato",
+    "fileTypes": "T-72BM",
+    "author": "Trixysx",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/laser_guns_by_cosmocato/blasterooo.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/laser_guns_by_cosmocato/blasterrr.melmod",
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/laser_guns_by_cosmocato/blasterss.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/t-72bm/pktt72.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/t-72bm/puhat72.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/t-72bm/t72bm.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/t-72bm/t72ver3_.melsave"
     ],
-    "tag": "Weapons",
-    "tagOrder": 3,
+    "tag": "Military",
+    "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Weapons/laser_guns_by_cosmocato/laser_guns_by_cosmocato.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/t-72bm/t-72bm.jpg"
   }
 ]
