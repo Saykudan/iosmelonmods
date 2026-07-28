@@ -1,14 +1,14 @@
 [
   {
     "id": 1000,
-    "fileTypes": "The Fighter SCP:CB",
-    "author": "Ryurikovich230309",
+    "fileTypes": "MTF From the SCP universe",
+    "author": "hoonsownofficial",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/the_fighter_scp_cb/apple-ci_1694587528.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/mtf_from_the_scp_universe/mtf-sold-1_1694587601.melmod"
     ],
     "tag": "Military",
     "tagOrder": 50,
     "description": "All rights of this mod belong to their respective owners. If you enjoy using our apps, kindly take a moment to rate them. Your feedback is highly appreciated and helps us improve our applications.",
-    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/the_fighter_scp_cb/the_fighter_scp_cb.jpg"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/refs/heads/main/Military/mtf_from_the_scp_universe/mtf_from_the_scp_universe.jpg"
   }
 ]
