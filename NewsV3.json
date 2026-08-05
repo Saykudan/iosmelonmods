@@ -1,8 +1,46 @@
 {
-  "selectedIdToShow": 8,
+  "selectedIdToShow": 9,
   "showBanner": false,
-  "showSelectedNews": false,
+  "showSelectedNews": true,
   "newsItems": [
+    {
+      "id": 9,
+      "title": "☀️ Summer Giveaway Contest 2026! 🍉",
+      "description": "Summer is here and so is our biggest giveaway yet! To celebrate the huge new update — hundreds of new mods, a redesigned News section, a smoother editor, and tons of fixes — we're giving away yearly and monthly subscriptions!",
+      "buttonType": 1,
+      "showDetails": false,
+      "date": "2026-08-01",
+      "paragraphs": [
+        {
+          "subTitle": "A Huge Thank You",
+          "content": "This community keeps growing thanks to you. We've spent the last months rebuilding big parts of the app — more mods than ever, faster loading, multi-file mod submissions, and a fresh look. This contest is our way of saying thanks!"
+        },
+        {
+          "subTitle": "How to Enter",
+          "content": "For a chance to win a yearly or monthly subscription this summer, follow these simple steps."
+        },
+        {
+          "subTitle": "Step 1",
+          "content": "Make sure you are using the latest version of the Melon Mods app. You can check your current version in the app settings."
+        },
+        {
+          "subTitle": "Step 2",
+          "content": "Turn on notifications in the app settings so you don't miss the winners announcement."
+        },
+        {
+          "subTitle": "Step 3",
+          "content": "Share your feedback with us! Tell us what features you'd like to see, what mods you enjoy most, or any suggestions for improvement. You can reach us through Contact Us in the app's Settings, or share your thoughts in an App Store review — whichever you prefer. Don't forget to include your nickname so we can identify you!"
+        },
+        {
+          "subTitle": "Contest Period",
+          "content": "The Summer contest will run from August 1st, 2026 to September 15th, 2026 (one and a half months)."
+        },
+        {
+          "subTitle": "Winner Announcement",
+          "content": "Winners will be announced in the app on September 18th, 2026. Good luck to everyone, and enjoy your summer!"
+        }
+      ]
+    },
     {
       "id": 8,
       "title": "🎉 Christmas Giveaway Winners Announcement!",
