@@ -1,0 +1,90 @@
+{
+  "appLovin": {
+    "appOpenAdUnitID": "",
+    "interstitialAdUnitID": "",
+    "rewardedAdUnitID": "",
+    "nativeAdUnitID": ""
+  },
+  "admob": {
+    "appOpenAdUnitID": "ca-app-pub-4428949430819505/1213057313",
+    "interstitialAdUnitID": "ca-app-pub-4428949430819505/2488321055",
+    "rewardedAdUnitID": "ca-app-pub-4428949430819505/1679403970",
+    "nativeAdUnitID": "ca-app-pub-4428949430819505/8722556918"
+  },
+  "yandex": {
+    "appOpenAdUnitID": "R-M-18342133-3",
+    "interstitialAdUnitID": "R-M-18342133-2",
+    "rewardedAdUnitID": "R-M-18342133-4",
+    "nativeAdUnitID": "R-M-18342133-1"
+  },
+  "countryTargeting": {
+    "enabled": true,
+    "rules": [
+      {
+        "countries": [
+          "PK",
+          "BD",
+          "VN",
+          "PH",
+          "DO",
+          "EG",
+          "IQ",
+          "CO",
+          "DZ",
+          "TN",
+          "YE",
+          "LY"
+        ],
+        "name": "LevelPlay Countries",
+        "adNetworkSelection": {
+          "appOpenAdsType": "admob",
+          "interstitialAdsType": "levelPlay",
+          "rewardedAdsType": "levelPlay",
+          "nativeAdsType": "levelPlay"
+        }
+      },
+      {
+        "countries": [
+          "RU",
+          "BY",
+          "KZ",
+          "UZ",
+          "TJ",
+          "KG",
+          "TM",
+          "AZ",
+          "AM",
+          "GE",
+          "MD",
+          "UA"
+        ],
+        "name": "CIS Countries",
+        "adNetworkSelection": {
+          "appOpenAdsType": "yandex",
+          "interstitialAdsType": "yandex",
+          "rewardedAdsType": "yandex",
+          "nativeAdsType": "yandex"
+        }
+      }
+    ],
+    "defaultSelection": {
+      "appOpenAdsType": "admob",
+      "interstitialAdsType": "admob",
+      "rewardedAdsType": "admob",
+      "nativeAdsType": "admob"
+    }
+  },
+  "adNetworkSelection": {
+    "appOpenAdsType": "admob",
+    "interstitialAdsType": "admob",
+    "rewardedAdsType": "admob",
+    "nativeAdsType": "admob"
+  },
+  "levelPlay": {
+    "appKey": "278dbd20d",
+    "interstitialAdUnitID": "x4o898y3qvnqfzmw",
+    "rewardedAdUnitID": "kw5ps3k4xtvbi5a5",
+    "nativeAdUnitID": "qzm84dsvmsre6stz",
+    "nativePlacementName": ""
+  }
+}
